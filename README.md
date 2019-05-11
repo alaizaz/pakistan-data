@@ -6,5 +6,7 @@ Hence I invested resources and effort to made this data available to public for 
 
 This data contains the data of census conducted in 2017. 
 
+More data will be hosted here.
+
 Source: Pakistan Bureau of Statistics
 http://www.pbs.gov.pk/content/block-wise-provisional-summary-results-6th-population-housing-census-2017-january-03-2018
