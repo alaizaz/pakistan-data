@@ -1,0 +1,3137 @@
+PID,Province,DID,District,Crop,Year,(Area in '000' Hectares),"(Production in ""000""Tonnes)"
+1,Balochistan,125,Awaran,Wheat,1981-82,0,0
+1,Balochistan,113,Barkhan,Wheat,1981-82,0,0
+1,Balochistan,119,Bolan,Wheat,1981-82,0,0
+1,Balochistan,15,Chagai,Wheat,1981-82,5.5,4.4
+1,Balochistan,19,DERA BUGTI,Wheat,1981-82,0,0
+1,Balochistan,129,Gwadar,Wheat,1981-82,0.3,0.4
+1,Balochistan,117,JAFARABAD,Wheat,1981-82,0,0
+1,Balochistan,120,JHAL MAGSI,Wheat,1981-82,0,0
+1,Balochistan,128,KACHHI,Wheat,1981-82,5.8,8.4
+1,Balochistan,123,Kalat,Wheat,1981-82,25,23.5
+1,Balochistan,126,Kharan,Wheat,1981-82,5.5,3.9
+1,Balochistan,124,Khuzdar,Wheat,1981-82,3.5,3.6
+1,Balochistan,13,KILLA ABDULLAH,Wheat,1981-82,0,0
+1,Balochistan,114,KILLA SAIFULLAH ,Wheat,1981-82,0,0
+1,Balochistan,18,Kohlu,Wheat,1981-82,6.2,3.9
+1,Balochistan,121,Lasbela,Wheat,1981-82,0.7,0.7
+1,Balochistan,111,Loralai,Wheat,1981-82,13.3,13.6
+1,Balochistan,122,Mastung,Wheat,1981-82,0,0
+1,Balochistan,112,MUSA KHEL,Wheat,1981-82,0,0
+1,Balochistan,118,NASEERABAD,Wheat,1981-82,111.3,209.4
+1,Balochistan,130,PANJGUR,Wheat,1981-82,0.2,0.1
+1,Balochistan,12,Pishin,Wheat,1981-82,17.6,18.1
+1,Balochistan,11,Quetta,Wheat,1981-82,2,2.5
+1,Balochistan,16,Sibi,Wheat,1981-82,10,16.1
+1,Balochistan,134,Tomboo,Wheat,1981-82,0,0
+1,Balochistan,135,Turbat,Wheat,1981-82,1.5,1.5
+1,Balochistan,115,Zhob,Wheat,1981-82,7.7,8.1
+1,Balochistan,110,Ziarat,Wheat,1981-82,0,0
+1,Balochistan,125,Awaran,Wheat,1982-83,0,0
+1,Balochistan,113,Barkhan,Wheat,1982-83,0,0
+1,Balochistan,119,Bolan,Wheat,1982-83,0,0
+1,Balochistan,15,Chagai,Wheat,1982-83,3.4,3.2
+1,Balochistan,19,DERA BUGTI,Wheat,1982-83,0,0
+1,Balochistan,129,Gwadar,Wheat,1982-83,0.5,0.4
+1,Balochistan,117,JAFARABAD,Wheat,1982-83,0,0
+1,Balochistan,120,JHAL MAGSI,Wheat,1982-83,0,0
+1,Balochistan,128,KACHHI,Wheat,1982-83,15.1,15.8
+1,Balochistan,123,Kalat,Wheat,1982-83,34,38.4
+1,Balochistan,126,Kharan,Wheat,1982-83,6,4.7
+1,Balochistan,124,Khuzdar,Wheat,1982-83,50.9,60.9
+1,Balochistan,13,KILLA ABDULLAH,Wheat,1982-83,0,0
+1,Balochistan,114,KILLA SAIFULLAH ,Wheat,1982-83,0,0
+1,Balochistan,18,Kohlu,Wheat,1982-83,16.2,27.4
+1,Balochistan,121,Lasbela,Wheat,1982-83,0.3,0.5
+1,Balochistan,111,Loralai,Wheat,1982-83,15,17
+1,Balochistan,122,Mastung,Wheat,1982-83,0,0
+1,Balochistan,112,MUSA KHEL,Wheat,1982-83,0,0
+1,Balochistan,118,NASEERABAD,Wheat,1982-83,93.1,185
+1,Balochistan,130,PANJGUR,Wheat,1982-83,1.2,0.8
+1,Balochistan,12,Pishin,Wheat,1982-83,20.8,27.3
+1,Balochistan,11,Quetta,Wheat,1982-83,2.3,3.4
+1,Balochistan,16,Sibi,Wheat,1982-83,11.4,19.1
+1,Balochistan,134,Tomboo,Wheat,1982-83,0,0
+1,Balochistan,135,Turbat,Wheat,1982-83,1.6,1.5
+1,Balochistan,115,Zhob,Wheat,1982-83,7.9,8.8
+1,Balochistan,110,Ziarat,Wheat,1982-83,0,0
+1,Balochistan,125,Awaran,Wheat,1983-84,0,0
+1,Balochistan,113,Barkhan,Wheat,1983-84,0,0
+1,Balochistan,119,Bolan,Wheat,1983-84,0,0
+1,Balochistan,15,Chagai,Wheat,1983-84,2.7,3.1
+1,Balochistan,19,DERA BUGTI,Wheat,1983-84,0,0
+1,Balochistan,129,Gwadar,Wheat,1983-84,0.5,0.4
+1,Balochistan,117,JAFARABAD,Wheat,1983-84,0,0
+1,Balochistan,120,JHAL MAGSI,Wheat,1983-84,0,0
+1,Balochistan,128,KACHHI,Wheat,1983-84,4.2,7.4
+1,Balochistan,123,Kalat,Wheat,1983-84,35,42.4
+1,Balochistan,126,Kharan,Wheat,1983-84,6.1,4.8
+1,Balochistan,124,Khuzdar,Wheat,1983-84,47.8,58.7
+1,Balochistan,13,KILLA ABDULLAH,Wheat,1983-84,0,0
+1,Balochistan,114,KILLA SAIFULLAH ,Wheat,1983-84,0,0
+1,Balochistan,18,Kohlu,Wheat,1983-84,16.5,13.6
+1,Balochistan,121,Lasbela,Wheat,1983-84,0.7,1
+1,Balochistan,111,Loralai,Wheat,1983-84,22.4,26.9
+1,Balochistan,122,Mastung,Wheat,1983-84,0,0
+1,Balochistan,112,MUSA KHEL,Wheat,1983-84,0,0
+1,Balochistan,118,NASEERABAD,Wheat,1983-84,111.3,233.3
+1,Balochistan,130,PANJGUR,Wheat,1983-84,0.5,0.4
+1,Balochistan,12,Pishin,Wheat,1983-84,20.9,28.2
+1,Balochistan,11,Quetta,Wheat,1983-84,1.6,2.9
+1,Balochistan,16,Sibi,Wheat,1983-84,12.2,20.5
+1,Balochistan,134,Tomboo,Wheat,1983-84,0,0
+1,Balochistan,135,Turbat,Wheat,1983-84,1.1,1.3
+1,Balochistan,115,Zhob,Wheat,1983-84,7.2,8.6
+1,Balochistan,110,Ziarat,Wheat,1983-84,0,0
+1,Balochistan,125,Awaran,Wheat,1984-85,0,0
+1,Balochistan,113,Barkhan,Wheat,1984-85,0,0
+1,Balochistan,119,Bolan,Wheat,1984-85,0,0
+1,Balochistan,15,Chagai,Wheat,1984-85,3.2,3.4
+1,Balochistan,19,DERA BUGTI,Wheat,1984-85,0,0
+1,Balochistan,129,Gwadar,Wheat,1984-85,0.5,0.3
+1,Balochistan,117,JAFARABAD,Wheat,1984-85,0,0
+1,Balochistan,120,JHAL MAGSI,Wheat,1984-85,0,0
+1,Balochistan,128,KACHHI,Wheat,1984-85,14,16.8
+1,Balochistan,123,Kalat,Wheat,1984-85,19,27.4
+1,Balochistan,126,Kharan,Wheat,1984-85,3.5,2.6
+1,Balochistan,124,Khuzdar,Wheat,1984-85,52.8,65.2
+1,Balochistan,13,KILLA ABDULLAH,Wheat,1984-85,0,0
+1,Balochistan,114,KILLA SAIFULLAH ,Wheat,1984-85,0,0
+1,Balochistan,18,Kohlu,Wheat,1984-85,17,14.3
+1,Balochistan,121,Lasbela,Wheat,1984-85,0.5,1
+1,Balochistan,111,Loralai,Wheat,1984-85,24,29.6
+1,Balochistan,122,Mastung,Wheat,1984-85,0,0
+1,Balochistan,112,MUSA KHEL,Wheat,1984-85,0,0
+1,Balochistan,118,NASEERABAD,Wheat,1984-85,101.6,213.6
+1,Balochistan,130,PANJGUR,Wheat,1984-85,0.7,0.6
+1,Balochistan,12,Pishin,Wheat,1984-85,19.2,28.5
+1,Balochistan,11,Quetta,Wheat,1984-85,1.7,3.1
+1,Balochistan,16,Sibi,Wheat,1984-85,11.7,20.1
+1,Balochistan,134,Tomboo,Wheat,1984-85,0,0
+1,Balochistan,135,Turbat,Wheat,1984-85,0.6,0.7
+1,Balochistan,115,Zhob,Wheat,1984-85,7.4,9.9
+1,Balochistan,110,Ziarat,Wheat,1984-85,0,0
+1,Balochistan,125,Awaran,Wheat,1985-86,0,0
+1,Balochistan,113,Barkhan,Wheat,1985-86,0,0
+1,Balochistan,119,Bolan,Wheat,1985-86,0,0
+1,Balochistan,15,Chagai,Wheat,1985-86,4.5,3.9
+1,Balochistan,19,DERA BUGTI,Wheat,1985-86,0,0
+1,Balochistan,129,Gwadar,Wheat,1985-86,0.5,0.3
+1,Balochistan,117,JAFARABAD,Wheat,1985-86,0,0
+1,Balochistan,120,JHAL MAGSI,Wheat,1985-86,0,0
+1,Balochistan,128,KACHHI,Wheat,1985-86,11.7,15.5
+1,Balochistan,123,Kalat,Wheat,1985-86,15.6,21.2
+1,Balochistan,126,Kharan,Wheat,1985-86,4.5,2.8
+1,Balochistan,124,Khuzdar,Wheat,1985-86,39.8,46
+1,Balochistan,13,KILLA ABDULLAH,Wheat,1985-86,0,0
+1,Balochistan,114,KILLA SAIFULLAH ,Wheat,1985-86,0,0
+1,Balochistan,18,Kohlu,Wheat,1985-86,13.6,11.9
+1,Balochistan,121,Lasbela,Wheat,1985-86,0.9,1.6
+1,Balochistan,111,Loralai,Wheat,1985-86,13.5,18.2
+1,Balochistan,122,Mastung,Wheat,1985-86,0,0
+1,Balochistan,112,MUSA KHEL,Wheat,1985-86,0,0
+1,Balochistan,118,NASEERABAD,Wheat,1985-86,106.4,232.2
+1,Balochistan,130,PANJGUR,Wheat,1985-86,0.5,0.4
+1,Balochistan,12,Pishin,Wheat,1985-86,15.2,25.4
+1,Balochistan,11,Quetta,Wheat,1985-86,1.7,3.3
+1,Balochistan,16,Sibi,Wheat,1985-86,13,23.1
+1,Balochistan,134,Tomboo,Wheat,1985-86,0,0
+1,Balochistan,135,Turbat,Wheat,1985-86,0.1,0.2
+1,Balochistan,115,Zhob,Wheat,1985-86,6.1,6.7
+1,Balochistan,110,Ziarat,Wheat,1985-86,0,0
+1,Balochistan,125,Awaran,Wheat,1986-87,0,0
+1,Balochistan,113,Barkhan,Wheat,1986-87,0,0
+1,Balochistan,119,Bolan,Wheat,1986-87,0,0
+1,Balochistan,15,Chagai,Wheat,1986-87,3.9,4.3
+1,Balochistan,19,DERA BUGTI,Wheat,1986-87,0,0
+1,Balochistan,129,Gwadar,Wheat,1986-87,0.4,0.4
+1,Balochistan,117,JAFARABAD,Wheat,1986-87,0,0
+1,Balochistan,120,JHAL MAGSI,Wheat,1986-87,0,0
+1,Balochistan,128,KACHHI,Wheat,1986-87,13,17.2
+1,Balochistan,123,Kalat,Wheat,1986-87,24.1,32.9
+1,Balochistan,126,Kharan,Wheat,1986-87,3.7,2.4
+1,Balochistan,124,Khuzdar,Wheat,1986-87,45.5,55.9
+1,Balochistan,13,KILLA ABDULLAH,Wheat,1986-87,0,0
+1,Balochistan,114,KILLA SAIFULLAH ,Wheat,1986-87,0,0
+1,Balochistan,18,Kohlu,Wheat,1986-87,12,12.3
+1,Balochistan,121,Lasbela,Wheat,1986-87,0.9,1.7
+1,Balochistan,111,Loralai,Wheat,1986-87,21.4,26.2
+1,Balochistan,122,Mastung,Wheat,1986-87,0,0
+1,Balochistan,112,MUSA KHEL,Wheat,1986-87,0,0
+1,Balochistan,118,NASEERABAD,Wheat,1986-87,0,0
+1,Balochistan,130,PANJGUR,Wheat,1986-87,2.5,2.1
+1,Balochistan,12,Pishin,Wheat,1986-87,21.5,39.7
+1,Balochistan,11,Quetta,Wheat,1986-87,2,3.7
+1,Balochistan,16,Sibi,Wheat,1986-87,13.3,23.2
+1,Balochistan,134,Tomboo,Wheat,1986-87,120,276
+1,Balochistan,135,Turbat,Wheat,1986-87,0.3,0.4
+1,Balochistan,115,Zhob,Wheat,1986-87,9,12
+1,Balochistan,110,Ziarat,Wheat,1986-87,0.2,0.3
+1,Balochistan,125,Awaran,Wheat,1987-88,0,0
+1,Balochistan,113,Barkhan,Wheat,1987-88,0,0
+1,Balochistan,119,Bolan,Wheat,1987-88,0,0
+1,Balochistan,15,Chagai,Wheat,1987-88,1.1,2.2
+1,Balochistan,19,DERA BUGTI,Wheat,1987-88,0,0
+1,Balochistan,129,Gwadar,Wheat,1987-88,0.2,0.2
+1,Balochistan,117,JAFARABAD,Wheat,1987-88,56.4,132.5
+1,Balochistan,120,JHAL MAGSI,Wheat,1987-88,0,0
+1,Balochistan,128,KACHHI,Wheat,1987-88,9.7,18.6
+1,Balochistan,123,Kalat,Wheat,1987-88,12,20.6
+1,Balochistan,126,Kharan,Wheat,1987-88,1.3,1
+1,Balochistan,124,Khuzdar,Wheat,1987-88,14.3,26.7
+1,Balochistan,13,KILLA ABDULLAH,Wheat,1987-88,0,0
+1,Balochistan,114,KILLA SAIFULLAH ,Wheat,1987-88,0,0
+1,Balochistan,18,Kohlu,Wheat,1987-88,3.5,6.1
+1,Balochistan,121,Lasbela,Wheat,1987-88,0.8,1.6
+1,Balochistan,111,Loralai,Wheat,1987-88,10.6,18.7
+1,Balochistan,122,Mastung,Wheat,1987-88,0,0
+1,Balochistan,112,MUSA KHEL,Wheat,1987-88,0,0
+1,Balochistan,118,NASEERABAD,Wheat,1987-88,0,0
+1,Balochistan,130,PANJGUR,Wheat,1987-88,1,1.1
+1,Balochistan,12,Pishin,Wheat,1987-88,11,28.6
+1,Balochistan,11,Quetta,Wheat,1987-88,1.3,2.7
+1,Balochistan,16,Sibi,Wheat,1987-88,14,26.9
+1,Balochistan,134,Tomboo,Wheat,1987-88,40,94.8
+1,Balochistan,135,Turbat,Wheat,1987-88,0.4,0.7
+1,Balochistan,115,Zhob,Wheat,1987-88,5.5,8.4
+1,Balochistan,110,Ziarat,Wheat,1987-88,0.2,0.3
+1,Balochistan,125,Awaran,Wheat,1988-89,0,0
+1,Balochistan,113,Barkhan,Wheat,1988-89,0,0
+1,Balochistan,119,Bolan,Wheat,1988-89,0,0
+1,Balochistan,15,Chagai,Wheat,1988-89,1.9,3.7
+1,Balochistan,19,DERA BUGTI,Wheat,1988-89,0.4,0.6
+1,Balochistan,129,Gwadar,Wheat,1988-89,0,0
+1,Balochistan,117,JAFARABAD,Wheat,1988-89,72,165.6
+1,Balochistan,120,JHAL MAGSI,Wheat,1988-89,0,0
+1,Balochistan,128,KACHHI,Wheat,1988-89,14.6,27.6
+1,Balochistan,123,Kalat,Wheat,1988-89,20,28.4
+1,Balochistan,126,Kharan,Wheat,1988-89,1.9,1.5
+1,Balochistan,124,Khuzdar,Wheat,1988-89,41.9,56.4
+1,Balochistan,13,KILLA ABDULLAH,Wheat,1988-89,0,0
+1,Balochistan,114,KILLA SAIFULLAH ,Wheat,1988-89,0,0
+1,Balochistan,18,Kohlu,Wheat,1988-89,9,10.5
+1,Balochistan,121,Lasbela,Wheat,1988-89,1,2
+1,Balochistan,111,Loralai,Wheat,1988-89,21.5,28.5
+1,Balochistan,122,Mastung,Wheat,1988-89,0,0
+1,Balochistan,112,MUSA KHEL,Wheat,1988-89,0,0
+1,Balochistan,118,NASEERABAD,Wheat,1988-89,0,0
+1,Balochistan,130,PANJGUR,Wheat,1988-89,1.1,0.7
+1,Balochistan,12,Pishin,Wheat,1988-89,23.6,46.6
+1,Balochistan,11,Quetta,Wheat,1988-89,2.1,4
+1,Balochistan,16,Sibi,Wheat,1988-89,13.2,25.3
+1,Balochistan,134,Tomboo,Wheat,1988-89,52.1,125
+1,Balochistan,135,Turbat,Wheat,1988-89,0.5,0.9
+1,Balochistan,115,Zhob,Wheat,1988-89,7,10.6
+1,Balochistan,110,Ziarat,Wheat,1988-89,0,0
+1,Balochistan,125,Awaran,Wheat,1989-90,0,0
+1,Balochistan,113,Barkhan,Wheat,1989-90,0,0
+1,Balochistan,119,Bolan,Wheat,1989-90,0,0
+1,Balochistan,15,Chagai,Wheat,1989-90,3,4.7
+1,Balochistan,19,DERA BUGTI,Wheat,1989-90,0.5,0.5
+1,Balochistan,129,Gwadar,Wheat,1989-90,0.1,0.1
+1,Balochistan,117,JAFARABAD,Wheat,1989-90,72.1,168.1
+1,Balochistan,120,JHAL MAGSI,Wheat,1989-90,0,0
+1,Balochistan,128,KACHHI,Wheat,1989-90,16.8,29.9
+1,Balochistan,123,Kalat,Wheat,1989-90,24.5,36
+1,Balochistan,126,Kharan,Wheat,1989-90,3.9,3.9
+1,Balochistan,124,Khuzdar,Wheat,1989-90,42.9,60
+1,Balochistan,13,KILLA ABDULLAH,Wheat,1989-90,0,0
+1,Balochistan,114,KILLA SAIFULLAH ,Wheat,1989-90,0,0
+1,Balochistan,18,Kohlu,Wheat,1989-90,5.3,4.7
+1,Balochistan,121,Lasbela,Wheat,1989-90,1.5,2.1
+1,Balochistan,111,Loralai,Wheat,1989-90,24.8,37
+1,Balochistan,122,Mastung,Wheat,1989-90,0,0
+1,Balochistan,112,MUSA KHEL,Wheat,1989-90,0,0
+1,Balochistan,118,NASEERABAD,Wheat,1989-90,0,0
+1,Balochistan,130,PANJGUR,Wheat,1989-90,0.4,0.5
+1,Balochistan,12,Pishin,Wheat,1989-90,24.2,46.1
+1,Balochistan,11,Quetta,Wheat,1989-90,2.5,4.9
+1,Balochistan,16,Sibi,Wheat,1989-90,13.7,26.4
+1,Balochistan,134,Tomboo,Wheat,1989-90,52.2,125.3
+1,Balochistan,135,Turbat,Wheat,1989-90,1.1,1.8
+1,Balochistan,115,Zhob,Wheat,1989-90,7.2,12.3
+1,Balochistan,110,Ziarat,Wheat,1989-90,0,0
+1,Balochistan,125,Awaran,Wheat,1990-91,0,0
+1,Balochistan,113,Barkhan,Wheat,1990-91,0,0
+1,Balochistan,119,Bolan,Wheat,1990-91,0,0
+1,Balochistan,15,Chagai,Wheat,1990-91,2.8,4.4
+1,Balochistan,19,DERA BUGTI,Wheat,1990-91,0.5,0.6
+1,Balochistan,129,Gwadar,Wheat,1990-91,0,0
+1,Balochistan,117,JAFARABAD,Wheat,1990-91,71.5,178.8
+1,Balochistan,120,JHAL MAGSI,Wheat,1990-91,0,0
+1,Balochistan,128,KACHHI,Wheat,1990-91,17.5,34.1
+1,Balochistan,123,Kalat,Wheat,1990-91,26.3,45.8
+1,Balochistan,126,Kharan,Wheat,1990-91,5.8,5.8
+1,Balochistan,124,Khuzdar,Wheat,1990-91,44.6,68.9
+1,Balochistan,13,KILLA ABDULLAH,Wheat,1990-91,0,0
+1,Balochistan,114,KILLA SAIFULLAH ,Wheat,1990-91,4.9,11.2
+1,Balochistan,18,Kohlu,Wheat,1990-91,5.3,5.6
+1,Balochistan,121,Lasbela,Wheat,1990-91,1.2,2
+1,Balochistan,111,Loralai,Wheat,1990-91,26.5,42.9
+1,Balochistan,122,Mastung,Wheat,1990-91,0,0
+1,Balochistan,112,MUSA KHEL,Wheat,1990-91,0,0
+1,Balochistan,118,NASEERABAD,Wheat,1990-91,0,0
+1,Balochistan,130,PANJGUR,Wheat,1990-91,0.5,0.7
+1,Balochistan,12,Pishin,Wheat,1990-91,25.2,49.2
+1,Balochistan,11,Quetta,Wheat,1990-91,2.7,5.2
+1,Balochistan,16,Sibi,Wheat,1990-91,14.6,34.7
+1,Balochistan,134,Tomboo,Wheat,1990-91,53.1,133
+1,Balochistan,135,Turbat,Wheat,1990-91,0.8,1.4
+1,Balochistan,115,Zhob,Wheat,1990-91,2.2,3.9
+1,Balochistan,110,Ziarat,Wheat,1990-91,0.1,0.1
+1,Balochistan,125,Awaran,Wheat,1991-92,0,0
+1,Balochistan,113,Barkhan,Wheat,1991-92,0,0
+1,Balochistan,119,Bolan,Wheat,1991-92,0,0
+1,Balochistan,15,Chagai,Wheat,1991-92,3.3,5.6
+1,Balochistan,19,DERA BUGTI,Wheat,1991-92,0.7,0.9
+1,Balochistan,129,Gwadar,Wheat,1991-92,0.1,0.1
+1,Balochistan,117,JAFARABAD,Wheat,1991-92,74.3,200.6
+1,Balochistan,120,JHAL MAGSI,Wheat,1991-92,0.1,0
+1,Balochistan,128,KACHHI,Wheat,1991-92,18.3,39.9
+1,Balochistan,123,Kalat,Wheat,1991-92,28.4,50.7
+1,Balochistan,126,Kharan,Wheat,1991-92,5.7,5.9
+1,Balochistan,124,Khuzdar,Wheat,1991-92,44.9,70.5
+1,Balochistan,13,KILLA ABDULLAH,Wheat,1991-92,0,0
+1,Balochistan,114,KILLA SAIFULLAH ,Wheat,1991-92,4.3,8.3
+1,Balochistan,18,Kohlu,Wheat,1991-92,6,6.6
+1,Balochistan,121,Lasbela,Wheat,1991-92,0.3,0.7
+1,Balochistan,111,Loralai,Wheat,1991-92,21,38.1
+1,Balochistan,122,Mastung,Wheat,1991-92,0,0
+1,Balochistan,112,MUSA KHEL,Wheat,1991-92,0,0
+1,Balochistan,118,NASEERABAD,Wheat,1991-92,0,0
+1,Balochistan,130,PANJGUR,Wheat,1991-92,0.3,0.6
+1,Balochistan,12,Pishin,Wheat,1991-92,26,50.6
+1,Balochistan,11,Quetta,Wheat,1991-92,2.9,6
+1,Balochistan,16,Sibi,Wheat,1991-92,13.2,30
+1,Balochistan,134,Tomboo,Wheat,1991-92,54.9,142.6
+1,Balochistan,135,Turbat,Wheat,1991-92,0.9,1.6
+1,Balochistan,115,Zhob,Wheat,1991-92,2.2,3.7
+1,Balochistan,110,Ziarat,Wheat,1991-92,0.1,0.1
+1,Balochistan,125,Awaran,Wheat,1992-93,0,0
+1,Balochistan,113,Barkhan,Wheat,1992-93,12,21.7
+1,Balochistan,119,Bolan,Wheat,1992-93,10.6,25.8
+1,Balochistan,15,Chagai,Wheat,1992-93,13.8,19.5
+1,Balochistan,19,DERA BUGTI,Wheat,1992-93,0.7,0.9
+1,Balochistan,129,Gwadar,Wheat,1992-93,0.1,0.1
+1,Balochistan,117,JAFARABAD,Wheat,1992-93,75.3,195.8
+1,Balochistan,120,JHAL MAGSI,Wheat,1992-93,9.7,21.7
+1,Balochistan,128,KACHHI,Wheat,1992-93,0,0
+1,Balochistan,123,Kalat,Wheat,1992-93,11.5,21.7
+1,Balochistan,126,Kharan,Wheat,1992-93,27,30.8
+1,Balochistan,124,Khuzdar,Wheat,1992-93,62.3,139.3
+1,Balochistan,13,KILLA ABDULLAH,Wheat,1992-93,0,0
+1,Balochistan,114,KILLA SAIFULLAH ,Wheat,1992-93,6.4,13.6
+1,Balochistan,18,Kohlu,Wheat,1992-93,6,7.3
+1,Balochistan,121,Lasbela,Wheat,1992-93,0.4,1
+1,Balochistan,111,Loralai,Wheat,1992-93,14.2,25.3
+1,Balochistan,122,Mastung,Wheat,1992-93,19.2,36.8
+1,Balochistan,112,MUSA KHEL,Wheat,1992-93,9.8,11.1
+1,Balochistan,118,NASEERABAD,Wheat,1992-93,57.3,148.9
+1,Balochistan,130,PANJGUR,Wheat,1992-93,2.2,2.7
+1,Balochistan,12,Pishin,Wheat,1992-93,26.5,48.7
+1,Balochistan,11,Quetta,Wheat,1992-93,2.9,5.9
+1,Balochistan,16,Sibi,Wheat,1992-93,13.9,27.5
+1,Balochistan,134,Tomboo,Wheat,1992-93,0,0
+1,Balochistan,135,Turbat,Wheat,1992-93,1.1,2.1
+1,Balochistan,115,Zhob,Wheat,1992-93,3,5.3
+1,Balochistan,110,Ziarat,Wheat,1992-93,0,0
+1,Balochistan,125,Awaran,Wheat,1993-94,0,0
+1,Balochistan,113,Barkhan,Wheat,1993-94,11.2,20
+1,Balochistan,119,Bolan,Wheat,1993-94,9.3,24.5
+1,Balochistan,15,Chagai,Wheat,1993-94,14.2,20.8
+1,Balochistan,19,DERA BUGTI,Wheat,1993-94,0.9,1.5
+1,Balochistan,129,Gwadar,Wheat,1993-94,0.1,0.1
+1,Balochistan,117,JAFARABAD,Wheat,1993-94,75.8,201
+1,Balochistan,120,JHAL MAGSI,Wheat,1993-94,9.7,24
+1,Balochistan,128,KACHHI,Wheat,1993-94,0,0
+1,Balochistan,123,Kalat,Wheat,1993-94,9.2,18.7
+1,Balochistan,126,Kharan,Wheat,1993-94,18.1,22
+1,Balochistan,124,Khuzdar,Wheat,1993-94,30.3,72.6
+1,Balochistan,13,KILLA ABDULLAH,Wheat,1993-94,0,0
+1,Balochistan,114,KILLA SAIFULLAH ,Wheat,1993-94,3,7.1
+1,Balochistan,18,Kohlu,Wheat,1993-94,6.4,8.5
+1,Balochistan,121,Lasbela,Wheat,1993-94,1.2,3.3
+1,Balochistan,111,Loralai,Wheat,1993-94,14.2,28.2
+1,Balochistan,122,Mastung,Wheat,1993-94,15.5,35
+1,Balochistan,112,MUSA KHEL,Wheat,1993-94,4.9,6.6
+1,Balochistan,118,NASEERABAD,Wheat,1993-94,57.5,152.4
+1,Balochistan,130,PANJGUR,Wheat,1993-94,1,1.5
+1,Balochistan,12,Pishin,Wheat,1993-94,22.1,46.3
+1,Balochistan,11,Quetta,Wheat,1993-94,3.4,7.3
+1,Balochistan,16,Sibi,Wheat,1993-94,16.3,34.8
+1,Balochistan,134,Tomboo,Wheat,1993-94,0,0
+1,Balochistan,135,Turbat,Wheat,1993-94,1.7,3.4
+1,Balochistan,115,Zhob,Wheat,1993-94,2.3,4.5
+1,Balochistan,110,Ziarat,Wheat,1993-94,0,0
+1,Balochistan,125,Awaran,Wheat,1994-95,0,0
+1,Balochistan,113,Barkhan,Wheat,1994-95,11.2,19.8
+1,Balochistan,119,Bolan,Wheat,1994-95,9.7,22.4
+1,Balochistan,15,Chagai,Wheat,1994-95,8.3,15.5
+1,Balochistan,19,DERA BUGTI,Wheat,1994-95,5.6,8
+1,Balochistan,129,Gwadar,Wheat,1994-95,0.1,0.1
+1,Balochistan,117,JAFARABAD,Wheat,1994-95,78.9,210.8
+1,Balochistan,120,JHAL MAGSI,Wheat,1994-95,10.6,25.1
+1,Balochistan,128,KACHHI,Wheat,1994-95,0,0
+1,Balochistan,123,Kalat,Wheat,1994-95,12.6,22.7
+1,Balochistan,126,Kharan,Wheat,1994-95,1.8,2.4
+1,Balochistan,124,Khuzdar,Wheat,1994-95,42.9,104.1
+1,Balochistan,13,KILLA ABDULLAH,Wheat,1994-95,0,0
+1,Balochistan,114,KILLA SAIFULLAH ,Wheat,1994-95,6.6,14.9
+1,Balochistan,18,Kohlu,Wheat,1994-95,5.7,7.8
+1,Balochistan,121,Lasbela,Wheat,1994-95,3.7,8.3
+1,Balochistan,111,Loralai,Wheat,1994-95,15.1,29.8
+1,Balochistan,122,Mastung,Wheat,1994-95,19.2,38.2
+1,Balochistan,112,MUSA KHEL,Wheat,1994-95,1.5,2.2
+1,Balochistan,118,NASEERABAD,Wheat,1994-95,59.1,157.8
+1,Balochistan,130,PANJGUR,Wheat,1994-95,1.7,2.4
+1,Balochistan,12,Pishin,Wheat,1994-95,22.2,46.8
+1,Balochistan,11,Quetta,Wheat,1994-95,3.5,7.6
+1,Balochistan,16,Sibi,Wheat,1994-95,16.4,35.7
+1,Balochistan,134,Tomboo,Wheat,1994-95,0,0
+1,Balochistan,135,Turbat,Wheat,1994-95,1.4,2.9
+1,Balochistan,115,Zhob,Wheat,1994-95,2.7,4.8
+1,Balochistan,110,Ziarat,Wheat,1994-95,0,0
+1,Balochistan,125,Awaran,Wheat,1995-96,0,0
+1,Balochistan,113,Barkhan,Wheat,1995-96,10.7,18.7
+1,Balochistan,119,Bolan,Wheat,1995-96,11.1,28.5
+1,Balochistan,15,Chagai,Wheat,1995-96,11.3,20.5
+1,Balochistan,19,DERA BUGTI,Wheat,1995-96,6.1,9.6
+1,Balochistan,129,Gwadar,Wheat,1995-96,0.1,0.1
+1,Balochistan,117,JAFARABAD,Wheat,1995-96,79,211.3
+1,Balochistan,120,JHAL MAGSI,Wheat,1995-96,12,27.1
+1,Balochistan,128,KACHHI,Wheat,1995-96,0,0
+1,Balochistan,123,Kalat,Wheat,1995-96,12.8,24.1
+1,Balochistan,126,Kharan,Wheat,1995-96,21.5,26.9
+1,Balochistan,124,Khuzdar,Wheat,1995-96,68,146.2
+1,Balochistan,13,KILLA ABDULLAH,Wheat,1995-96,0,0
+1,Balochistan,114,KILLA SAIFULLAH ,Wheat,1995-96,10,18.1
+1,Balochistan,18,Kohlu,Wheat,1995-96,13,18.2
+1,Balochistan,121,Lasbela,Wheat,1995-96,4,10.5
+1,Balochistan,111,Loralai,Wheat,1995-96,17.9,33.8
+1,Balochistan,122,Mastung,Wheat,1995-96,40.5,69.4
+1,Balochistan,112,MUSA KHEL,Wheat,1995-96,1.7,2.8
+1,Balochistan,118,NASEERABAD,Wheat,1995-96,59.5,158.9
+1,Balochistan,130,PANJGUR,Wheat,1995-96,4.8,6.2
+1,Balochistan,12,Pishin,Wheat,1995-96,22.5,47.6
+1,Balochistan,11,Quetta,Wheat,1995-96,3.5,7.6
+1,Balochistan,16,Sibi,Wheat,1995-96,16.1,35.3
+1,Balochistan,134,Tomboo,Wheat,1995-96,0,0
+1,Balochistan,135,Turbat,Wheat,1995-96,1.9,3.7
+1,Balochistan,115,Zhob,Wheat,1995-96,2.5,5
+1,Balochistan,110,Ziarat,Wheat,1995-96,0,0
+1,Balochistan,125,Awaran,Wheat,1996-97,0,0
+1,Balochistan,113,Barkhan,Wheat,1996-97,4.1,9
+1,Balochistan,119,Bolan,Wheat,1996-97,11.2,28
+1,Balochistan,15,Chagai,Wheat,1996-97,11.5,20
+1,Balochistan,19,DERA BUGTI,Wheat,1996-97,0.5,1
+1,Balochistan,129,Gwadar,Wheat,1996-97,0.1,0.1
+1,Balochistan,117,JAFARABAD,Wheat,1996-97,83.9,224.8
+1,Balochistan,120,JHAL MAGSI,Wheat,1996-97,11,26
+1,Balochistan,128,KACHHI,Wheat,1996-97,0,0
+1,Balochistan,123,Kalat,Wheat,1996-97,7.5,14.8
+1,Balochistan,126,Kharan,Wheat,1996-97,5.4,7.6
+1,Balochistan,124,Khuzdar,Wheat,1996-97,40.3,101.7
+1,Balochistan,13,KILLA ABDULLAH,Wheat,1996-97,0,0
+1,Balochistan,114,KILLA SAIFULLAH ,Wheat,1996-97,14,28.6
+1,Balochistan,18,Kohlu,Wheat,1996-97,1.7,3.8
+1,Balochistan,121,Lasbela,Wheat,1996-97,1.6,3.9
+1,Balochistan,111,Loralai,Wheat,1996-97,12,22.9
+1,Balochistan,122,Mastung,Wheat,1996-97,9,20
+1,Balochistan,112,MUSA KHEL,Wheat,1996-97,1.8,3.2
+1,Balochistan,118,NASEERABAD,Wheat,1996-97,60.2,161.1
+1,Balochistan,130,PANJGUR,Wheat,1996-97,1.8,2.3
+1,Balochistan,12,Pishin,Wheat,1996-97,22.4,47.7
+1,Balochistan,11,Quetta,Wheat,1996-97,3.5,7.5
+1,Balochistan,16,Sibi,Wheat,1996-97,14.2,32.9
+1,Balochistan,134,Tomboo,Wheat,1996-97,0,0
+1,Balochistan,135,Turbat,Wheat,1996-97,0.8,1.9
+1,Balochistan,115,Zhob,Wheat,1996-97,1.1,2.4
+1,Balochistan,110,Ziarat,Wheat,1996-97,0,0
+1,Balochistan,125,Awaran,Wheat,1997-98,0,0
+1,Balochistan,113,Barkhan,Wheat,1997-98,8.2,16.3
+1,Balochistan,119,Bolan,Wheat,1997-98,11.7,29.5
+1,Balochistan,15,Chagai,Wheat,1997-98,16.2,29.9
+1,Balochistan,19,DERA BUGTI,Wheat,1997-98,0.6,1.3
+1,Balochistan,129,Gwadar,Wheat,1997-98,0.2,0.2
+1,Balochistan,117,JAFARABAD,Wheat,1997-98,77.4,208.3
+1,Balochistan,120,JHAL MAGSI,Wheat,1997-98,13.3,32.3
+1,Balochistan,128,KACHHI,Wheat,1997-98,0,0
+1,Balochistan,123,Kalat,Wheat,1997-98,12,22.7
+1,Balochistan,126,Kharan,Wheat,1997-98,5.4,7.6
+1,Balochistan,124,Khuzdar,Wheat,1997-98,42.9,106.9
+1,Balochistan,13,KILLA ABDULLAH,Wheat,1997-98,0,0
+1,Balochistan,114,KILLA SAIFULLAH ,Wheat,1997-98,13,22.3
+1,Balochistan,18,Kohlu,Wheat,1997-98,10.2,13.5
+1,Balochistan,121,Lasbela,Wheat,1997-98,1.2,3
+1,Balochistan,111,Loralai,Wheat,1997-98,12.1,22.8
+1,Balochistan,122,Mastung,Wheat,1997-98,31.2,55.8
+1,Balochistan,112,MUSA KHEL,Wheat,1997-98,1.9,3.3
+1,Balochistan,118,NASEERABAD,Wheat,1997-98,69.9,188.2
+1,Balochistan,130,PANJGUR,Wheat,1997-98,4,5.7
+1,Balochistan,12,Pishin,Wheat,1997-98,24.6,49.7
+1,Balochistan,11,Quetta,Wheat,1997-98,3.4,7.4
+1,Balochistan,16,Sibi,Wheat,1997-98,16.1,34.1
+1,Balochistan,134,Tomboo,Wheat,1997-98,0,0
+1,Balochistan,135,Turbat,Wheat,1997-98,2.2,3.7
+1,Balochistan,115,Zhob,Wheat,1997-98,4,7.1
+1,Balochistan,110,Ziarat,Wheat,1997-98,0,0
+1,Balochistan,125,Awaran,Wheat,1998-99,0,0
+1,Balochistan,113,Barkhan,Wheat,1998-99,8.1,16.1
+1,Balochistan,119,Bolan,Wheat,1998-99,11.6,29.5
+1,Balochistan,15,Chagai,Wheat,1998-99,12,30.5
+1,Balochistan,19,DERA BUGTI,Wheat,1998-99,0.4,1
+1,Balochistan,129,Gwadar,Wheat,1998-99,0,0
+1,Balochistan,117,JAFARABAD,Wheat,1998-99,67.7,182.3
+1,Balochistan,120,JHAL MAGSI,Wheat,1998-99,12,29.2
+1,Balochistan,128,KACHHI,Wheat,1998-99,0,0
+1,Balochistan,123,Kalat,Wheat,1998-99,5.3,12.7
+1,Balochistan,126,Kharan,Wheat,1998-99,1.9,3.9
+1,Balochistan,124,Khuzdar,Wheat,1998-99,39.3,101.5
+1,Balochistan,13,KILLA ABDULLAH,Wheat,1998-99,0,0
+1,Balochistan,114,KILLA SAIFULLAH ,Wheat,1998-99,12.5,21.9
+1,Balochistan,18,Kohlu,Wheat,1998-99,6.3,9
+1,Balochistan,121,Lasbela,Wheat,1998-99,1.2,3
+1,Balochistan,111,Loralai,Wheat,1998-99,6.4,15.4
+1,Balochistan,122,Mastung,Wheat,1998-99,31.8,49.7
+1,Balochistan,112,MUSA KHEL,Wheat,1998-99,1.9,3.2
+1,Balochistan,118,NASEERABAD,Wheat,1998-99,57.3,154.3
+1,Balochistan,130,PANJGUR,Wheat,1998-99,1.3,1.9
+1,Balochistan,12,Pishin,Wheat,1998-99,14.9,34.8
+1,Balochistan,11,Quetta,Wheat,1998-99,4.3,9.1
+1,Balochistan,16,Sibi,Wheat,1998-99,13.1,30.8
+1,Balochistan,134,Tomboo,Wheat,1998-99,0,0
+1,Balochistan,135,Turbat,Wheat,1998-99,0.9,1.9
+1,Balochistan,115,Zhob,Wheat,1998-99,3.8,7
+1,Balochistan,110,Ziarat,Wheat,1998-99,0,0
+1,Balochistan,125,Awaran,Wheat,1999-00,0,0
+1,Balochistan,113,Barkhan,Wheat,1999-00,2.4,3.1
+1,Balochistan,119,Bolan,Wheat,1999-00,12.4,22.6
+1,Balochistan,15,Chagai,Wheat,1999-00,13.4,22.2
+1,Balochistan,19,DERA BUGTI,Wheat,1999-00,0.5,0.8
+1,Balochistan,129,Gwadar,Wheat,1999-00,0,0
+1,Balochistan,117,JAFARABAD,Wheat,1999-00,68.3,117.7
+1,Balochistan,120,JHAL MAGSI,Wheat,1999-00,16,29.6
+1,Balochistan,128,KACHHI,Wheat,1999-00,0,0
+1,Balochistan,123,Kalat,Wheat,1999-00,5.4,9.5
+1,Balochistan,126,Kharan,Wheat,1999-00,16.6,28.3
+1,Balochistan,124,Khuzdar,Wheat,1999-00,48.4,86.3
+1,Balochistan,13,KILLA ABDULLAH,Wheat,1999-00,0,0
+1,Balochistan,114,KILLA SAIFULLAH ,Wheat,1999-00,13.2,11.7
+1,Balochistan,18,Kohlu,Wheat,1999-00,6.8,10.3
+1,Balochistan,121,Lasbela,Wheat,1999-00,3.2,5.2
+1,Balochistan,111,Loralai,Wheat,1999-00,4.2,6.8
+1,Balochistan,122,Mastung,Wheat,1999-00,9.1,10.8
+1,Balochistan,112,MUSA KHEL,Wheat,1999-00,1.9,1.5
+1,Balochistan,118,NASEERABAD,Wheat,1999-00,67.9,113.3
+1,Balochistan,130,PANJGUR,Wheat,1999-00,2.8,1.5
+1,Balochistan,12,Pishin,Wheat,1999-00,18.2,23.3
+1,Balochistan,11,Quetta,Wheat,1999-00,4.6,7.1
+1,Balochistan,16,Sibi,Wheat,1999-00,13.8,14.5
+1,Balochistan,134,Tomboo,Wheat,1999-00,0,0
+1,Balochistan,135,Turbat,Wheat,1999-00,0.6,0.9
+1,Balochistan,115,Zhob,Wheat,1999-00,2.3,2.5
+1,Balochistan,110,Ziarat,Wheat,1999-00,0,0
+1,Balochistan,125,Awaran,Wheat,2000-01,0,0
+1,Balochistan,113,Barkhan,Wheat,2000-01,0,0
+1,Balochistan,119,Bolan,Wheat,2000-01,0,0
+1,Balochistan,15,Chagai,Wheat,2000-01,11.4,20
+1,Balochistan,19,DERA BUGTI,Wheat,2000-01,2.8,4.5
+1,Balochistan,129,Gwadar,Wheat,2000-01,0,0
+1,Balochistan,117,JAFARABAD,Wheat,2000-01,0,0
+1,Balochistan,120,JHAL MAGSI,Wheat,2000-01,0,0
+1,Balochistan,128,KACHHI,Wheat,2000-01,16.8,30.6
+1,Balochistan,123,Kalat,Wheat,2000-01,6,10.7
+1,Balochistan,126,Kharan,Wheat,2000-01,15.3,29.2
+1,Balochistan,124,Khuzdar,Wheat,2000-01,40.8,67.6
+1,Balochistan,13,KILLA ABDULLAH,Wheat,2000-01,0,0
+1,Balochistan,114,KILLA SAIFULLAH ,Wheat,2000-01,8.6,16.3
+1,Balochistan,18,Kohlu,Wheat,2000-01,3.7,3.2
+1,Balochistan,121,Lasbela,Wheat,2000-01,5.9,10.6
+1,Balochistan,111,Loralai,Wheat,2000-01,30.8,50.5
+1,Balochistan,122,Mastung,Wheat,2000-01,8,15.1
+1,Balochistan,112,MUSA KHEL,Wheat,2000-01,0,0
+1,Balochistan,118,NASEERABAD,Wheat,2000-01,150.7,316.6
+1,Balochistan,130,PANJGUR,Wheat,2000-01,2.8,1.6
+1,Balochistan,12,Pishin,Wheat,2000-01,8.5,16.4
+1,Balochistan,11,Quetta,Wheat,2000-01,3.5,6.3
+1,Balochistan,16,Sibi,Wheat,2000-01,7,12.7
+1,Balochistan,134,Tomboo,Wheat,2000-01,0,0
+1,Balochistan,135,Turbat,Wheat,2000-01,0.5,0.5
+1,Balochistan,115,Zhob,Wheat,2000-01,1.3,1.8
+1,Balochistan,110,Ziarat,Wheat,2000-01,0,0
+1,Balochistan,125,Awaran,Wheat,2001-02,12.6,15.5
+1,Balochistan,113,Barkhan,Wheat,2001-02,0,0
+1,Balochistan,119,Bolan,Wheat,2001-02,0,0
+1,Balochistan,15,Chagai,Wheat,2001-02,11.9,23.1
+1,Balochistan,19,DERA BUGTI,Wheat,2001-02,4.9,7.6
+1,Balochistan,129,Gwadar,Wheat,2001-02,0,0
+1,Balochistan,117,JAFARABAD,Wheat,2001-02,0,0
+1,Balochistan,120,JHAL MAGSI,Wheat,2001-02,0,0
+1,Balochistan,128,KACHHI,Wheat,2001-02,15.2,29.5
+1,Balochistan,123,Kalat,Wheat,2001-02,5.8,10.3
+1,Balochistan,126,Kharan,Wheat,2001-02,15.9,29.8
+1,Balochistan,124,Khuzdar,Wheat,2001-02,34.6,64.6
+1,Balochistan,13,KILLA ABDULLAH,Wheat,2001-02,3.3,6.9
+1,Balochistan,114,KILLA SAIFULLAH ,Wheat,2001-02,8.5,16.5
+1,Balochistan,18,Kohlu,Wheat,2001-02,3.2,5
+1,Balochistan,121,Lasbela,Wheat,2001-02,5.3,9.7
+1,Balochistan,111,Loralai,Wheat,2001-02,33.6,56.3
+1,Balochistan,122,Mastung,Wheat,2001-02,8.2,15
+1,Balochistan,112,MUSA KHEL,Wheat,2001-02,0,0
+1,Balochistan,118,NASEERABAD,Wheat,2001-02,150.9,317
+1,Balochistan,130,PANJGUR,Wheat,2001-02,2.2,2.1
+1,Balochistan,12,Pishin,Wheat,2001-02,3.9,7.9
+1,Balochistan,11,Quetta,Wheat,2001-02,2.5,4.7
+1,Balochistan,16,Sibi,Wheat,2001-02,7.8,13.4
+1,Balochistan,134,Tomboo,Wheat,2001-02,0,0
+1,Balochistan,135,Turbat,Wheat,2001-02,1.1,1.5
+1,Balochistan,115,Zhob,Wheat,2001-02,2,3.9
+1,Balochistan,110,Ziarat,Wheat,2001-02,0.2,0.3
+1,Balochistan,125,Awaran,Wheat,2002-03,6.7,9.7
+1,Balochistan,113,Barkhan,Wheat,2002-03,0,0
+1,Balochistan,119,Bolan,Wheat,2002-03,0,0
+1,Balochistan,15,Chagai,Wheat,2002-03,12.7,25.2
+1,Balochistan,19,DERA BUGTI,Wheat,2002-03,5.7,8.5
+1,Balochistan,129,Gwadar,Wheat,2002-03,0,0
+1,Balochistan,117,JAFARABAD,Wheat,2002-03,0,0
+1,Balochistan,120,JHAL MAGSI,Wheat,2002-03,0,0
+1,Balochistan,128,KACHHI,Wheat,2002-03,15.1,29.6
+1,Balochistan,123,Kalat,Wheat,2002-03,5.9,10.7
+1,Balochistan,126,Kharan,Wheat,2002-03,16.9,32.1
+1,Balochistan,124,Khuzdar,Wheat,2002-03,36.5,73.7
+1,Balochistan,13,KILLA ABDULLAH,Wheat,2002-03,2.5,4.4
+1,Balochistan,114,KILLA SAIFULLAH ,Wheat,2002-03,11.4,21.5
+1,Balochistan,18,Kohlu,Wheat,2002-03,2.9,3.6
+1,Balochistan,121,Lasbela,Wheat,2002-03,5,9.1
+1,Balochistan,111,Loralai,Wheat,2002-03,37.6,53.5
+1,Balochistan,122,Mastung,Wheat,2002-03,6.8,11.6
+1,Balochistan,112,MUSA KHEL,Wheat,2002-03,0,0
+1,Balochistan,118,NASEERABAD,Wheat,2002-03,153.8,323
+1,Balochistan,130,PANJGUR,Wheat,2002-03,1.7,1.8
+1,Balochistan,12,Pishin,Wheat,2002-03,7.6,15.9
+1,Balochistan,11,Quetta,Wheat,2002-03,2.5,5
+1,Balochistan,16,Sibi,Wheat,2002-03,6.1,10.6
+1,Balochistan,134,Tomboo,Wheat,2002-03,0,0
+1,Balochistan,135,Turbat,Wheat,2002-03,0.9,1.2
+1,Balochistan,115,Zhob,Wheat,2002-03,2.4,3.7
+1,Balochistan,110,Ziarat,Wheat,2002-03,0.1,0.3
+1,Balochistan,125,Awaran,Wheat,2003-04,5.1,7.6
+1,Balochistan,113,Barkhan,Wheat,2003-04,15.2,30
+1,Balochistan,119,Bolan,Wheat,2003-04,15.1,30.3
+1,Balochistan,15,Chagai,Wheat,2003-04,14.1,27.5
+1,Balochistan,19,DERA BUGTI,Wheat,2003-04,6,8.7
+1,Balochistan,129,Gwadar,Wheat,2003-04,0,0
+1,Balochistan,117,JAFARABAD,Wheat,2003-04,82,172.2
+1,Balochistan,120,JHAL MAGSI,Wheat,2003-04,6.5,12
+1,Balochistan,128,KACHHI,Wheat,2003-04,0,0
+1,Balochistan,123,Kalat,Wheat,2003-04,6.1,11.4
+1,Balochistan,126,Kharan,Wheat,2003-04,7.2,12.1
+1,Balochistan,124,Khuzdar,Wheat,2003-04,37.9,76.4
+1,Balochistan,13,KILLA ABDULLAH,Wheat,2003-04,2.1,4.2
+1,Balochistan,114,KILLA SAIFULLAH ,Wheat,2003-04,11.9,22.3
+1,Balochistan,18,Kohlu,Wheat,2003-04,3.5,4.5
+1,Balochistan,121,Lasbela,Wheat,2003-04,5,9.2
+1,Balochistan,111,Loralai,Wheat,2003-04,18,25.7
+1,Balochistan,122,Mastung,Wheat,2003-04,7,12
+1,Balochistan,112,MUSA KHEL,Wheat,2003-04,2.6,4
+1,Balochistan,118,NASEERABAD,Wheat,2003-04,75.1,157.7
+1,Balochistan,130,PANJGUR,Wheat,2003-04,1.4,2
+1,Balochistan,12,Pishin,Wheat,2003-04,5.8,9.7
+1,Balochistan,11,Quetta,Wheat,2003-04,2.7,5.4
+1,Balochistan,16,Sibi,Wheat,2003-04,7.6,13.7
+1,Balochistan,134,Tomboo,Wheat,2003-04,0,0
+1,Balochistan,135,Turbat,Wheat,2003-04,0.7,0.9
+1,Balochistan,115,Zhob,Wheat,2003-04,2.2,3.7
+1,Balochistan,110,Ziarat,Wheat,2003-04,0.1,0.2
+1,Balochistan,125,Awaran,Wheat,2004-05,5.1,7.7
+1,Balochistan,113,Barkhan,Wheat,2004-05,17,32.4
+1,Balochistan,119,Bolan,Wheat,2004-05,12,24.1
+1,Balochistan,15,Chagai,Wheat,2004-05,15.8,34.9
+1,Balochistan,19,DERA BUGTI,Wheat,2004-05,7,10.3
+1,Balochistan,129,Gwadar,Wheat,2004-05,0,0
+1,Balochistan,117,JAFARABAD,Wheat,2004-05,56,114
+1,Balochistan,120,JHAL MAGSI,Wheat,2004-05,8,17.4
+1,Balochistan,128,KACHHI,Wheat,2004-05,0,0
+1,Balochistan,123,Kalat,Wheat,2004-05,7.5,13.5
+1,Balochistan,126,Kharan,Wheat,2004-05,28.2,44.6
+1,Balochistan,124,Khuzdar,Wheat,2004-05,40.1,80.2
+1,Balochistan,13,KILLA ABDULLAH,Wheat,2004-05,2.3,4.4
+1,Balochistan,114,KILLA SAIFULLAH ,Wheat,2004-05,12.1,23
+1,Balochistan,18,Kohlu,Wheat,2004-05,3.4,4.4
+1,Balochistan,121,Lasbela,Wheat,2004-05,6.7,13.4
+1,Balochistan,111,Loralai,Wheat,2004-05,11,19.4
+1,Balochistan,122,Mastung,Wheat,2004-05,7.4,12.4
+1,Balochistan,112,MUSA KHEL,Wheat,2004-05,2.8,4.4
+1,Balochistan,118,NASEERABAD,Wheat,2004-05,75.6,134.7
+1,Balochistan,130,PANJGUR,Wheat,2004-05,2,3.2
+1,Balochistan,12,Pishin,Wheat,2004-05,6.6,11
+1,Balochistan,11,Quetta,Wheat,2004-05,2.8,5.8
+1,Balochistan,16,Sibi,Wheat,2004-05,10.9,17.5
+1,Balochistan,134,Tomboo,Wheat,2004-05,0,0
+1,Balochistan,135,Turbat,Wheat,2004-05,0.7,1.4
+1,Balochistan,115,Zhob,Wheat,2004-05,2,3.3
+1,Balochistan,110,Ziarat,Wheat,2004-05,0.1,0.2
+1,Balochistan,125,Awaran,Wheat,2005-06,3.9,4
+1,Balochistan,113,Barkhan,Wheat,2005-06,17,28.9
+1,Balochistan,119,Bolan,Wheat,2005-06,11.6,27.3
+1,Balochistan,15,Chagai,Wheat,2005-06,15.8,32.7
+1,Balochistan,19,DERA BUGTI,Wheat,2005-06,7,8.7
+1,Balochistan,129,Gwadar,Wheat,2005-06,0,0
+1,Balochistan,117,JAFARABAD,Wheat,2005-06,44,111.6
+1,Balochistan,120,JHAL MAGSI,Wheat,2005-06,8,16.3
+1,Balochistan,128,KACHHI,Wheat,2005-06,0,0
+1,Balochistan,123,Kalat,Wheat,2005-06,7.7,15.3
+1,Balochistan,126,Kharan,Wheat,2005-06,20.5,31.5
+1,Balochistan,124,Khuzdar,Wheat,2005-06,40.3,81.9
+1,Balochistan,13,KILLA ABDULLAH,Wheat,2005-06,2.3,3.9
+1,Balochistan,114,KILLA SAIFULLAH ,Wheat,2005-06,12.2,22.1
+1,Balochistan,18,Kohlu,Wheat,2005-06,3.5,3
+1,Balochistan,121,Lasbela,Wheat,2005-06,3.9,6.4
+1,Balochistan,111,Loralai,Wheat,2005-06,11.7,26.2
+1,Balochistan,122,Mastung,Wheat,2005-06,7.7,10.6
+1,Balochistan,112,MUSA KHEL,Wheat,2005-06,1.9,2.2
+1,Balochistan,118,NASEERABAD,Wheat,2005-06,73.8,187.4
+1,Balochistan,130,PANJGUR,Wheat,2005-06,2,2.1
+1,Balochistan,12,Pishin,Wheat,2005-06,2.3,4.4
+1,Balochistan,11,Quetta,Wheat,2005-06,2.8,5.6
+1,Balochistan,16,Sibi,Wheat,2005-06,7.3,13.5
+1,Balochistan,134,Tomboo,Wheat,2005-06,0,0
+1,Balochistan,135,Turbat,Wheat,2005-06,0.8,1.2
+1,Balochistan,115,Zhob,Wheat,2005-06,1.9,2.9
+1,Balochistan,110,Ziarat,Wheat,2005-06,0.1,0.2
+1,Balochistan,125,Awaran,Wheat,2006-07,4.5,6.9
+1,Balochistan,113,Barkhan,Wheat,2006-07,32.3,60
+1,Balochistan,119,Bolan,Wheat,2006-07,12.6,28.3
+1,Balochistan,15,Chagai,Wheat,2006-07,12.7,22.6
+1,Balochistan,19,DERA BUGTI,Wheat,2006-07,7.1,13.8
+1,Balochistan,129,Gwadar,Wheat,2006-07,0,0
+1,Balochistan,117,JAFARABAD,Wheat,2006-07,74.3,188.3
+1,Balochistan,120,JHAL MAGSI,Wheat,2006-07,34.7,79.6
+1,Balochistan,128,KACHHI,Wheat,2006-07,0,0
+1,Balochistan,123,Kalat,Wheat,2006-07,9.2,14.4
+1,Balochistan,126,Kharan,Wheat,2006-07,20.2,34.4
+1,Balochistan,124,Khuzdar,Wheat,2006-07,41.7,78.2
+1,Balochistan,13,KILLA ABDULLAH,Wheat,2006-07,2.7,4.7
+1,Balochistan,114,KILLA SAIFULLAH ,Wheat,2006-07,13.5,25.8
+1,Balochistan,18,Kohlu,Wheat,2006-07,7.6,9.8
+1,Balochistan,121,Lasbela,Wheat,2006-07,4.5,7.6
+1,Balochistan,111,Loralai,Wheat,2006-07,12.1,27
+1,Balochistan,122,Mastung,Wheat,2006-07,10.6,17.2
+1,Balochistan,112,MUSA KHEL,Wheat,2006-07,2.7,4.2
+1,Balochistan,118,NASEERABAD,Wheat,2006-07,78.3,198.9
+1,Balochistan,130,PANJGUR,Wheat,2006-07,0.7,1.3
+1,Balochistan,12,Pishin,Wheat,2006-07,5.6,9.1
+1,Balochistan,11,Quetta,Wheat,2006-07,3.1,6.2
+1,Balochistan,16,Sibi,Wheat,2006-07,14.2,27.1
+1,Balochistan,134,Tomboo,Wheat,2006-07,0,0
+1,Balochistan,135,Turbat,Wheat,2006-07,0.8,1.4
+1,Balochistan,115,Zhob,Wheat,2006-07,3,5
+1,Balochistan,110,Ziarat,Wheat,2006-07,0.2,0.3
+1,Balochistan,125,Awaran,Wheat,2007-08,15.3,24
+1,Balochistan,113,Barkhan,Wheat,2007-08,22.3,41.9
+1,Balochistan,119,Bolan,Wheat,2007-08,12.5,28.1
+1,Balochistan,15,Chagai,Wheat,2007-08,12.7,22.5
+1,Balochistan,19,DERA BUGTI,Wheat,2007-08,7.3,11.8
+1,Balochistan,129,Gwadar,Wheat,2007-08,0,0
+1,Balochistan,117,JAFARABAD,Wheat,2007-08,41,104
+1,Balochistan,120,JHAL MAGSI,Wheat,2007-08,50.5,121.7
+1,Balochistan,128,KACHHI,Wheat,2007-08,0,0
+1,Balochistan,123,Kalat,Wheat,2007-08,11.8,21.2
+1,Balochistan,126,Kharan,Wheat,2007-08,16.1,26
+1,Balochistan,124,Khuzdar,Wheat,2007-08,43.2,80.7
+1,Balochistan,13,KILLA ABDULLAH,Wheat,2007-08,2.8,4.8
+1,Balochistan,114,KILLA SAIFULLAH ,Wheat,2007-08,14.7,28.1
+1,Balochistan,18,Kohlu,Wheat,2007-08,6.5,9.8
+1,Balochistan,121,Lasbela,Wheat,2007-08,4.2,7.7
+1,Balochistan,111,Loralai,Wheat,2007-08,17.3,34.4
+1,Balochistan,122,Mastung,Wheat,2007-08,12,21.1
+1,Balochistan,112,MUSA KHEL,Wheat,2007-08,3.4,4.9
+1,Balochistan,118,NASEERABAD,Wheat,2007-08,87.5,222.2
+1,Balochistan,130,PANJGUR,Wheat,2007-08,2.8,4.8
+1,Balochistan,12,Pishin,Wheat,2007-08,5.5,8.8
+1,Balochistan,11,Quetta,Wheat,2007-08,3.4,6.8
+1,Balochistan,16,Sibi,Wheat,2007-08,14.5,27.7
+1,Balochistan,134,Tomboo,Wheat,2007-08,0,0
+1,Balochistan,135,Turbat,Wheat,2007-08,1.5,2.9
+1,Balochistan,115,Zhob,Wheat,2007-08,1.6,2.6
+1,Balochistan,110,Ziarat,Wheat,2007-08,0.1,0.1
+1,Balochistan,125,Awaran,Wheat,2008-09,17.4,26.3
+1,Balochistan,113,Barkhan,Wheat,2008-09,16.6,32.2
+1,Balochistan,119,Bolan,Wheat,2008-09,11.5,27.1
+1,Balochistan,15,Chagai,Wheat,2008-09,9.8,15.3
+1,Balochistan,19,DERA BUGTI,Wheat,2008-09,7.9,12.7
+1,Balochistan,129,Gwadar,Wheat,2008-09,0,0
+1,Balochistan,117,JAFARABAD,Wheat,2008-09,44.7,113.4
+1,Balochistan,120,JHAL MAGSI,Wheat,2008-09,55.5,133.9
+1,Balochistan,128,KACHHI,Wheat,2008-09,0,0
+1,Balochistan,123,Kalat,Wheat,2008-09,7.5,13.1
+1,Balochistan,126,Kharan,Wheat,2008-09,11.5,17.7
+1,Balochistan,124,Khuzdar,Wheat,2008-09,43.5,80.7
+1,Balochistan,13,KILLA ABDULLAH,Wheat,2008-09,6.5,10.4
+1,Balochistan,114,KILLA SAIFULLAH ,Wheat,2008-09,14.9,28.9
+1,Balochistan,18,Kohlu,Wheat,2008-09,4.2,6.5
+1,Balochistan,121,Lasbela,Wheat,2008-09,7.6,15
+1,Balochistan,111,Loralai,Wheat,2008-09,15.9,32.5
+1,Balochistan,122,Mastung,Wheat,2008-09,6,9.8
+1,Balochistan,112,MUSA KHEL,Wheat,2008-09,3.5,4.9
+1,Balochistan,118,NASEERABAD,Wheat,2008-09,87.6,222.5
+1,Balochistan,130,PANJGUR,Wheat,2008-09,4.9,8.4
+1,Balochistan,12,Pishin,Wheat,2008-09,9.8,15.6
+1,Balochistan,11,Quetta,Wheat,2008-09,2.8,5.9
+1,Balochistan,16,Sibi,Wheat,2008-09,14.8,28.2
+1,Balochistan,134,Tomboo,Wheat,2008-09,0,0
+1,Balochistan,135,Turbat,Wheat,2008-09,1.5,2.2
+1,Balochistan,115,Zhob,Wheat,2008-09,2.8,4.7
+1,Balochistan,110,Ziarat,Wheat,2008-09,0.2,0.3
+1,Balochistan,,Quetta,Rice,1981-82,0,0
+1,Balochistan,,Pishin,Rice,1981-82,0,0
+1,Balochistan,,Chagai,Rice,1981-82,0,0
+1,Balochistan,,Loralai,Rice,1981-82,0,0
+1,Balochistan,,Zhob,Rice,1981-82,0,0
+1,Balochistan,,Killa Saifullah,Rice,1981-82,0,0
+1,Balochistan,,Musa Khail,Rice,1981-82,0,0
+1,Balochistan,,Barkhan,Rice,1981-82,0,0
+1,Balochistan,,Sibi,Rice,1981-82,0.7,0.9
+1,Balochistan,,Kohlu,Rice,1981-82,0,0
+1,Balochistan,,Dera Bughti ,Rice,1981-82,0,0
+1,Balochistan,,Ziarat,Rice,1981-82,0,0
+1,Balochistan,,Nasirabad ,Rice,1981-82,88.1,280.4
+1,Balochistan,,Kachhi,Rice,1981-82,0.5,0.8
+1,Balochistan,,Tamboo,Rice,1981-82,0,0
+1,Balochistan,,Jafferabad,Rice,1981-82,0,0
+1,Balochistan,,Bolan,Rice,1981-82,0,0
+1,Balochistan,,Jhal Magsi,Rice,1981-82,0,0
+1,Balochistan,,Kalat,Rice,1981-82,0,0
+1,Balochistan,,Khuzdar,Rice,1981-82,0.5,0.6
+1,Balochistan,,Kharan,Rice,1981-82,0,0
+1,Balochistan,,Lasbela,Rice,1981-82,*,*
+1,Balochistan,,Mastung,Rice,1981-82,0,0
+1,Balochistan,,Panjgur,Rice,1981-82,*,*
+1,Balochistan,,Gwadar,Rice,1981-82,0,0
+1,Balochistan,,Turbat,Rice,1981-82,0.7,1.2
+1,Balochistan,,Awaran,Rice,1981-82,0,0
+1,Balochistan,,K. Abdullah,Rice,1981-82,0,0
+1,Balochistan,,Quetta,Rice,1982-83,0,0
+1,Balochistan,,Pishin,Rice,1982-83,0,0
+1,Balochistan,,Chagai,Rice,1982-83,0,0
+1,Balochistan,,Loralai,Rice,1982-83,0,0
+1,Balochistan,,Zhob,Rice,1982-83,0,0
+1,Balochistan,,Killa Saifullah,Rice,1982-83,0,0
+1,Balochistan,,Musa Khail,Rice,1982-83,0,0
+1,Balochistan,,Barkhan,Rice,1982-83,0,0
+1,Balochistan,,Sibi,Rice,1982-83,0.2,0.3
+1,Balochistan,,Kohlu,Rice,1982-83,0,0
+1,Balochistan,,Dera Bughti ,Rice,1982-83,0,0
+1,Balochistan,,Ziarat,Rice,1982-83,0,0
+1,Balochistan,,Nasirabad ,Rice,1982-83,113.3,360.7
+1,Balochistan,,Kachhi,Rice,1982-83,0.6,1.1
+1,Balochistan,,Tamboo,Rice,1982-83,0,0
+1,Balochistan,,Jafferabad,Rice,1982-83,0,0
+1,Balochistan,,Bolan,Rice,1982-83,0,0
+1,Balochistan,,Jhal Magsi,Rice,1982-83,0,0
+1,Balochistan,,Kalat,Rice,1982-83,0.1,0.1
+1,Balochistan,,Khuzdar,Rice,1982-83,1.2,1.5
+1,Balochistan,,Kharan,Rice,1982-83,0,0
+1,Balochistan,,Lasbela,Rice,1982-83,*,*
+1,Balochistan,,Mastung,Rice,1982-83,0,0
+1,Balochistan,,Panjgur,Rice,1982-83,0.1,0.2
+1,Balochistan,,Gwadar,Rice,1982-83,0,0
+1,Balochistan,,Turbat,Rice,1982-83,0.6,1
+1,Balochistan,,Awaran,Rice,1982-83,0,0
+1,Balochistan,,K. Abdullah,Rice,1982-83,0,0
+1,Balochistan,,Quetta,Rice,1983-84,0,0
+1,Balochistan,,Pishin,Rice,1983-84,0,0
+1,Balochistan,,Chagai,Rice,1983-84,0,0
+1,Balochistan,,Loralai,Rice,1983-84,0,0
+1,Balochistan,,Zhob,Rice,1983-84,0,0
+1,Balochistan,,Killa Saifullah,Rice,1983-84,0,0
+1,Balochistan,,Musa Khail,Rice,1983-84,0,0
+1,Balochistan,,Barkhan,Rice,1983-84,0,0
+1,Balochistan,,Sibi,Rice,1983-84,0.4,0.9
+1,Balochistan,,Kohlu,Rice,1983-84,0,0
+1,Balochistan,,Dera Bughti ,Rice,1983-84,0,0
+1,Balochistan,,Ziarat,Rice,1983-84,0,0
+1,Balochistan,,Nasirabad ,Rice,1983-84,105.2,331.2
+1,Balochistan,,Kachhi,Rice,1983-84,0.3,0.5
+1,Balochistan,,Tamboo,Rice,1983-84,0,0
+1,Balochistan,,Jafferabad,Rice,1983-84,0,0
+1,Balochistan,,Bolan,Rice,1983-84,0,0
+1,Balochistan,,Jhal Magsi,Rice,1983-84,0,0
+1,Balochistan,,Kalat,Rice,1983-84,0.1,0.1
+1,Balochistan,,Khuzdar,Rice,1983-84,1.1,1.3
+1,Balochistan,,Kharan,Rice,1983-84,0,0
+1,Balochistan,,Lasbela,Rice,1983-84,*,*
+1,Balochistan,,Mastung,Rice,1983-84,0,0
+1,Balochistan,,Panjgur,Rice,1983-84,0.2,0.3
+1,Balochistan,,Gwadar,Rice,1983-84,0,0
+1,Balochistan,,Turbat,Rice,1983-84,0.7,1.2
+1,Balochistan,,Awaran,Rice,1983-84,0,0
+1,Balochistan,,K. Abdullah,Rice,1983-84,0,0
+1,Balochistan,,Quetta,Rice,1984-85,0,0
+1,Balochistan,,Pishin,Rice,1984-85,0,0
+1,Balochistan,,Chagai,Rice,1984-85,0,0
+1,Balochistan,,Loralai,Rice,1984-85,0,0
+1,Balochistan,,Zhob,Rice,1984-85,0,0
+1,Balochistan,,Killa Saifullah,Rice,1984-85,0,0
+1,Balochistan,,Musa Khail,Rice,1984-85,0,0
+1,Balochistan,,Barkhan,Rice,1984-85,0,0
+1,Balochistan,,Sibi,Rice,1984-85,0.3,0.5
+1,Balochistan,,Kohlu,Rice,1984-85,0,0
+1,Balochistan,,Dera Bughti ,Rice,1984-85,0,0
+1,Balochistan,,Ziarat,Rice,1984-85,0,0
+1,Balochistan,,Nasirabad ,Rice,1984-85,112.3,314.4
+1,Balochistan,,Kachhi,Rice,1984-85,0.8,1.5
+1,Balochistan,,Tamboo,Rice,1984-85,0,0
+1,Balochistan,,Jafferabad,Rice,1984-85,0,0
+1,Balochistan,,Bolan,Rice,1984-85,0,0
+1,Balochistan,,Jhal Magsi,Rice,1984-85,0,0
+1,Balochistan,,Kalat,Rice,1984-85,*,*
+1,Balochistan,,Khuzdar,Rice,1984-85,1.3,1.8
+1,Balochistan,,Kharan,Rice,1984-85,0,0
+1,Balochistan,,Lasbela,Rice,1984-85,0.1,0.1
+1,Balochistan,,Mastung,Rice,1984-85,0,0
+1,Balochistan,,Panjgur,Rice,1984-85,0.2,0.2
+1,Balochistan,,Gwadar,Rice,1984-85,0,0
+1,Balochistan,,Turbat,Rice,1984-85,0.8,1.3
+1,Balochistan,,Awaran,Rice,1984-85,0,0
+1,Balochistan,,K. Abdullah,Rice,1984-85,0,0
+1,Balochistan,,Quetta,Rice,1985-86,0,0
+1,Balochistan,,Pishin,Rice,1985-86,0,0
+1,Balochistan,,Chagai,Rice,1985-86,0,0
+1,Balochistan,,Loralai,Rice,1985-86,0,0
+1,Balochistan,,Zhob,Rice,1985-86,0,0
+1,Balochistan,,Killa Saifullah,Rice,1985-86,0,0
+1,Balochistan,,Musa Khail,Rice,1985-86,0,0
+1,Balochistan,,Barkhan,Rice,1985-86,0,0
+1,Balochistan,,Sibi,Rice,1985-86,0.3,0.5
+1,Balochistan,,Kohlu,Rice,1985-86,0,0
+1,Balochistan,,Dera Bughti ,Rice,1985-86,0,0
+1,Balochistan,,Ziarat,Rice,1985-86,0,0
+1,Balochistan,,Nasirabad ,Rice,1985-86,90.8,250
+1,Balochistan,,Kachhi,Rice,1985-86,0.8,1.5
+1,Balochistan,,Tamboo,Rice,1985-86,0,0
+1,Balochistan,,Jafferabad,Rice,1985-86,0,0
+1,Balochistan,,Bolan,Rice,1985-86,0,0
+1,Balochistan,,Jhal Magsi,Rice,1985-86,0,0
+1,Balochistan,,Kalat,Rice,1985-86,*,*
+1,Balochistan,,Khuzdar,Rice,1985-86,1.3,1.9
+1,Balochistan,,Kharan,Rice,1985-86,0,0
+1,Balochistan,,Lasbela,Rice,1985-86,0.1,0.1
+1,Balochistan,,Mastung,Rice,1985-86,0,0
+1,Balochistan,,Panjgur,Rice,1985-86,0.2,0.2
+1,Balochistan,,Gwadar,Rice,1985-86,0,0
+1,Balochistan,,Turbat,Rice,1985-86,0.6,1
+1,Balochistan,,Awaran,Rice,1985-86,0,0
+1,Balochistan,,K. Abdullah,Rice,1985-86,0,0
+1,Balochistan,,Quetta,Rice,1986-87,0,0
+1,Balochistan,,Pishin,Rice,1986-87,0,0
+1,Balochistan,,Chagai,Rice,1986-87,0,0
+1,Balochistan,,Loralai,Rice,1986-87,0,0
+1,Balochistan,,Zhob,Rice,1986-87,0,0
+1,Balochistan,,Killa Saifullah,Rice,1986-87,0,0
+1,Balochistan,,Musa Khail,Rice,1986-87,0,0
+1,Balochistan,,Barkhan,Rice,1986-87,0,0
+1,Balochistan,,Sibi,Rice,1986-87,0.2,0.4
+1,Balochistan,,Kohlu,Rice,1986-87,0,0
+1,Balochistan,,Dera Bughti ,Rice,1986-87,0,0
+1,Balochistan,,Ziarat,Rice,1986-87,0,0
+1,Balochistan,,Nasirabad ,Rice,1986-87,0,0
+1,Balochistan,,Kachhi,Rice,1986-87,0.7,2.2
+1,Balochistan,,Tamboo,Rice,1986-87,96,278.7
+1,Balochistan,,Jafferabad,Rice,1986-87,0,0
+1,Balochistan,,Bolan,Rice,1986-87,0,0
+1,Balochistan,,Jhal Magsi,Rice,1986-87,0,0
+1,Balochistan,,Kalat,Rice,1986-87,0,0
+1,Balochistan,,Khuzdar,Rice,1986-87,1.3,1.9
+1,Balochistan,,Kharan,Rice,1986-87,0,0
+1,Balochistan,,Lasbela,Rice,1986-87,0,0
+1,Balochistan,,Mastung,Rice,1986-87,0,0
+1,Balochistan,,Panjgur,Rice,1986-87,0.2,0.2
+1,Balochistan,,Gwadar,Rice,1986-87,0,0
+1,Balochistan,,Turbat,Rice,1986-87,0.7,1.3
+1,Balochistan,,Awaran,Rice,1986-87,0,0
+1,Balochistan,,K. Abdullah,Rice,1986-87,0,0
+1,Balochistan,,Quetta,Rice,1987-88,0,0
+1,Balochistan,,Pishin,Rice,1987-88,0,0
+1,Balochistan,,Chagai,Rice,1987-88,0,0
+1,Balochistan,,Loralai,Rice,1987-88,0,0
+1,Balochistan,,Zhob,Rice,1987-88,0,0
+1,Balochistan,,Killa Saifullah,Rice,1987-88,0,0
+1,Balochistan,,Musa Khail,Rice,1987-88,0,0
+1,Balochistan,,Barkhan,Rice,1987-88,0,0
+1,Balochistan,,Sibi,Rice,1987-88,0.2,0.3
+1,Balochistan,,Kohlu,Rice,1987-88,0,0
+1,Balochistan,,Dera Bughti ,Rice,1987-88,0,0
+1,Balochistan,,Ziarat,Rice,1987-88,0,0
+1,Balochistan,,Nasirabad ,Rice,1987-88,0,0
+1,Balochistan,,Kachhi,Rice,1987-88,0.7,2.3
+1,Balochistan,,Tamboo,Rice,1987-88,92.5,238.2
+1,Balochistan,,Jafferabad,Rice,1987-88,0,0
+1,Balochistan,,Bolan,Rice,1987-88,0,0
+1,Balochistan,,Jhal Magsi,Rice,1987-88,0,0
+1,Balochistan,,Kalat,Rice,1987-88,0,0
+1,Balochistan,,Khuzdar,Rice,1987-88,0.4,0.5
+1,Balochistan,,Kharan,Rice,1987-88,0,0
+1,Balochistan,,Lasbela,Rice,1987-88,0.1,0.1
+1,Balochistan,,Mastung,Rice,1987-88,0,0
+1,Balochistan,,Panjgur,Rice,1987-88,0.1,0.2
+1,Balochistan,,Gwadar,Rice,1987-88,0,0
+1,Balochistan,,Turbat,Rice,1987-88,0.9,2
+1,Balochistan,,Awaran,Rice,1987-88,0,0
+1,Balochistan,,K. Abdullah,Rice,1987-88,0,0
+1,Balochistan,,Quetta,Rice,1988-89,0,0
+1,Balochistan,,Pishin,Rice,1988-89,0,0
+1,Balochistan,,Chagai,Rice,1988-89,0,0
+1,Balochistan,,Loralai,Rice,1988-89,0,0
+1,Balochistan,,Zhob,Rice,1988-89,0,0
+1,Balochistan,,Killa Saifullah,Rice,1988-89,0,0
+1,Balochistan,,Musa Khail,Rice,1988-89,0,0
+1,Balochistan,,Barkhan,Rice,1988-89,0,0
+1,Balochistan,,Sibi,Rice,1988-89,0.2,0.3
+1,Balochistan,,Kohlu,Rice,1988-89,0,0
+1,Balochistan,,Dera Bughti ,Rice,1988-89,,0.1
+1,Balochistan,,Ziarat,Rice,1988-89,0,0
+1,Balochistan,,Nasirabad ,Rice,1988-89,0,0
+1,Balochistan,,Kachhi,Rice,1988-89,0.9,2.5
+1,Balochistan,,Tamboo,Rice,1988-89,39.5,105.8
+1,Balochistan,,Jafferabad,Rice,1988-89,64.4,167.2
+1,Balochistan,,Bolan,Rice,1988-89,0,0
+1,Balochistan,,Jhal Magsi,Rice,1988-89,0,0
+1,Balochistan,,Kalat,Rice,1988-89,0,0
+1,Balochistan,,Khuzdar,Rice,1988-89,0.6,1
+1,Balochistan,,Kharan,Rice,1988-89,0,0
+1,Balochistan,,Lasbela,Rice,1988-89,0.1,0.1
+1,Balochistan,,Mastung,Rice,1988-89,0,0
+1,Balochistan,,Panjgur,Rice,1988-89,0.1,0.1
+1,Balochistan,,Gwadar,Rice,1988-89,0,0
+1,Balochistan,,Turbat,Rice,1988-89,0.9,2.1
+1,Balochistan,,Awaran,Rice,1988-89,0,0
+1,Balochistan,,K. Abdullah,Rice,1988-89,0,0
+1,Balochistan,,Quetta,Rice,1989-90,0,0
+1,Balochistan,,Pishin,Rice,1989-90,0,0
+1,Balochistan,,Chagai,Rice,1989-90,0,0
+1,Balochistan,,Loralai,Rice,1989-90,0,0
+1,Balochistan,,Zhob,Rice,1989-90,0,0
+1,Balochistan,,Killa Saifullah,Rice,1989-90,0,0
+1,Balochistan,,Musa Khail,Rice,1989-90,0,0
+1,Balochistan,,Barkhan,Rice,1989-90,0,0
+1,Balochistan,,Sibi,Rice,1989-90,0.2,0.4
+1,Balochistan,,Kohlu,Rice,1989-90,0,0
+1,Balochistan,,Dera Bughti ,Rice,1989-90,0,0
+1,Balochistan,,Ziarat,Rice,1989-90,0,0
+1,Balochistan,,Nasirabad ,Rice,1989-90,0,0
+1,Balochistan,,Kachhi,Rice,1989-90,0.9,2.5
+1,Balochistan,,Tamboo,Rice,1989-90,40,107.7
+1,Balochistan,,Jafferabad,Rice,1989-90,65.3,169.1
+1,Balochistan,,Bolan,Rice,1989-90,0,0
+1,Balochistan,,Jhal Magsi,Rice,1989-90,0,0
+1,Balochistan,,Kalat,Rice,1989-90,0,0
+1,Balochistan,,Khuzdar,Rice,1989-90,0.7,1.1
+1,Balochistan,,Kharan,Rice,1989-90,0,0
+1,Balochistan,,Lasbela,Rice,1989-90,0,0
+1,Balochistan,,Mastung,Rice,1989-90,0,0
+1,Balochistan,,Panjgur,Rice,1989-90,0.1,0.1
+1,Balochistan,,Gwadar,Rice,1989-90,0,0
+1,Balochistan,,Turbat,Rice,1989-90,1,2.4
+1,Balochistan,,Awaran,Rice,1989-90,0,0
+1,Balochistan,,K. Abdullah,Rice,1989-90,0,0
+1,Balochistan,,Quetta,Rice,1990-91,0,0
+1,Balochistan,,Pishin,Rice,1990-91,0,0
+1,Balochistan,,Chagai,Rice,1990-91,0,0
+1,Balochistan,,Loralai,Rice,1990-91,0,0
+1,Balochistan,,Zhob,Rice,1990-91,0,0
+1,Balochistan,,Killa Saifullah,Rice,1990-91,0,0
+1,Balochistan,,Musa Khail,Rice,1990-91,0,0
+1,Balochistan,,Barkhan,Rice,1990-91,0,0
+1,Balochistan,,Sibi,Rice,1990-91,0.2,0.4
+1,Balochistan,,Kohlu,Rice,1990-91,0,0
+1,Balochistan,,Dera Bughti ,Rice,1990-91,0,0
+1,Balochistan,,Ziarat,Rice,1990-91,0,0
+1,Balochistan,,Nasirabad ,Rice,1990-91,0,0
+1,Balochistan,,Kachhi,Rice,1990-91,0.8,2.6
+1,Balochistan,,Tamboo,Rice,1990-91,40.1,107.2
+1,Balochistan,,Jafferabad,Rice,1990-91,65.7,173.1
+1,Balochistan,,Bolan,Rice,1990-91,0,0
+1,Balochistan,,Jhal Magsi,Rice,1990-91,0,0
+1,Balochistan,,Kalat,Rice,1990-91,0,0
+1,Balochistan,,Khuzdar,Rice,1990-91,0.7,1.1
+1,Balochistan,,Kharan,Rice,1990-91,0,0
+1,Balochistan,,Lasbela,Rice,1990-91,0,0
+1,Balochistan,,Mastung,Rice,1990-91,0,0
+1,Balochistan,,Panjgur,Rice,1990-91,0.1,0.1
+1,Balochistan,,Gwadar,Rice,1990-91,0,0
+1,Balochistan,,Turbat,Rice,1990-91,1.1,2.6
+1,Balochistan,,Awaran,Rice,1990-91,0,0
+1,Balochistan,,K. Abdullah,Rice,1990-91,0,0
+1,Balochistan,,Quetta,Rice,1991-92,0,0
+1,Balochistan,,Pishin,Rice,1991-92,0,0
+1,Balochistan,,Chagai,Rice,1991-92,0,0
+1,Balochistan,,Loralai,Rice,1991-92,0,0
+1,Balochistan,,Zhob,Rice,1991-92,0,0
+1,Balochistan,,Killa Saifullah,Rice,1991-92,0,0
+1,Balochistan,,Musa Khail,Rice,1991-92,0,0
+1,Balochistan,,Barkhan,Rice,1991-92,0,0
+1,Balochistan,,Sibi,Rice,1991-92,0.2,0.4
+1,Balochistan,,Kohlu,Rice,1991-92,0,0
+1,Balochistan,,Dera Bughti ,Rice,1991-92,0,0
+1,Balochistan,,Ziarat,Rice,1991-92,0,0
+1,Balochistan,,Nasirabad ,Rice,1991-92,0,0
+1,Balochistan,,Kachhi,Rice,1991-92,0.9,2.6
+1,Balochistan,,Tamboo,Rice,1991-92,40.3,104.8
+1,Balochistan,,Jafferabad,Rice,1991-92,66.2,177.9
+1,Balochistan,,Bolan,Rice,1991-92,0,0
+1,Balochistan,,Jhal Magsi,Rice,1991-92,0,0
+1,Balochistan,,Kalat,Rice,1991-92,0,0
+1,Balochistan,,Khuzdar,Rice,1991-92,1.2,1.9
+1,Balochistan,,Kharan,Rice,1991-92,0,0
+1,Balochistan,,Lasbela,Rice,1991-92,0,0
+1,Balochistan,,Mastung,Rice,1991-92,0,0
+1,Balochistan,,Panjgur,Rice,1991-92,0,0
+1,Balochistan,,Gwadar,Rice,1991-92,0,0
+1,Balochistan,,Turbat,Rice,1991-92,1.2,2.8
+1,Balochistan,,Awaran,Rice,1991-92,0,0
+1,Balochistan,,K. Abdullah,Rice,1991-92,0,0
+1,Balochistan,,Quetta,Rice,1992-93,0,0
+1,Balochistan,,Pishin,Rice,1992-93,0,0
+1,Balochistan,,Chagai,Rice,1992-93,0,0
+1,Balochistan,,Loralai,Rice,1992-93,0,0
+1,Balochistan,,Zhob,Rice,1992-93,0,0
+1,Balochistan,,Killa Saifullah,Rice,1992-93,0,0
+1,Balochistan,,Musa Khail,Rice,1992-93,0,0
+1,Balochistan,,Barkhan,Rice,1992-93,0,0
+1,Balochistan,,Sibi,Rice,1992-93,0.2,0.4
+1,Balochistan,,Kohlu,Rice,1992-93,0,0
+1,Balochistan,,Dera Bughti ,Rice,1992-93,0,0
+1,Balochistan,,Ziarat,Rice,1992-93,0,0
+1,Balochistan,,Nasirabad ,Rice,1992-93,47,132.4
+1,Balochistan,,Kachhi,Rice,1992-93,0,0
+1,Balochistan,,Tamboo,Rice,1992-93,0,0
+1,Balochistan,,Jafferabad,Rice,1992-93,68,183
+1,Balochistan,,Bolan,Rice,1992-93,0,0
+1,Balochistan,,Jhal Magsi,Rice,1992-93,0.9,2.7
+1,Balochistan,,Kalat,Rice,1992-93,0,0
+1,Balochistan,,Khuzdar,Rice,1992-93,3.6,6.3
+1,Balochistan,,Kharan,Rice,1992-93,0,0
+1,Balochistan,,Lasbela,Rice,1992-93,0,0
+1,Balochistan,,Mastung,Rice,1992-93,0,0
+1,Balochistan,,Panjgur,Rice,1992-93,0,0
+1,Balochistan,,Gwadar,Rice,1992-93,0,0
+1,Balochistan,,Turbat,Rice,1992-93,1.1,2.7
+1,Balochistan,,Awaran,Rice,1992-93,0,0
+1,Balochistan,,K. Abdullah,Rice,1992-93,0,0
+1,Balochistan,,Quetta,Rice,1993-94,0,0
+1,Balochistan,,Pishin,Rice,1993-94,0,0
+1,Balochistan,,Chagai,Rice,1993-94,0,0
+1,Balochistan,,Loralai,Rice,1993-94,0,0
+1,Balochistan,,Zhob,Rice,1993-94,0,0
+1,Balochistan,,Killa Saifullah,Rice,1993-94,0,0
+1,Balochistan,,Musa Khail,Rice,1993-94,0,0
+1,Balochistan,,Barkhan,Rice,1993-94,0,0
+1,Balochistan,,Sibi,Rice,1993-94,0.2,0.4
+1,Balochistan,,Kohlu,Rice,1993-94,0,0
+1,Balochistan,,Dera Bughti ,Rice,1993-94,0,0
+1,Balochistan,,Ziarat,Rice,1993-94,0,0
+1,Balochistan,,Nasirabad ,Rice,1993-94,48,138.9
+1,Balochistan,,Kachhi,Rice,1993-94,0,0
+1,Balochistan,,Tamboo,Rice,1993-94,0,0
+1,Balochistan,,Jafferabad,Rice,1993-94,68.1,183.7
+1,Balochistan,,Bolan,Rice,1993-94,0,0
+1,Balochistan,,Jhal Magsi,Rice,1993-94,0.9,2.8
+1,Balochistan,,Kalat,Rice,1993-94,0,0
+1,Balochistan,,Khuzdar,Rice,1993-94,2.7,5
+1,Balochistan,,Kharan,Rice,1993-94,0,0
+1,Balochistan,,Lasbela,Rice,1993-94,0,0
+1,Balochistan,,Mastung,Rice,1993-94,0,0
+1,Balochistan,,Panjgur,Rice,1993-94,0.1,0.1
+1,Balochistan,,Gwadar,Rice,1993-94,0,0
+1,Balochistan,,Turbat,Rice,1993-94,0.9,2.3
+1,Balochistan,,Awaran,Rice,1993-94,0,0
+1,Balochistan,,K. Abdullah,Rice,1993-94,0,0
+1,Balochistan,,Quetta,Rice,1994-95,0,0
+1,Balochistan,,Pishin,Rice,1994-95,0,0
+1,Balochistan,,Chagai,Rice,1994-95,0,0
+1,Balochistan,,Loralai,Rice,1994-95,0,0
+1,Balochistan,,Zhob,Rice,1994-95,0,0
+1,Balochistan,,Killa Saifullah,Rice,1994-95,0,0
+1,Balochistan,,Musa Khail,Rice,1994-95,0,0
+1,Balochistan,,Barkhan,Rice,1994-95,0,0
+1,Balochistan,,Sibi,Rice,1994-95,0.2,0.4
+1,Balochistan,,Kohlu,Rice,1994-95,0,0
+1,Balochistan,,Dera Bughti ,Rice,1994-95,0,0
+1,Balochistan,,Ziarat,Rice,1994-95,0,0
+1,Balochistan,,Nasirabad ,Rice,1994-95,48.4,87.6
+1,Balochistan,,Kachhi,Rice,1994-95,0,0
+1,Balochistan,,Tamboo,Rice,1994-95,0,0
+1,Balochistan,,Jafferabad,Rice,1994-95,70.5,139.9
+1,Balochistan,,Bolan,Rice,1994-95,0.5,1.1
+1,Balochistan,,Jhal Magsi,Rice,1994-95,0.9,2
+1,Balochistan,,Kalat,Rice,1994-95,0,0
+1,Balochistan,,Khuzdar,Rice,1994-95,2.7,4.3
+1,Balochistan,,Kharan,Rice,1994-95,0,0
+1,Balochistan,,Lasbela,Rice,1994-95,0.1,0.1
+1,Balochistan,,Mastung,Rice,1994-95,0,0
+1,Balochistan,,Panjgur,Rice,1994-95,0.1,0.1
+1,Balochistan,,Gwadar,Rice,1994-95,0,0
+1,Balochistan,,Turbat,Rice,1994-95,0.9,2.1
+1,Balochistan,,Awaran,Rice,1994-95,0,0
+1,Balochistan,,K. Abdullah,Rice,1994-95,0,0
+1,Balochistan,,Quetta,Rice,1995-96,0,0
+1,Balochistan,,Pishin,Rice,1995-96,0,0
+1,Balochistan,,Chagai,Rice,1995-96,0,0
+1,Balochistan,,Loralai,Rice,1995-96,0,0
+1,Balochistan,,Zhob,Rice,1995-96,0,0
+1,Balochistan,,Killa Saifullah,Rice,1995-96,0,0
+1,Balochistan,,Musa Khail,Rice,1995-96,0,0
+1,Balochistan,,Barkhan,Rice,1995-96,0,0
+1,Balochistan,,Sibi,Rice,1995-96,0.2,0.4
+1,Balochistan,,Kohlu,Rice,1995-96,0,0
+1,Balochistan,,Dera Bughti ,Rice,1995-96,0,0
+1,Balochistan,,Ziarat,Rice,1995-96,0,0
+1,Balochistan,,Nasirabad ,Rice,1995-96,48.5,134.3
+1,Balochistan,,Kachhi,Rice,1995-96,0,0
+1,Balochistan,,Tamboo,Rice,1995-96,0,0
+1,Balochistan,,Jafferabad,Rice,1995-96,74,202
+1,Balochistan,,Bolan,Rice,1995-96,0.5,1.1
+1,Balochistan,,Jhal Magsi,Rice,1995-96,0.9,2.8
+1,Balochistan,,Kalat,Rice,1995-96,0,0
+1,Balochistan,,Khuzdar,Rice,1995-96,2.7,4.8
+1,Balochistan,,Kharan,Rice,1995-96,0,0
+1,Balochistan,,Lasbela,Rice,1995-96,0.1,0.1
+1,Balochistan,,Mastung,Rice,1995-96,0,0
+1,Balochistan,,Panjgur,Rice,1995-96,0.1,0.1
+1,Balochistan,,Gwadar,Rice,1995-96,0,0
+1,Balochistan,,Turbat,Rice,1995-96,1,2.5
+1,Balochistan,,Awaran,Rice,1995-96,0,0
+1,Balochistan,,K. Abdullah,Rice,1995-96,0,0
+1,Balochistan,,Quetta,Rice,1996-97,0,0
+1,Balochistan,,Pishin,Rice,1996-97,0,0
+1,Balochistan,,Chagai,Rice,1996-97,0,0
+1,Balochistan,,Loralai,Rice,1996-97,0,0
+1,Balochistan,,Zhob,Rice,1996-97,0,0
+1,Balochistan,,Killa Saifullah,Rice,1996-97,0,0
+1,Balochistan,,Musa Khail,Rice,1996-97,0,0
+1,Balochistan,,Barkhan,Rice,1996-97,0,0
+1,Balochistan,,Sibi,Rice,1996-97,0.2,0.4
+1,Balochistan,,Kohlu,Rice,1996-97,0,0
+1,Balochistan,,Dera Bughti ,Rice,1996-97,0,0
+1,Balochistan,,Ziarat,Rice,1996-97,0,0
+1,Balochistan,,Nasirabad ,Rice,1996-97,49.2,137.1
+1,Balochistan,,Kachhi,Rice,1996-97,0,0
+1,Balochistan,,Tamboo,Rice,1996-97,0,0
+1,Balochistan,,Jafferabad,Rice,1996-97,75.7,207.8
+1,Balochistan,,Bolan,Rice,1996-97,0,0
+1,Balochistan,,Jhal Magsi,Rice,1996-97,1,2.9
+1,Balochistan,,Kalat,Rice,1996-97,0,0
+1,Balochistan,,Khuzdar,Rice,1996-97,2.8,4.8
+1,Balochistan,,Kharan,Rice,1996-97,0,0
+1,Balochistan,,Lasbela,Rice,1996-97,0.1,0.1
+1,Balochistan,,Mastung,Rice,1996-97,0,0
+1,Balochistan,,Panjgur,Rice,1996-97,0.1,0.1
+1,Balochistan,,Gwadar,Rice,1996-97,0,0
+1,Balochistan,,Turbat,Rice,1996-97,1,2.6
+1,Balochistan,,Awaran,Rice,1996-97,0,0
+1,Balochistan,,K. Abdullah,Rice,1996-97,0,0
+1,Balochistan,,Quetta,Rice,1997-98,0,0
+1,Balochistan,,Pishin,Rice,1997-98,0,0
+1,Balochistan,,Chagai,Rice,1997-98,0,0
+1,Balochistan,,Loralai,Rice,1997-98,0,0
+1,Balochistan,,Zhob,Rice,1997-98,0,0
+1,Balochistan,,Killa Saifullah,Rice,1997-98,0,0
+1,Balochistan,,Musa Khail,Rice,1997-98,0,0
+1,Balochistan,,Barkhan,Rice,1997-98,0,0
+1,Balochistan,,Sibi,Rice,1997-98,0.1,0.2
+1,Balochistan,,Kohlu,Rice,1997-98,0,0
+1,Balochistan,,Dera Bughti ,Rice,1997-98,0,0
+1,Balochistan,,Ziarat,Rice,1997-98,0,0
+1,Balochistan,,Nasirabad ,Rice,1997-98,51.1,144.8
+1,Balochistan,,Kachhi,Rice,1997-98,0,0
+1,Balochistan,,Tamboo,Rice,1997-98,0,0
+1,Balochistan,,Jafferabad,Rice,1997-98,92.5,254.1
+1,Balochistan,,Bolan,Rice,1997-98,0,0
+1,Balochistan,,Jhal Magsi,Rice,1997-98,0.2,0.7
+1,Balochistan,,Kalat,Rice,1997-98,0,0
+1,Balochistan,,Khuzdar,Rice,1997-98,6.3,11.5
+1,Balochistan,,Kharan,Rice,1997-98,0,0
+1,Balochistan,,Lasbela,Rice,1997-98,0,0
+1,Balochistan,,Mastung,Rice,1997-98,0,0
+1,Balochistan,,Panjgur,Rice,1997-98,0.1,0.1
+1,Balochistan,,Gwadar,Rice,1997-98,0,0
+1,Balochistan,,Turbat,Rice,1997-98,1,2.5
+1,Balochistan,,Awaran,Rice,1997-98,0,0
+1,Balochistan,,K. Abdullah,Rice,1997-98,0,0
+1,Balochistan,,Quetta,Rice,1998-99,0,0
+1,Balochistan,,Pishin,Rice,1998-99,0,0
+1,Balochistan,,Chagai,Rice,1998-99,0,0
+1,Balochistan,,Loralai,Rice,1998-99,0,0
+1,Balochistan,,Zhob,Rice,1998-99,0,0
+1,Balochistan,,Killa Saifullah,Rice,1998-99,0,0
+1,Balochistan,,Musa Khail,Rice,1998-99,0,0
+1,Balochistan,,Barkhan,Rice,1998-99,0,0
+1,Balochistan,,Sibi,Rice,1998-99,0.1,0.3
+1,Balochistan,,Kohlu,Rice,1998-99,0,0
+1,Balochistan,,Dera Bughti ,Rice,1998-99,0,0
+1,Balochistan,,Ziarat,Rice,1998-99,0,0
+1,Balochistan,,Nasirabad ,Rice,1998-99,57.2,161.7
+1,Balochistan,,Kachhi,Rice,1998-99,0,0
+1,Balochistan,,Tamboo,Rice,1998-99,0,0
+1,Balochistan,,Jafferabad,Rice,1998-99,93.4,256.5
+1,Balochistan,,Bolan,Rice,1998-99,0,0
+1,Balochistan,,Jhal Magsi,Rice,1998-99,0.2,0.6
+1,Balochistan,,Kalat,Rice,1998-99,0,0
+1,Balochistan,,Khuzdar,Rice,1998-99,6.4,11.8
+1,Balochistan,,Kharan,Rice,1998-99,0,0
+1,Balochistan,,Lasbela,Rice,1998-99,0,0.1
+1,Balochistan,,Mastung,Rice,1998-99,0,0
+1,Balochistan,,Panjgur,Rice,1998-99,0,0.1
+1,Balochistan,,Gwadar,Rice,1998-99,0,0
+1,Balochistan,,Turbat,Rice,1998-99,1.1,2.8
+1,Balochistan,,Awaran,Rice,1998-99,0,0
+1,Balochistan,,K. Abdullah,Rice,1998-99,0,0
+1,Balochistan,,Quetta,Rice,1999-00,0,0
+1,Balochistan,,Pishin,Rice,1999-00,0,0
+1,Balochistan,,Chagai,Rice,1999-00,0,0
+1,Balochistan,,Loralai,Rice,1999-00,0,0
+1,Balochistan,,Zhob,Rice,1999-00,0,0
+1,Balochistan,,Killa Saifullah,Rice,1999-00,0,0
+1,Balochistan,,Musa Khail,Rice,1999-00,0,0
+1,Balochistan,,Barkhan,Rice,1999-00,0,0
+1,Balochistan,,Sibi,Rice,1999-00,0,0.1
+1,Balochistan,,Kohlu,Rice,1999-00,0,0
+1,Balochistan,,Dera Bughti ,Rice,1999-00,0,0
+1,Balochistan,,Ziarat,Rice,1999-00,0,0
+1,Balochistan,,Nasirabad ,Rice,1999-00,53.4,159
+1,Balochistan,,Kachhi,Rice,1999-00,0,0
+1,Balochistan,,Tamboo,Rice,1999-00,0,0
+1,Balochistan,,Jafferabad,Rice,1999-00,87.4,248.1
+1,Balochistan,,Bolan,Rice,1999-00,0,0
+1,Balochistan,,Jhal Magsi,Rice,1999-00,0.2,0.6
+1,Balochistan,,Kalat,Rice,1999-00,0,0
+1,Balochistan,,Khuzdar,Rice,1999-00,6.4,11.9
+1,Balochistan,,Kharan,Rice,1999-00,0,0
+1,Balochistan,,Lasbela,Rice,1999-00,0,0.1
+1,Balochistan,,Mastung,Rice,1999-00,0,0
+1,Balochistan,,Panjgur,Rice,1999-00,0,0
+1,Balochistan,,Gwadar,Rice,1999-00,0,0
+1,Balochistan,,Turbat,Rice,1999-00,1.1,2.6
+1,Balochistan,,Awaran,Rice,1999-00,0,0
+1,Balochistan,,K. Abdullah,Rice,1999-00,0,0
+1,Balochistan,,Quetta,Rice,2000-01,0,0
+1,Balochistan,,Pishin,Rice,2000-01,0,0
+1,Balochistan,,Chagai,Rice,2000-01,0,0
+1,Balochistan,,Loralai,Rice,2000-01,0,0
+1,Balochistan,,Zhob,Rice,2000-01,0,0
+1,Balochistan,,Killa Saifullah,Rice,2000-01,0,0
+1,Balochistan,,Musa Khail,Rice,2000-01,0,0
+1,Balochistan,,Barkhan,Rice,2000-01,0,0
+1,Balochistan,,Sibi,Rice,2000-01,0,0.1
+1,Balochistan,,Kohlu,Rice,2000-01,0,0
+1,Balochistan,,Dera Bughti ,Rice,2000-01,0,0
+1,Balochistan,,Ziarat,Rice,2000-01,0,0
+1,Balochistan,,Nasirabad ,Rice,2000-01,140,406.2
+1,Balochistan,,Kachhi,Rice,2000-01,0.2,0.7
+1,Balochistan,,Tamboo,Rice,2000-01,0,0
+1,Balochistan,,Jafferabad,Rice,2000-01,0,0
+1,Balochistan,,Bolan,Rice,2000-01,0,0
+1,Balochistan,,Jhal Magsi,Rice,2000-01,0,0
+1,Balochistan,,Kalat,Rice,2000-01,0,0
+1,Balochistan,,Khuzdar,Rice,2000-01,1.9,3.3
+1,Balochistan,,Kharan,Rice,2000-01,0,0
+1,Balochistan,,Lasbela,Rice,2000-01,0,0.1
+1,Balochistan,,Mastung,Rice,2000-01,0,0
+1,Balochistan,,Panjgur,Rice,2000-01,0.1,0.1
+1,Balochistan,,Gwadar,Rice,2000-01,0,0
+1,Balochistan,,Turbat,Rice,2000-01,0.7,1.6
+1,Balochistan,,Awaran,Rice,2000-01,0,0
+1,Balochistan,,K. Abdullah,Rice,2000-01,0,0
+1,Balochistan,,Quetta,Rice,2001-02,0,0
+1,Balochistan,,Pishin,Rice,2001-02,0,0
+1,Balochistan,,Chagai,Rice,2001-02,0,0
+1,Balochistan,,Loralai,Rice,2001-02,0,0
+1,Balochistan,,Zhob,Rice,2001-02,0,0
+1,Balochistan,,Killa Saifullah,Rice,2001-02,0,0
+1,Balochistan,,Musa Khail,Rice,2001-02,0,0
+1,Balochistan,,Barkhan,Rice,2001-02,0,0
+1,Balochistan,,Sibi,Rice,2001-02,0.1,0.1
+1,Balochistan,,Kohlu,Rice,2001-02,0,0
+1,Balochistan,,Dera Bughti ,Rice,2001-02,0,0
+1,Balochistan,,Ziarat,Rice,2001-02,0,0
+1,Balochistan,,Nasirabad ,Rice,2001-02,112.1,327.3
+1,Balochistan,,Kachhi,Rice,2001-02,0.2,0.5
+1,Balochistan,,Tamboo,Rice,2001-02,0,0
+1,Balochistan,,Jafferabad,Rice,2001-02,0,0
+1,Balochistan,,Bolan,Rice,2001-02,0,0
+1,Balochistan,,Jhal Magsi,Rice,2001-02,0,0
+1,Balochistan,,Kalat,Rice,2001-02,0,0
+1,Balochistan,,Khuzdar,Rice,2001-02,3.2,5.3
+1,Balochistan,,Kharan,Rice,2001-02,0,0
+1,Balochistan,,Lasbela,Rice,2001-02,0,0
+1,Balochistan,,Mastung,Rice,2001-02,0,0
+1,Balochistan,,Panjgur,Rice,2001-02,0.1,0.1
+1,Balochistan,,Gwadar,Rice,2001-02,0,0
+1,Balochistan,,Turbat,Rice,2001-02,0.8,1.9
+1,Balochistan,,Awaran,Rice,2001-02,0,0
+1,Balochistan,,K. Abdullah,Rice,2001-02,0,0
+1,Balochistan,,Quetta,Rice,2002-03,0,0
+1,Balochistan,,Pishin,Rice,2002-03,0,0
+1,Balochistan,,Chagai,Rice,2002-03,0,0
+1,Balochistan,,Loralai,Rice,2002-03,0,0
+1,Balochistan,,Zhob,Rice,2002-03,0,0
+1,Balochistan,,Killa Saifullah,Rice,2002-03,0,0
+1,Balochistan,,Musa Khail,Rice,2002-03,0,0
+1,Balochistan,,Barkhan,Rice,2002-03,0,0
+1,Balochistan,,Sibi,Rice,2002-03,0,0
+1,Balochistan,,Kohlu,Rice,2002-03,0,0
+1,Balochistan,,Dera Bughti ,Rice,2002-03,0,0
+1,Balochistan,,Ziarat,Rice,2002-03,0,0
+1,Balochistan,,Nasirabad ,Rice,2002-03,155.5,453.9
+1,Balochistan,,Kachhi,Rice,2002-03,0.2,0.5
+1,Balochistan,,Tamboo,Rice,2002-03,0,0
+1,Balochistan,,Jafferabad,Rice,2002-03,0,0
+1,Balochistan,,Bolan,Rice,2002-03,0,0
+1,Balochistan,,Jhal Magsi,Rice,2002-03,0,0
+1,Balochistan,,Kalat,Rice,2002-03,0,0
+1,Balochistan,,Khuzdar,Rice,2002-03,7.5,12.1
+1,Balochistan,,Kharan,Rice,2002-03,0,0
+1,Balochistan,,Lasbela,Rice,2002-03,0.1,0.2
+1,Balochistan,,Mastung,Rice,2002-03,0,0
+1,Balochistan,,Panjgur,Rice,2002-03,0,0
+1,Balochistan,,Gwadar,Rice,2002-03,0,0
+1,Balochistan,,Turbat,Rice,2002-03,0.3,0.7
+1,Balochistan,,Awaran,Rice,2002-03,0,0
+1,Balochistan,,K. Abdullah,Rice,2002-03,0,0
+1,Balochistan,,Quetta,Rice,2003-04,0,0
+1,Balochistan,,Pishin,Rice,2003-04,0,0
+1,Balochistan,,Chagai,Rice,2003-04,0,0
+1,Balochistan,,Loralai,Rice,2003-04,0,0
+1,Balochistan,,Zhob,Rice,2003-04,0,0
+1,Balochistan,,Killa Saifullah,Rice,2003-04,0,0
+1,Balochistan,,Musa Khail,Rice,2003-04,0,0
+1,Balochistan,,Barkhan,Rice,2003-04,0,0
+1,Balochistan,,Sibi,Rice,2003-04,0,0
+1,Balochistan,,Kohlu,Rice,2003-04,0,0
+1,Balochistan,,Dera Bughti ,Rice,2003-04,0,0
+1,Balochistan,,Ziarat,Rice,2003-04,0,0
+1,Balochistan,,Nasirabad ,Rice,2003-04,58.2,170.5
+1,Balochistan,,Kachhi,Rice,2003-04,0,0
+1,Balochistan,,Tamboo,Rice,2003-04,0,0
+1,Balochistan,,Jafferabad,Rice,2003-04,93.8,229
+1,Balochistan,,Bolan,Rice,2003-04,0,0
+1,Balochistan,,Jhal Magsi,Rice,2003-04,0.2,0.5
+1,Balochistan,,Kalat,Rice,2003-04,0,0
+1,Balochistan,,Khuzdar,Rice,2003-04,7.4,12.1
+1,Balochistan,,Kharan,Rice,2003-04,0,0
+1,Balochistan,,Lasbela,Rice,2003-04,0.1,0.2
+1,Balochistan,,Mastung,Rice,2003-04,0,0
+1,Balochistan,,Panjgur,Rice,2003-04,0,0
+1,Balochistan,,Gwadar,Rice,2003-04,0,0
+1,Balochistan,,Turbat,Rice,2003-04,0.1,0.3
+1,Balochistan,,Awaran,Rice,2003-04,0,0
+1,Balochistan,,K. Abdullah,Rice,2003-04,0,0
+1,Balochistan,,Quetta,Rice,2004-05,0,0
+1,Balochistan,,Pishin,Rice,2004-05,0,0
+1,Balochistan,,Chagai,Rice,2004-05,0,0
+1,Balochistan,,Loralai,Rice,2004-05,0,0
+1,Balochistan,,Zhob,Rice,2004-05,0,0
+1,Balochistan,,Killa Saifullah,Rice,2004-05,0,0
+1,Balochistan,,Musa Khail,Rice,2004-05,0,0
+1,Balochistan,,Barkhan,Rice,2004-05,0,0
+1,Balochistan,,Sibi,Rice,2004-05,0,0
+1,Balochistan,,Kohlu,Rice,2004-05,0,0
+1,Balochistan,,Dera Bughti ,Rice,2004-05,0,0
+1,Balochistan,,Ziarat,Rice,2004-05,0,0
+1,Balochistan,,Nasirabad ,Rice,2004-05,60.4,178.5
+1,Balochistan,,Kachhi,Rice,2004-05,0,0
+1,Balochistan,,Tamboo,Rice,2004-05,0,0
+1,Balochistan,,Jafferabad,Rice,2004-05,96.4,235
+1,Balochistan,,Bolan,Rice,2004-05,0,0
+1,Balochistan,,Jhal Magsi,Rice,2004-05,0.2,0.5
+1,Balochistan,,Kalat,Rice,2004-05,0,0
+1,Balochistan,,Khuzdar,Rice,2004-05,4.2,6.9
+1,Balochistan,,Kharan,Rice,2004-05,0,0
+1,Balochistan,,Lasbela,Rice,2004-05,0.1,0.2
+1,Balochistan,,Mastung,Rice,2004-05,0,0
+1,Balochistan,,Panjgur,Rice,2004-05,0,0
+1,Balochistan,,Gwadar,Rice,2004-05,0,0
+1,Balochistan,,Turbat,Rice,2004-05,0.2,0.5
+1,Balochistan,,Awaran,Rice,2004-05,0,0
+1,Balochistan,,K. Abdullah,Rice,2004-05,0,0
+1,Balochistan,,Quetta,Rice,2005-06,0,0
+1,Balochistan,,Pishin,Rice,2005-06,0,0
+1,Balochistan,,Chagai,Rice,2005-06,0,0
+1,Balochistan,,Loralai,Rice,2005-06,0,0
+1,Balochistan,,Zhob,Rice,2005-06,0,0
+1,Balochistan,,Killa Saifullah,Rice,2005-06,0,0
+1,Balochistan,,Musa Khail,Rice,2005-06,0,0
+1,Balochistan,,Barkhan,Rice,2005-06,0,0
+1,Balochistan,,Sibi,Rice,2005-06,0,0
+1,Balochistan,,Kohlu,Rice,2005-06,0,0
+1,Balochistan,,Dera Bughti ,Rice,2005-06,0,0
+1,Balochistan,,Ziarat,Rice,2005-06,0,0
+1,Balochistan,,Nasirabad ,Rice,2005-06,59.4,174.9
+1,Balochistan,,Kachhi,Rice,2005-06,0,0
+1,Balochistan,,Tamboo,Rice,2005-06,0,0
+1,Balochistan,,Jafferabad,Rice,2005-06,140.7,343
+1,Balochistan,,Bolan,Rice,2005-06,0,0
+1,Balochistan,,Jhal Magsi,Rice,2005-06,0.3,1.1
+1,Balochistan,,Kalat,Rice,2005-06,0,0
+1,Balochistan,,Khuzdar,Rice,2005-06,5.7,9.5
+1,Balochistan,,Kharan,Rice,2005-06,0,0
+1,Balochistan,,Lasbela,Rice,2005-06,0.1,0.2
+1,Balochistan,,Mastung,Rice,2005-06,0,0
+1,Balochistan,,Panjgur,Rice,2005-06,0,0
+1,Balochistan,,Gwadar,Rice,2005-06,0,0
+1,Balochistan,,Turbat,Rice,2005-06,0.2,0.4
+1,Balochistan,,Awaran,Rice,2005-06,0,0
+1,Balochistan,,K. Abdullah,Rice,2005-06,0,0
+1,Balochistan,,Quetta,Rice,2006-07,0,0
+1,Balochistan,,Pishin,Rice,2006-07,0,0
+1,Balochistan,,Chagai,Rice,2006-07,0,0
+1,Balochistan,,Loralai,Rice,2006-07,0,0
+1,Balochistan,,Zhob,Rice,2006-07,0,0
+1,Balochistan,,Killa Saifullah,Rice,2006-07,0,0
+1,Balochistan,,Musa Khail,Rice,2006-07,0,0
+1,Balochistan,,Barkhan,Rice,2006-07,0,0
+1,Balochistan,,Sibi,Rice,2006-07,,*
+1,Balochistan,,Kohlu,Rice,2006-07,0,0
+1,Balochistan,,Dera Bughti ,Rice,2006-07,,*
+1,Balochistan,,Ziarat,Rice,2006-07,0,0
+1,Balochistan,,Nasirabad ,Rice,2006-07,60.2,177.5
+1,Balochistan,,Kachhi,Rice,2006-07,0,0
+1,Balochistan,,Tamboo,Rice,2006-07,0,0
+1,Balochistan,,Jafferabad,Rice,2006-07,127.3,289.5
+1,Balochistan,,Bolan,Rice,2006-07,,*
+1,Balochistan,,Jhal Magsi,Rice,2006-07,0.4,1.1
+1,Balochistan,,Kalat,Rice,2006-07,0,0
+1,Balochistan,,Khuzdar,Rice,2006-07,5.8,9.5
+1,Balochistan,,Kharan,Rice,2006-07,0,0
+1,Balochistan,,Lasbela,Rice,2006-07,0.1,0.2
+1,Balochistan,,Mastung,Rice,2006-07,0,0
+1,Balochistan,,Panjgur,Rice,2006-07,0,0
+1,Balochistan,,Gwadar,Rice,2006-07,0,0
+1,Balochistan,,Turbat,Rice,2006-07,0.1,0.4
+1,Balochistan,,Awaran,Rice,2006-07,0,0
+1,Balochistan,,K. Abdullah,Rice,2006-07,0,0
+1,Balochistan,,Quetta,Rice,2007-08,0,0
+1,Balochistan,,Pishin,Rice,2007-08,0,0
+1,Balochistan,,Chagai,Rice,2007-08,0,0
+1,Balochistan,,Loralai,Rice,2007-08,0,0
+1,Balochistan,,Zhob,Rice,2007-08,0,0
+1,Balochistan,,Killa Saifullah,Rice,2007-08,0,0
+1,Balochistan,,Musa Khail,Rice,2007-08,0,0
+1,Balochistan,,Barkhan,Rice,2007-08,0,0
+1,Balochistan,,Sibi,Rice,2007-08,,*
+1,Balochistan,,Kohlu,Rice,2007-08,0,0
+1,Balochistan,,Dera Bughti ,Rice,2007-08,,*
+1,Balochistan,,Ziarat,Rice,2007-08,0,0
+1,Balochistan,,Nasirabad ,Rice,2007-08,34,100.2
+1,Balochistan,,Kachhi,Rice,2007-08,0,0
+1,Balochistan,,Tamboo,Rice,2007-08,0,0
+1,Balochistan,,Jafferabad,Rice,2007-08,100.2,227.9
+1,Balochistan,,Bolan,Rice,2007-08,,*
+1,Balochistan,,Jhal Magsi,Rice,2007-08,0,0
+1,Balochistan,,Kalat,Rice,2007-08,0,0
+1,Balochistan,,Khuzdar,Rice,2007-08,1.9,3.1
+1,Balochistan,,Kharan,Rice,2007-08,0,0
+1,Balochistan,,Lasbela,Rice,2007-08,0,0
+1,Balochistan,,Mastung,Rice,2007-08,0,0
+1,Balochistan,,Panjgur,Rice,2007-08,0,0
+1,Balochistan,,Gwadar,Rice,2007-08,0,0
+1,Balochistan,,Turbat,Rice,2007-08,0,0
+1,Balochistan,,Awaran,Rice,2007-08,0.1,0.2
+1,Balochistan,,K. Abdullah,Rice,2007-08,0,0
+1,Balochistan,,Quetta,Rice,2008-09,0,0
+1,Balochistan,,Pishin,Rice,2008-09,0,0
+1,Balochistan,,Chagai,Rice,2008-09,0,0
+1,Balochistan,,Loralai,Rice,2008-09,0,0
+1,Balochistan,,Zhob,Rice,2008-09,0,0
+1,Balochistan,,Killa Saifullah,Rice,2008-09,0,0
+1,Balochistan,,Musa Khail,Rice,2008-09,0,0
+1,Balochistan,,Barkhan,Rice,2008-09,0,0
+1,Balochistan,,Sibi,Rice,2008-09,,*
+1,Balochistan,,Kohlu,Rice,2008-09,0,0
+1,Balochistan,,Dera Bughti ,Rice,2008-09,,*
+1,Balochistan,,Ziarat,Rice,2008-09,0,0
+1,Balochistan,,Nasirabad ,Rice,2008-09,61.2,208.6
+1,Balochistan,,Kachhi,Rice,2008-09,0,0
+1,Balochistan,,Tamboo,Rice,2008-09,0,0
+1,Balochistan,,Jafferabad,Rice,2008-09,127.5,432.3
+1,Balochistan,,Bolan,Rice,2008-09,,*
+1,Balochistan,,Jhal Magsi,Rice,2008-09,0,0
+1,Balochistan,,Kalat,Rice,2008-09,0,0
+1,Balochistan,,Khuzdar,Rice,2008-09,1.3,2.6
+1,Balochistan,,Kharan,Rice,2008-09,0,0
+1,Balochistan,,Lasbela,Rice,2008-09,0,0
+1,Balochistan,,Mastung,Rice,2008-09,0,0
+1,Balochistan,,Panjgur,Rice,2008-09,0,0
+1,Balochistan,,Gwadar,Rice,2008-09,0,0
+1,Balochistan,,Turbat,Rice,2008-09,0,0
+1,Balochistan,,Awaran,Rice,2008-09,0.1,0.2
+1,Balochistan,,K. Abdullah,Rice,2008-09,0,0
+1,Balochistan,,Quetta,Maize,1981-82,0,0
+1,Balochistan,,Pishin,Maize,1981-82,0.2,0.2
+1,Balochistan,,Killa Abdullah,Maize,1981-82,0,0
+1,Balochistan,,Chagai,Maize,1981-82,0,0
+1,Balochistan,,Loralai,Maize,1981-82,0.5,0.5
+1,Balochistan,,Musa Khail ,Maize,1981-82,0,0
+1,Balochistan,,Barkhan,Maize,1981-82,0,0
+1,Balochistan,,Zhob,Maize,1981-82,1.6,1.2
+1,Balochistan,,Killa Saifullah,Maize,1981-82,0,0
+1,Balochistan,,Sibi,Maize,1981-82,0.1,0.1
+1,Balochistan,,Ziarat,Maize,1981-82,0,0
+1,Balochistan,,Kohlu,Maize,1981-82,*,*
+1,Balochistan,,Kachhi,Maize,1981-82,0,0
+1,Balochistan,,Bughti,Maize,1981-82,0,0
+1,Balochistan,,Nasirabad,Maize,1981-82,0,0
+1,Balochistan,,Jafferabad ,Maize,1981-82,0,0
+1,Balochistan,,Tomboo,Maize,1981-82,0,0
+1,Balochistan,,Bolan,Maize,1981-82,0,0
+1,Balochistan,,Mastung,Maize,1981-82,0,0
+1,Balochistan,,Khuzdar,Maize,1981-82,0,0
+1,Balochistan,,Awaran,Maize,1981-82,0,0
+1,Balochistan,,Kharan,Maize,1981-82,0,0
+1,Balochistan,,Lasbela,Maize,1981-82,0,0
+1,Balochistan,,Turbat,Maize,1981-82,0,0
+1,Balochistan,,Panjgoor,Maize,1981-82,0,0
+1,Balochistan,,Gwadar,Maize,1981-82,0,0
+1,Balochistan,,Magsi,Maize,1981-82,0,0
+1,Balochistan,,Kalat,Maize,1981-82,0,0
+1,Balochistan,,Quetta,Maize,1982-83,0,0
+1,Balochistan,,Pishin,Maize,1982-83,0.2,0.2
+1,Balochistan,,Killa Abdullah,Maize,1982-83,0,0
+1,Balochistan,,Chagai,Maize,1982-83,0.1,0
+1,Balochistan,,Loralai,Maize,1982-83,0.9,0.5
+1,Balochistan,,Musa Khail ,Maize,1982-83,0,0
+1,Balochistan,,Barkhan,Maize,1982-83,0,0
+1,Balochistan,,Zhob,Maize,1982-83,1.7,1.2
+1,Balochistan,,Killa Saifullah,Maize,1982-83,0,0
+1,Balochistan,,Sibi,Maize,1982-83,0.1,0.1
+1,Balochistan,,Ziarat,Maize,1982-83,0,0
+1,Balochistan,,Kohlu,Maize,1982-83,*,*
+1,Balochistan,,Kachhi,Maize,1982-83,0,0
+1,Balochistan,,Bughti,Maize,1982-83,0,0
+1,Balochistan,,Nasirabad,Maize,1982-83,*,0
+1,Balochistan,,Jafferabad ,Maize,1982-83,0,0
+1,Balochistan,,Tomboo,Maize,1982-83,0,0
+1,Balochistan,,Bolan,Maize,1982-83,0,0
+1,Balochistan,,Mastung,Maize,1982-83,0,0
+1,Balochistan,,Khuzdar,Maize,1982-83,0,0
+1,Balochistan,,Awaran,Maize,1982-83,0,0
+1,Balochistan,,Kharan,Maize,1982-83,0,0
+1,Balochistan,,Lasbela,Maize,1982-83,0,0
+1,Balochistan,,Turbat,Maize,1982-83,0,0
+1,Balochistan,,Panjgoor,Maize,1982-83,0,0
+1,Balochistan,,Gwadar,Maize,1982-83,0,0
+1,Balochistan,,Magsi,Maize,1982-83,0,0
+1,Balochistan,,Kalat,Maize,1982-83,0,0
+1,Balochistan,,Quetta,Maize,1983-84,0,0
+1,Balochistan,,Pishin,Maize,1983-84,0.2,0.2
+1,Balochistan,,Killa Abdullah,Maize,1983-84,0,0
+1,Balochistan,,Chagai,Maize,1983-84,0.1,*
+1,Balochistan,,Loralai,Maize,1983-84,1,0.9
+1,Balochistan,,Musa Khail ,Maize,1983-84,0,0
+1,Balochistan,,Barkhan,Maize,1983-84,0,0
+1,Balochistan,,Zhob,Maize,1983-84,1.8,1.4
+1,Balochistan,,Killa Saifullah,Maize,1983-84,0,0
+1,Balochistan,,Sibi,Maize,1983-84,0.1,0.1
+1,Balochistan,,Ziarat,Maize,1983-84,0,0
+1,Balochistan,,Kohlu,Maize,1983-84,*,*
+1,Balochistan,,Kachhi,Maize,1983-84,*,0
+1,Balochistan,,Bughti,Maize,1983-84,0,0
+1,Balochistan,,Nasirabad,Maize,1983-84,*,*
+1,Balochistan,,Jafferabad ,Maize,1983-84,0,0
+1,Balochistan,,Tomboo,Maize,1983-84,0,0
+1,Balochistan,,Bolan,Maize,1983-84,0,0
+1,Balochistan,,Mastung,Maize,1983-84,0,0
+1,Balochistan,,Khuzdar,Maize,1983-84,0,0
+1,Balochistan,,Awaran,Maize,1983-84,0,0
+1,Balochistan,,Kharan,Maize,1983-84,0,0
+1,Balochistan,,Lasbela,Maize,1983-84,*,0
+1,Balochistan,,Turbat,Maize,1983-84,0,0
+1,Balochistan,,Panjgoor,Maize,1983-84,0,0
+1,Balochistan,,Gwadar,Maize,1983-84,0,0
+1,Balochistan,,Magsi,Maize,1983-84,0,0
+1,Balochistan,,Kalat,Maize,1983-84,0,0
+1,Balochistan,,Quetta,Maize,1984-85,0,0
+1,Balochistan,,Pishin,Maize,1984-85,0.2,0.1
+1,Balochistan,,Killa Abdullah,Maize,1984-85,0,0
+1,Balochistan,,Chagai,Maize,1984-85,0.1,0.1
+1,Balochistan,,Loralai,Maize,1984-85,1.4,1
+1,Balochistan,,Musa Khail ,Maize,1984-85,0,0
+1,Balochistan,,Barkhan,Maize,1984-85,0,0
+1,Balochistan,,Zhob,Maize,1984-85,1.8,1.5
+1,Balochistan,,Killa Saifullah,Maize,1984-85,0,0
+1,Balochistan,,Sibi,Maize,1984-85,0.1,0.1
+1,Balochistan,,Ziarat,Maize,1984-85,0,0
+1,Balochistan,,Kohlu,Maize,1984-85,*,*
+1,Balochistan,,Kachhi,Maize,1984-85,0,*
+1,Balochistan,,Bughti,Maize,1984-85,0,0
+1,Balochistan,,Nasirabad,Maize,1984-85,*,*
+1,Balochistan,,Jafferabad ,Maize,1984-85,0,0
+1,Balochistan,,Tomboo,Maize,1984-85,0,0
+1,Balochistan,,Bolan,Maize,1984-85,0,0
+1,Balochistan,,Mastung,Maize,1984-85,0,0
+1,Balochistan,,Khuzdar,Maize,1984-85,*,0
+1,Balochistan,,Awaran,Maize,1984-85,0,0
+1,Balochistan,,Kharan,Maize,1984-85,0,0
+1,Balochistan,,Lasbela,Maize,1984-85,0.1,*
+1,Balochistan,,Turbat,Maize,1984-85,0,0
+1,Balochistan,,Panjgoor,Maize,1984-85,0,0
+1,Balochistan,,Gwadar,Maize,1984-85,0,0
+1,Balochistan,,Magsi,Maize,1984-85,0,0
+1,Balochistan,,Kalat,Maize,1984-85,0,0
+1,Balochistan,,Quetta,Maize,1985-86,0,0
+1,Balochistan,,Pishin,Maize,1985-86,0.2,0.2
+1,Balochistan,,Killa Abdullah,Maize,1985-86,0,0
+1,Balochistan,,Chagai,Maize,1985-86,0.1,0.1
+1,Balochistan,,Loralai,Maize,1985-86,2.9,1.2
+1,Balochistan,,Musa Khail ,Maize,1985-86,0,0
+1,Balochistan,,Barkhan,Maize,1985-86,0,0
+1,Balochistan,,Zhob,Maize,1985-86,1.5,1.5
+1,Balochistan,,Killa Saifullah,Maize,1985-86,0,0
+1,Balochistan,,Sibi,Maize,1985-86,0.2,0.1
+1,Balochistan,,Ziarat,Maize,1985-86,0,0
+1,Balochistan,,Kohlu,Maize,1985-86,*,*
+1,Balochistan,,Kachhi,Maize,1985-86,0,0
+1,Balochistan,,Bughti,Maize,1985-86,0,0
+1,Balochistan,,Nasirabad,Maize,1985-86,*,*
+1,Balochistan,,Jafferabad ,Maize,1985-86,0,0
+1,Balochistan,,Tomboo,Maize,1985-86,0,0
+1,Balochistan,,Bolan,Maize,1985-86,0,0
+1,Balochistan,,Mastung,Maize,1985-86,0,0
+1,Balochistan,,Khuzdar,Maize,1985-86,*,*
+1,Balochistan,,Awaran,Maize,1985-86,0,0
+1,Balochistan,,Kharan,Maize,1985-86,0,0
+1,Balochistan,,Lasbela,Maize,1985-86,*,0.1
+1,Balochistan,,Turbat,Maize,1985-86,0,0
+1,Balochistan,,Panjgoor,Maize,1985-86,0,0
+1,Balochistan,,Gwadar,Maize,1985-86,0,0
+1,Balochistan,,Magsi,Maize,1985-86,0,0
+1,Balochistan,,Kalat,Maize,1985-86,0,0
+1,Balochistan,,Quetta,Maize,1986-87,0,0
+1,Balochistan,,Pishin,Maize,1986-87,0.2,0.2
+1,Balochistan,,Killa Abdullah,Maize,1986-87,0,0
+1,Balochistan,,Chagai,Maize,1986-87,0,0.1
+1,Balochistan,,Loralai,Maize,1986-87,2.8,1.8
+1,Balochistan,,Musa Khail ,Maize,1986-87,0,0
+1,Balochistan,,Barkhan,Maize,1986-87,0,0
+1,Balochistan,,Zhob,Maize,1986-87,2.3,1.4
+1,Balochistan,,Killa Saifullah,Maize,1986-87,0,0
+1,Balochistan,,Sibi,Maize,1986-87,0.1,0.2
+1,Balochistan,,Ziarat,Maize,1986-87,0,0
+1,Balochistan,,Kohlu,Maize,1986-87,0,*
+1,Balochistan,,Kachhi,Maize,1986-87,0,0
+1,Balochistan,,Bughti,Maize,1986-87,0,0
+1,Balochistan,,Nasirabad,Maize,1986-87,0,0
+1,Balochistan,,Jafferabad ,Maize,1986-87,0,0
+1,Balochistan,,Tomboo,Maize,1986-87,0,0
+1,Balochistan,,Bolan,Maize,1986-87,0,0
+1,Balochistan,,Mastung,Maize,1986-87,0,0
+1,Balochistan,,Khuzdar,Maize,1986-87,0,*
+1,Balochistan,,Awaran,Maize,1986-87,0,0
+1,Balochistan,,Kharan,Maize,1986-87,0,0
+1,Balochistan,,Lasbela,Maize,1986-87,0,*
+1,Balochistan,,Turbat,Maize,1986-87,0,0
+1,Balochistan,,Panjgoor,Maize,1986-87,0,0
+1,Balochistan,,Gwadar,Maize,1986-87,0,0
+1,Balochistan,,Magsi,Maize,1986-87,0,0
+1,Balochistan,,Kalat,Maize,1986-87,0,0
+1,Balochistan,,Quetta,Maize,1987-88,0,0
+1,Balochistan,,Pishin,Maize,1987-88,0,0.2
+1,Balochistan,,Killa Abdullah,Maize,1987-88,0,0
+1,Balochistan,,Chagai,Maize,1987-88,0,0
+1,Balochistan,,Loralai,Maize,1987-88,2.5,1.8
+1,Balochistan,,Musa Khail ,Maize,1987-88,0,0
+1,Balochistan,,Barkhan,Maize,1987-88,0,0
+1,Balochistan,,Zhob,Maize,1987-88,2,1.9
+1,Balochistan,,Killa Saifullah,Maize,1987-88,0,0
+1,Balochistan,,Sibi,Maize,1987-88,0.1,0.1
+1,Balochistan,,Ziarat,Maize,1987-88,0,0
+1,Balochistan,,Kohlu,Maize,1987-88,0,0
+1,Balochistan,,Kachhi,Maize,1987-88,0,0
+1,Balochistan,,Bughti,Maize,1987-88,0,0
+1,Balochistan,,Nasirabad,Maize,1987-88,0,0
+1,Balochistan,,Jafferabad ,Maize,1987-88,0,0
+1,Balochistan,,Tomboo,Maize,1987-88,0,0
+1,Balochistan,,Bolan,Maize,1987-88,0,0
+1,Balochistan,,Mastung,Maize,1987-88,0,0
+1,Balochistan,,Khuzdar,Maize,1987-88,0,0
+1,Balochistan,,Awaran,Maize,1987-88,0,0
+1,Balochistan,,Kharan,Maize,1987-88,0,0
+1,Balochistan,,Lasbela,Maize,1987-88,0,0
+1,Balochistan,,Turbat,Maize,1987-88,0,0
+1,Balochistan,,Panjgoor,Maize,1987-88,0,0
+1,Balochistan,,Gwadar,Maize,1987-88,0,0
+1,Balochistan,,Magsi,Maize,1987-88,0,0
+1,Balochistan,,Kalat,Maize,1987-88,0,0
+1,Balochistan,,Quetta,Maize,1988-89,0,0
+1,Balochistan,,Pishin,Maize,1988-89,0,0
+1,Balochistan,,Killa Abdullah,Maize,1988-89,0,0
+1,Balochistan,,Chagai,Maize,1988-89,0,0
+1,Balochistan,,Loralai,Maize,1988-89,2.5,2.5
+1,Balochistan,,Musa Khail ,Maize,1988-89,0,0
+1,Balochistan,,Barkhan,Maize,1988-89,0,0
+1,Balochistan,,Zhob,Maize,1988-89,1.9,1.5
+1,Balochistan,,Killa Saifullah,Maize,1988-89,0,0
+1,Balochistan,,Sibi,Maize,1988-89,0.1,0.1
+1,Balochistan,,Ziarat,Maize,1988-89,0,0
+1,Balochistan,,Kohlu,Maize,1988-89,0,0
+1,Balochistan,,Kachhi,Maize,1988-89,0,0
+1,Balochistan,,Bughti,Maize,1988-89,0,0
+1,Balochistan,,Nasirabad,Maize,1988-89,0,0
+1,Balochistan,,Jafferabad ,Maize,1988-89,0,0
+1,Balochistan,,Tomboo,Maize,1988-89,0,0
+1,Balochistan,,Bolan,Maize,1988-89,0,0
+1,Balochistan,,Mastung,Maize,1988-89,0,0
+1,Balochistan,,Khuzdar,Maize,1988-89,0,0
+1,Balochistan,,Awaran,Maize,1988-89,0,0
+1,Balochistan,,Kharan,Maize,1988-89,0,0
+1,Balochistan,,Lasbela,Maize,1988-89,0,0
+1,Balochistan,,Turbat,Maize,1988-89,0,0
+1,Balochistan,,Panjgoor,Maize,1988-89,0,0
+1,Balochistan,,Gwadar,Maize,1988-89,0,0
+1,Balochistan,,Magsi,Maize,1988-89,0,0
+1,Balochistan,,Kalat,Maize,1988-89,0,0
+1,Balochistan,,Quetta,Maize,1989-90,0,0
+1,Balochistan,,Pishin,Maize,1989-90,0,0
+1,Balochistan,,Killa Abdullah,Maize,1989-90,0,0
+1,Balochistan,,Chagai,Maize,1989-90,0,0
+1,Balochistan,,Loralai,Maize,1989-90,2.7,2.5
+1,Balochistan,,Musa Khail ,Maize,1989-90,0,0
+1,Balochistan,,Barkhan,Maize,1989-90,0,0
+1,Balochistan,,Zhob,Maize,1989-90,1.8,1.4
+1,Balochistan,,Killa Saifullah,Maize,1989-90,0,0
+1,Balochistan,,Sibi,Maize,1989-90,0.1,0.1
+1,Balochistan,,Ziarat,Maize,1989-90,0,0
+1,Balochistan,,Kohlu,Maize,1989-90,0,0
+1,Balochistan,,Kachhi,Maize,1989-90,0,0
+1,Balochistan,,Bughti,Maize,1989-90,0,0
+1,Balochistan,,Nasirabad,Maize,1989-90,0,0
+1,Balochistan,,Jafferabad ,Maize,1989-90,0,0
+1,Balochistan,,Tomboo,Maize,1989-90,0,0
+1,Balochistan,,Bolan,Maize,1989-90,0,0
+1,Balochistan,,Mastung,Maize,1989-90,0,0
+1,Balochistan,,Khuzdar,Maize,1989-90,0,0
+1,Balochistan,,Awaran,Maize,1989-90,0,0
+1,Balochistan,,Kharan,Maize,1989-90,0,0
+1,Balochistan,,Lasbela,Maize,1989-90,0,0
+1,Balochistan,,Turbat,Maize,1989-90,0,0
+1,Balochistan,,Panjgoor,Maize,1989-90,0,0
+1,Balochistan,,Gwadar,Maize,1989-90,0,0
+1,Balochistan,,Magsi,Maize,1989-90,0,0
+1,Balochistan,,Kalat,Maize,1989-90,0,0
+1,Balochistan,,Quetta,Maize,1990-91,0,0
+1,Balochistan,,Pishin,Maize,1990-91,0,0
+1,Balochistan,,Killa Abdullah,Maize,1990-91,0,0
+1,Balochistan,,Chagai,Maize,1990-91,0,0
+1,Balochistan,,Loralai,Maize,1990-91,2.4,2.7
+1,Balochistan,,Musa Khail ,Maize,1990-91,0,0
+1,Balochistan,,Barkhan,Maize,1990-91,0,0
+1,Balochistan,,Zhob,Maize,1990-91,0.9,1.4
+1,Balochistan,,Killa Saifullah,Maize,1990-91,1,0
+1,Balochistan,,Sibi,Maize,1990-91,0.1,0.1
+1,Balochistan,,Ziarat,Maize,1990-91,0,0
+1,Balochistan,,Kohlu,Maize,1990-91,0,0
+1,Balochistan,,Kachhi,Maize,1990-91,0,0
+1,Balochistan,,Bughti,Maize,1990-91,0,0
+1,Balochistan,,Nasirabad,Maize,1990-91,0,0
+1,Balochistan,,Jafferabad ,Maize,1990-91,0,0
+1,Balochistan,,Tomboo,Maize,1990-91,0,0
+1,Balochistan,,Bolan,Maize,1990-91,0,0
+1,Balochistan,,Mastung,Maize,1990-91,0,0
+1,Balochistan,,Khuzdar,Maize,1990-91,0,0
+1,Balochistan,,Awaran,Maize,1990-91,0,0
+1,Balochistan,,Kharan,Maize,1990-91,0,0
+1,Balochistan,,Lasbela,Maize,1990-91,0.1,0
+1,Balochistan,,Turbat,Maize,1990-91,0,0
+1,Balochistan,,Panjgoor,Maize,1990-91,0,0
+1,Balochistan,,Gwadar,Maize,1990-91,0,0
+1,Balochistan,,Magsi,Maize,1990-91,0,0
+1,Balochistan,,Kalat,Maize,1990-91,0,0
+1,Balochistan,,Quetta,Maize,1991-92,0,0
+1,Balochistan,,Pishin,Maize,1991-92,0,0
+1,Balochistan,,Killa Abdullah,Maize,1991-92,0,0
+1,Balochistan,,Chagai,Maize,1991-92,0,0
+1,Balochistan,,Loralai,Maize,1991-92,2.7,2.6
+1,Balochistan,,Musa Khail ,Maize,1991-92,0,0
+1,Balochistan,,Barkhan,Maize,1991-92,0,0
+1,Balochistan,,Zhob,Maize,1991-92,0.8,0.7
+1,Balochistan,,Killa Saifullah,Maize,1991-92,0.9,0.8
+1,Balochistan,,Sibi,Maize,1991-92,0.1,0.1
+1,Balochistan,,Ziarat,Maize,1991-92,0,0
+1,Balochistan,,Kohlu,Maize,1991-92,0,0
+1,Balochistan,,Kachhi,Maize,1991-92,0,0
+1,Balochistan,,Bughti,Maize,1991-92,0,0
+1,Balochistan,,Nasirabad,Maize,1991-92,0,0
+1,Balochistan,,Jafferabad ,Maize,1991-92,0,0
+1,Balochistan,,Tomboo,Maize,1991-92,0,0
+1,Balochistan,,Bolan,Maize,1991-92,0,0
+1,Balochistan,,Mastung,Maize,1991-92,0,0
+1,Balochistan,,Khuzdar,Maize,1991-92,0,0
+1,Balochistan,,Awaran,Maize,1991-92,0,0
+1,Balochistan,,Kharan,Maize,1991-92,0,0
+1,Balochistan,,Lasbela,Maize,1991-92,0,0
+1,Balochistan,,Turbat,Maize,1991-92,0,0
+1,Balochistan,,Panjgoor,Maize,1991-92,0,0
+1,Balochistan,,Gwadar,Maize,1991-92,0,0
+1,Balochistan,,Magsi,Maize,1991-92,0,0
+1,Balochistan,,Kalat,Maize,1991-92,0,0
+1,Balochistan,,Quetta,Maize,1992-93,0,0
+1,Balochistan,,Pishin,Maize,1992-93,0,0
+1,Balochistan,,Killa Abdullah,Maize,1992-93,0,0
+1,Balochistan,,Chagai,Maize,1992-93,0,0
+1,Balochistan,,Loralai,Maize,1992-93,2.7,2.7
+1,Balochistan,,Musa Khail ,Maize,1992-93,0,0
+1,Balochistan,,Barkhan,Maize,1992-93,0,0
+1,Balochistan,,Zhob,Maize,1992-93,0.7,0.6
+1,Balochistan,,Killa Saifullah,Maize,1992-93,0.7,0.8
+1,Balochistan,,Sibi,Maize,1992-93,0.1,0.1
+1,Balochistan,,Ziarat,Maize,1992-93,0,0
+1,Balochistan,,Kohlu,Maize,1992-93,0,0
+1,Balochistan,,Kachhi,Maize,1992-93,0,0
+1,Balochistan,,Bughti,Maize,1992-93,0,0
+1,Balochistan,,Nasirabad,Maize,1992-93,0,0
+1,Balochistan,,Jafferabad ,Maize,1992-93,0,0
+1,Balochistan,,Tomboo,Maize,1992-93,0,0
+1,Balochistan,,Bolan,Maize,1992-93,0,0
+1,Balochistan,,Mastung,Maize,1992-93,0,0
+1,Balochistan,,Khuzdar,Maize,1992-93,0,0
+1,Balochistan,,Awaran,Maize,1992-93,0,0
+1,Balochistan,,Kharan,Maize,1992-93,0,0
+1,Balochistan,,Lasbela,Maize,1992-93,0,0
+1,Balochistan,,Turbat,Maize,1992-93,0,0
+1,Balochistan,,Panjgoor,Maize,1992-93,0,0
+1,Balochistan,,Gwadar,Maize,1992-93,0,0
+1,Balochistan,,Magsi,Maize,1992-93,0,0
+1,Balochistan,,Kalat,Maize,1992-93,0,0
+1,Balochistan,,Quetta,Maize,1993-94,0,0
+1,Balochistan,,Pishin,Maize,1993-94,0,0
+1,Balochistan,,Killa Abdullah,Maize,1993-94,0,0
+1,Balochistan,,Chagai,Maize,1993-94,0,0
+1,Balochistan,,Loralai,Maize,1993-94,1.1,3
+1,Balochistan,,Musa Khail ,Maize,1993-94,0.5,0
+1,Balochistan,,Barkhan,Maize,1993-94,0,0
+1,Balochistan,,Zhob,Maize,1993-94,0.5,0.6
+1,Balochistan,,Killa Saifullah,Maize,1993-94,0.6,0.6
+1,Balochistan,,Sibi,Maize,1993-94,0.1,0.1
+1,Balochistan,,Ziarat,Maize,1993-94,0,0
+1,Balochistan,,Kohlu,Maize,1993-94,0,0
+1,Balochistan,,Kachhi,Maize,1993-94,0,0
+1,Balochistan,,Bughti,Maize,1993-94,0,0
+1,Balochistan,,Nasirabad,Maize,1993-94,0,0
+1,Balochistan,,Jafferabad ,Maize,1993-94,0,0
+1,Balochistan,,Tomboo,Maize,1993-94,0,0
+1,Balochistan,,Bolan,Maize,1993-94,0,0
+1,Balochistan,,Mastung,Maize,1993-94,0,0
+1,Balochistan,,Khuzdar,Maize,1993-94,0,0
+1,Balochistan,,Awaran,Maize,1993-94,0,0
+1,Balochistan,,Kharan,Maize,1993-94,0,0
+1,Balochistan,,Lasbela,Maize,1993-94,0,0
+1,Balochistan,,Turbat,Maize,1993-94,0,0
+1,Balochistan,,Panjgoor,Maize,1993-94,0,0
+1,Balochistan,,Gwadar,Maize,1993-94,0,0
+1,Balochistan,,Magsi,Maize,1993-94,0,0
+1,Balochistan,,Kalat,Maize,1993-94,0,0
+1,Balochistan,,Quetta,Maize,1994-95,0,0
+1,Balochistan,,Pishin,Maize,1994-95,0,0
+1,Balochistan,,Killa Abdullah,Maize,1994-95,0,0
+1,Balochistan,,Chagai,Maize,1994-95,0,0
+1,Balochistan,,Loralai,Maize,1994-95,1.7,1.2
+1,Balochistan,,Musa Khail ,Maize,1994-95,1.1,0.6
+1,Balochistan,,Barkhan,Maize,1994-95,0,0
+1,Balochistan,,Zhob,Maize,1994-95,0.5,0.4
+1,Balochistan,,Killa Saifullah,Maize,1994-95,0.8,0.6
+1,Balochistan,,Sibi,Maize,1994-95,0.1,0.1
+1,Balochistan,,Ziarat,Maize,1994-95,0,0
+1,Balochistan,,Kohlu,Maize,1994-95,0,0
+1,Balochistan,,Kachhi,Maize,1994-95,0,0
+1,Balochistan,,Bughti,Maize,1994-95,0,0
+1,Balochistan,,Nasirabad,Maize,1994-95,0,0
+1,Balochistan,,Jafferabad ,Maize,1994-95,0,0
+1,Balochistan,,Tomboo,Maize,1994-95,0,0
+1,Balochistan,,Bolan,Maize,1994-95,0,0
+1,Balochistan,,Mastung,Maize,1994-95,0,0
+1,Balochistan,,Khuzdar,Maize,1994-95,0,0
+1,Balochistan,,Awaran,Maize,1994-95,0,0
+1,Balochistan,,Kharan,Maize,1994-95,0,0
+1,Balochistan,,Lasbela,Maize,1994-95,0,0
+1,Balochistan,,Turbat,Maize,1994-95,0,0
+1,Balochistan,,Panjgoor,Maize,1994-95,0,0
+1,Balochistan,,Gwadar,Maize,1994-95,0,0
+1,Balochistan,,Magsi,Maize,1994-95,0,0
+1,Balochistan,,Kalat,Maize,1994-95,0,0
+1,Balochistan,,Quetta,Maize,1995-96,0,0
+1,Balochistan,,Pishin,Maize,1995-96,0,0
+1,Balochistan,,Killa Abdullah,Maize,1995-96,0,0
+1,Balochistan,,Chagai,Maize,1995-96,0,0
+1,Balochistan,,Loralai,Maize,1995-96,1.7,1.8
+1,Balochistan,,Musa Khail ,Maize,1995-96,1.1,1.4
+1,Balochistan,,Barkhan,Maize,1995-96,0,0
+1,Balochistan,,Zhob,Maize,1995-96,0.5,0.4
+1,Balochistan,,Killa Saifullah,Maize,1995-96,0.8,0.8
+1,Balochistan,,Sibi,Maize,1995-96,0.1,0.1
+1,Balochistan,,Ziarat,Maize,1995-96,0,0
+1,Balochistan,,Kohlu,Maize,1995-96,0,0
+1,Balochistan,,Kachhi,Maize,1995-96,0,0
+1,Balochistan,,Bughti,Maize,1995-96,0,0
+1,Balochistan,,Nasirabad,Maize,1995-96,0,0
+1,Balochistan,,Jafferabad ,Maize,1995-96,0,0
+1,Balochistan,,Tomboo,Maize,1995-96,0,0
+1,Balochistan,,Bolan,Maize,1995-96,0,0
+1,Balochistan,,Mastung,Maize,1995-96,0,0
+1,Balochistan,,Khuzdar,Maize,1995-96,0,0
+1,Balochistan,,Awaran,Maize,1995-96,0,0
+1,Balochistan,,Kharan,Maize,1995-96,0,0
+1,Balochistan,,Lasbela,Maize,1995-96,0,0
+1,Balochistan,,Turbat,Maize,1995-96,0,0
+1,Balochistan,,Panjgoor,Maize,1995-96,0,0
+1,Balochistan,,Gwadar,Maize,1995-96,0,0
+1,Balochistan,,Magsi,Maize,1995-96,0,0
+1,Balochistan,,Kalat,Maize,1995-96,0,0
+1,Balochistan,,Quetta,Maize,1996-97,0,0
+1,Balochistan,,Pishin,Maize,1996-97,0,0
+1,Balochistan,,Killa Abdullah,Maize,1996-97,0,0
+1,Balochistan,,Chagai,Maize,1996-97,0,0
+1,Balochistan,,Loralai,Maize,1996-97,1.6,1.8
+1,Balochistan,,Musa Khail ,Maize,1996-97,0.6,1.4
+1,Balochistan,,Barkhan,Maize,1996-97,0,0
+1,Balochistan,,Zhob,Maize,1996-97,0.4,0.5
+1,Balochistan,,Killa Saifullah,Maize,1996-97,0.8,0.7
+1,Balochistan,,Sibi,Maize,1996-97,0.1,0.1
+1,Balochistan,,Ziarat,Maize,1996-97,0,0
+1,Balochistan,,Kohlu,Maize,1996-97,0.1,0
+1,Balochistan,,Kachhi,Maize,1996-97,0,0
+1,Balochistan,,Bughti,Maize,1996-97,0,0
+1,Balochistan,,Nasirabad,Maize,1996-97,0,0
+1,Balochistan,,Jafferabad ,Maize,1996-97,0,0
+1,Balochistan,,Tomboo,Maize,1996-97,0,0
+1,Balochistan,,Bolan,Maize,1996-97,0,0
+1,Balochistan,,Mastung,Maize,1996-97,0,0
+1,Balochistan,,Khuzdar,Maize,1996-97,0,0
+1,Balochistan,,Awaran,Maize,1996-97,0,0
+1,Balochistan,,Kharan,Maize,1996-97,0,0
+1,Balochistan,,Lasbela,Maize,1996-97,0,0
+1,Balochistan,,Turbat,Maize,1996-97,0,0
+1,Balochistan,,Panjgoor,Maize,1996-97,0,0
+1,Balochistan,,Gwadar,Maize,1996-97,0,0
+1,Balochistan,,Magsi,Maize,1996-97,0,0
+1,Balochistan,,Kalat,Maize,1996-97,0,0
+1,Balochistan,,Quetta,Maize,1997-98,0,0
+1,Balochistan,,Pishin,Maize,1997-98,0,0
+1,Balochistan,,Killa Abdullah,Maize,1997-98,0,0
+1,Balochistan,,Chagai,Maize,1997-98,0,0
+1,Balochistan,,Loralai,Maize,1997-98,1.7,1.8
+1,Balochistan,,Musa Khail ,Maize,1997-98,0.7,0.8
+1,Balochistan,,Barkhan,Maize,1997-98,0,0
+1,Balochistan,,Zhob,Maize,1997-98,0.4,0.4
+1,Balochistan,,Killa Saifullah,Maize,1997-98,0.8,0.7
+1,Balochistan,,Sibi,Maize,1997-98,0.1,0.1
+1,Balochistan,,Ziarat,Maize,1997-98,0,0
+1,Balochistan,,Kohlu,Maize,1997-98,0.2,0.1
+1,Balochistan,,Kachhi,Maize,1997-98,0,0
+1,Balochistan,,Bughti,Maize,1997-98,0,0
+1,Balochistan,,Nasirabad,Maize,1997-98,0,0
+1,Balochistan,,Jafferabad ,Maize,1997-98,0,0
+1,Balochistan,,Tomboo,Maize,1997-98,0,0
+1,Balochistan,,Bolan,Maize,1997-98,0,0
+1,Balochistan,,Mastung,Maize,1997-98,0,0
+1,Balochistan,,Khuzdar,Maize,1997-98,0,0
+1,Balochistan,,Awaran,Maize,1997-98,0,0
+1,Balochistan,,Kharan,Maize,1997-98,0,0
+1,Balochistan,,Lasbela,Maize,1997-98,0.1,0
+1,Balochistan,,Turbat,Maize,1997-98,0,0
+1,Balochistan,,Panjgoor,Maize,1997-98,0,0
+1,Balochistan,,Gwadar,Maize,1997-98,0,0
+1,Balochistan,,Magsi,Maize,1997-98,0,0
+1,Balochistan,,Kalat,Maize,1997-98,0,0
+1,Balochistan,,Quetta,Maize,1998-99,0,0
+1,Balochistan,,Pishin,Maize,1998-99,0,0
+1,Balochistan,,Killa Abdullah,Maize,1998-99,0,0
+1,Balochistan,,Chagai,Maize,1998-99,0,0
+1,Balochistan,,Loralai,Maize,1998-99,1.7,1.9
+1,Balochistan,,Musa Khail ,Maize,1998-99,0.6,0.9
+1,Balochistan,,Barkhan,Maize,1998-99,0,0
+1,Balochistan,,Zhob,Maize,1998-99,0.7,0.4
+1,Balochistan,,Killa Saifullah,Maize,1998-99,0.2,0.7
+1,Balochistan,,Sibi,Maize,1998-99,0.1,0.1
+1,Balochistan,,Ziarat,Maize,1998-99,0,0
+1,Balochistan,,Kohlu,Maize,1998-99,0,0.2
+1,Balochistan,,Kachhi,Maize,1998-99,0,0
+1,Balochistan,,Bughti,Maize,1998-99,0,0
+1,Balochistan,,Nasirabad,Maize,1998-99,0,0
+1,Balochistan,,Jafferabad ,Maize,1998-99,0,0
+1,Balochistan,,Tomboo,Maize,1998-99,0,0
+1,Balochistan,,Bolan,Maize,1998-99,0,0
+1,Balochistan,,Mastung,Maize,1998-99,0,0
+1,Balochistan,,Khuzdar,Maize,1998-99,0,0
+1,Balochistan,,Awaran,Maize,1998-99,0,0
+1,Balochistan,,Kharan,Maize,1998-99,0,0
+1,Balochistan,,Lasbela,Maize,1998-99,0.1,0.1
+1,Balochistan,,Turbat,Maize,1998-99,0,0
+1,Balochistan,,Panjgoor,Maize,1998-99,0,0
+1,Balochistan,,Gwadar,Maize,1998-99,0,0
+1,Balochistan,,Magsi,Maize,1998-99,0,0
+1,Balochistan,,Kalat,Maize,1998-99,0,0
+1,Balochistan,,Quetta,Maize,1999-00,0,0
+1,Balochistan,,Pishin,Maize,1999-00,0,0
+1,Balochistan,,Killa Abdullah,Maize,1999-00,0,0
+1,Balochistan,,Chagai,Maize,1999-00,0,0
+1,Balochistan,,Loralai,Maize,1999-00,0.5,1.9
+1,Balochistan,,Musa Khail ,Maize,1999-00,0.9,0.8
+1,Balochistan,,Barkhan,Maize,1999-00,0,0
+1,Balochistan,,Zhob,Maize,1999-00,0.7,0.6
+1,Balochistan,,Killa Saifullah,Maize,1999-00,0.2,0.2
+1,Balochistan,,Sibi,Maize,1999-00,0.1,0.1
+1,Balochistan,,Ziarat,Maize,1999-00,0,0
+1,Balochistan,,Kohlu,Maize,1999-00,0,0
+1,Balochistan,,Kachhi,Maize,1999-00,0,0
+1,Balochistan,,Bughti,Maize,1999-00,0,0
+1,Balochistan,,Nasirabad,Maize,1999-00,0,0
+1,Balochistan,,Jafferabad ,Maize,1999-00,0,0
+1,Balochistan,,Tomboo,Maize,1999-00,0,0
+1,Balochistan,,Bolan,Maize,1999-00,0,0
+1,Balochistan,,Mastung,Maize,1999-00,0,0
+1,Balochistan,,Khuzdar,Maize,1999-00,0,0
+1,Balochistan,,Awaran,Maize,1999-00,0,0
+1,Balochistan,,Kharan,Maize,1999-00,0,0
+1,Balochistan,,Lasbela,Maize,1999-00,0.1,0.1
+1,Balochistan,,Turbat,Maize,1999-00,0,0
+1,Balochistan,,Panjgoor,Maize,1999-00,0,0
+1,Balochistan,,Gwadar,Maize,1999-00,0,0
+1,Balochistan,,Magsi,Maize,1999-00,0,0
+1,Balochistan,,Kalat,Maize,1999-00,0,0
+1,Balochistan,,Quetta,Maize,2000-01,0,0
+1,Balochistan,,Pishin,Maize,2000-01,0,0
+1,Balochistan,,Killa Abdullah,Maize,2000-01,0,0
+1,Balochistan,,Chagai,Maize,2000-01,0,0
+1,Balochistan,,Loralai,Maize,2000-01,1.1,0.6
+1,Balochistan,,Musa Khail ,Maize,2000-01,0,1.1
+1,Balochistan,,Barkhan,Maize,2000-01,0,0
+1,Balochistan,,Zhob,Maize,2000-01,0.5,0.7
+1,Balochistan,,Killa Saifullah,Maize,2000-01,0.2,0.2
+1,Balochistan,,Sibi,Maize,2000-01,0,0.1
+1,Balochistan,,Ziarat,Maize,2000-01,0,0
+1,Balochistan,,Kohlu,Maize,2000-01,0,0
+1,Balochistan,,Kachhi,Maize,2000-01,0,0
+1,Balochistan,,Bughti,Maize,2000-01,0,0
+1,Balochistan,,Nasirabad,Maize,2000-01,0,0
+1,Balochistan,,Jafferabad ,Maize,2000-01,0,0
+1,Balochistan,,Tomboo,Maize,2000-01,0,0
+1,Balochistan,,Bolan,Maize,2000-01,0,0
+1,Balochistan,,Mastung,Maize,2000-01,0,0
+1,Balochistan,,Khuzdar,Maize,2000-01,0.7,0
+1,Balochistan,,Awaran,Maize,2000-01,0,0
+1,Balochistan,,Kharan,Maize,2000-01,0,0
+1,Balochistan,,Lasbela,Maize,2000-01,0,0.1
+1,Balochistan,,Turbat,Maize,2000-01,0,0
+1,Balochistan,,Panjgoor,Maize,2000-01,0,0
+1,Balochistan,,Gwadar,Maize,2000-01,0,0
+1,Balochistan,,Magsi,Maize,2000-01,0,0
+1,Balochistan,,Kalat,Maize,2000-01,0,0
+1,Balochistan,,Quetta,Maize,2001-02,0,0
+1,Balochistan,,Pishin,Maize,2001-02,0,0
+1,Balochistan,,Killa Abdullah,Maize,2001-02,0,0
+1,Balochistan,,Chagai,Maize,2001-02,0,0
+1,Balochistan,,Loralai,Maize,2001-02,1.2,1.2
+1,Balochistan,,Musa Khail ,Maize,2001-02,0,0
+1,Balochistan,,Barkhan,Maize,2001-02,0,0
+1,Balochistan,,Zhob,Maize,2001-02,0.5,0.5
+1,Balochistan,,Killa Saifullah,Maize,2001-02,0.2,0.2
+1,Balochistan,,Sibi,Maize,2001-02,0,0
+1,Balochistan,,Ziarat,Maize,2001-02,0,0
+1,Balochistan,,Kohlu,Maize,2001-02,0,0
+1,Balochistan,,Kachhi,Maize,2001-02,0,0
+1,Balochistan,,Bughti,Maize,2001-02,0,0
+1,Balochistan,,Nasirabad,Maize,2001-02,0,0
+1,Balochistan,,Jafferabad ,Maize,2001-02,0,0
+1,Balochistan,,Tomboo,Maize,2001-02,0,0
+1,Balochistan,,Bolan,Maize,2001-02,0,0
+1,Balochistan,,Mastung,Maize,2001-02,0,0
+1,Balochistan,,Khuzdar,Maize,2001-02,0.8,0.6
+1,Balochistan,,Awaran,Maize,2001-02,0,0
+1,Balochistan,,Kharan,Maize,2001-02,0,0
+1,Balochistan,,Lasbela,Maize,2001-02,0,0
+1,Balochistan,,Turbat,Maize,2001-02,0,0
+1,Balochistan,,Panjgoor,Maize,2001-02,0,0
+1,Balochistan,,Gwadar,Maize,2001-02,0,0
+1,Balochistan,,Magsi,Maize,2001-02,0,0
+1,Balochistan,,Kalat,Maize,2001-02,0,0
+1,Balochistan,,Quetta,Maize,2002-03,0,0
+1,Balochistan,,Pishin,Maize,2002-03,0.2,0
+1,Balochistan,,Killa Abdullah,Maize,2002-03,0,0
+1,Balochistan,,Chagai,Maize,2002-03,0,0
+1,Balochistan,,Loralai,Maize,2002-03,1.2,1.5
+1,Balochistan,,Musa Khail ,Maize,2002-03,0,0
+1,Balochistan,,Barkhan,Maize,2002-03,0,0
+1,Balochistan,,Zhob,Maize,2002-03,0.5,0.5
+1,Balochistan,,Killa Saifullah,Maize,2002-03,0.2,0.2
+1,Balochistan,,Sibi,Maize,2002-03,0,0
+1,Balochistan,,Ziarat,Maize,2002-03,0,0
+1,Balochistan,,Kohlu,Maize,2002-03,0,0
+1,Balochistan,,Kachhi,Maize,2002-03,0,0
+1,Balochistan,,Bughti,Maize,2002-03,0,0
+1,Balochistan,,Nasirabad,Maize,2002-03,0,0
+1,Balochistan,,Jafferabad ,Maize,2002-03,0,0
+1,Balochistan,,Tomboo,Maize,2002-03,0,0
+1,Balochistan,,Bolan,Maize,2002-03,0,0
+1,Balochistan,,Mastung,Maize,2002-03,0,0
+1,Balochistan,,Khuzdar,Maize,2002-03,0.8,0.7
+1,Balochistan,,Awaran,Maize,2002-03,0,0
+1,Balochistan,,Kharan,Maize,2002-03,0,0
+1,Balochistan,,Lasbela,Maize,2002-03,0,0
+1,Balochistan,,Turbat,Maize,2002-03,0,0
+1,Balochistan,,Panjgoor,Maize,2002-03,0,0
+1,Balochistan,,Gwadar,Maize,2002-03,0,0
+1,Balochistan,,Magsi,Maize,2002-03,0,0
+1,Balochistan,,Kalat,Maize,2002-03,0,0
+1,Balochistan,,Quetta,Maize,2003-04,0,0
+1,Balochistan,,Pishin,Maize,2003-04,0.1,0.2
+1,Balochistan,,Killa Abdullah,Maize,2003-04,0,0
+1,Balochistan,,Chagai,Maize,2003-04,0,0
+1,Balochistan,,Loralai,Maize,2003-04,2.8,1.5
+1,Balochistan,,Musa Khail ,Maize,2003-04,1.6,0
+1,Balochistan,,Barkhan,Maize,2003-04,0,0
+1,Balochistan,,Zhob,Maize,2003-04,0.2,0.5
+1,Balochistan,,Killa Saifullah,Maize,2003-04,0.2,0.2
+1,Balochistan,,Sibi,Maize,2003-04,0,0
+1,Balochistan,,Ziarat,Maize,2003-04,0,0
+1,Balochistan,,Kohlu,Maize,2003-04,0,0
+1,Balochistan,,Kachhi,Maize,2003-04,0,0
+1,Balochistan,,Bughti,Maize,2003-04,0,0
+1,Balochistan,,Nasirabad,Maize,2003-04,0,0
+1,Balochistan,,Jafferabad ,Maize,2003-04,0,0
+1,Balochistan,,Tomboo,Maize,2003-04,0,0
+1,Balochistan,,Bolan,Maize,2003-04,0,0
+1,Balochistan,,Mastung,Maize,2003-04,0,0
+1,Balochistan,,Khuzdar,Maize,2003-04,0.3,0.7
+1,Balochistan,,Awaran,Maize,2003-04,0,0
+1,Balochistan,,Kharan,Maize,2003-04,0,0
+1,Balochistan,,Lasbela,Maize,2003-04,0,0
+1,Balochistan,,Turbat,Maize,2003-04,0,0
+1,Balochistan,,Panjgoor,Maize,2003-04,0,0
+1,Balochistan,,Gwadar,Maize,2003-04,0,0
+1,Balochistan,,Magsi,Maize,2003-04,0,0
+1,Balochistan,,Kalat,Maize,2003-04,0,0
+1,Balochistan,,Quetta,Maize,2004-05,0,0
+1,Balochistan,,Pishin,Maize,2004-05,0,0.1
+1,Balochistan,,Killa Abdullah,Maize,2004-05,0,0
+1,Balochistan,,Chagai,Maize,2004-05,0,0
+1,Balochistan,,Loralai,Maize,2004-05,2.8,2.8
+1,Balochistan,,Musa Khail ,Maize,2004-05,1.3,1.6
+1,Balochistan,,Barkhan,Maize,2004-05,0,0
+1,Balochistan,,Zhob,Maize,2004-05,0.3,0.2
+1,Balochistan,,Killa Saifullah,Maize,2004-05,0.2,0.2
+1,Balochistan,,Sibi,Maize,2004-05,0,0
+1,Balochistan,,Ziarat,Maize,2004-05,0,0
+1,Balochistan,,Kohlu,Maize,2004-05,0,0
+1,Balochistan,,Kachhi,Maize,2004-05,0,0
+1,Balochistan,,Bughti,Maize,2004-05,0,0
+1,Balochistan,,Nasirabad,Maize,2004-05,0,0
+1,Balochistan,,Jafferabad ,Maize,2004-05,0,0
+1,Balochistan,,Tomboo,Maize,2004-05,0,0
+1,Balochistan,,Bolan,Maize,2004-05,0,0
+1,Balochistan,,Mastung,Maize,2004-05,0,0
+1,Balochistan,,Khuzdar,Maize,2004-05,0.3,0.3
+1,Balochistan,,Awaran,Maize,2004-05,0,0
+1,Balochistan,,Kharan,Maize,2004-05,0,0
+1,Balochistan,,Lasbela,Maize,2004-05,0.1,0
+1,Balochistan,,Turbat,Maize,2004-05,0,0
+1,Balochistan,,Panjgoor,Maize,2004-05,0,0
+1,Balochistan,,Gwadar,Maize,2004-05,0,0
+1,Balochistan,,Magsi,Maize,2004-05,0,0
+1,Balochistan,,Kalat,Maize,2004-05,0.2,0
+1,Balochistan,,Quetta,Maize,2005-06,0,0
+1,Balochistan,,Pishin,Maize,2005-06,0,0
+1,Balochistan,,Killa Abdullah,Maize,2005-06,0,0
+1,Balochistan,,Chagai,Maize,2005-06,0,0
+1,Balochistan,,Loralai,Maize,2005-06,3,2.8
+1,Balochistan,,Musa Khail ,Maize,2005-06,0.9,1.4
+1,Balochistan,,Barkhan,Maize,2005-06,0.1,0
+1,Balochistan,,Zhob,Maize,2005-06,0.3,0.3
+1,Balochistan,,Killa Saifullah,Maize,2005-06,0.2,0.2
+1,Balochistan,,Sibi,Maize,2005-06,0,0
+1,Balochistan,,Ziarat,Maize,2005-06,0,0
+1,Balochistan,,Kohlu,Maize,2005-06,0,0
+1,Balochistan,,Kachhi,Maize,2005-06,0,0
+1,Balochistan,,Bughti,Maize,2005-06,0,0
+1,Balochistan,,Nasirabad,Maize,2005-06,0,0
+1,Balochistan,,Jafferabad ,Maize,2005-06,0,0
+1,Balochistan,,Tomboo,Maize,2005-06,0,0
+1,Balochistan,,Bolan,Maize,2005-06,0,0
+1,Balochistan,,Mastung,Maize,2005-06,0,0
+1,Balochistan,,Khuzdar,Maize,2005-06,0.2,0.3
+1,Balochistan,,Awaran,Maize,2005-06,0,0
+1,Balochistan,,Kharan,Maize,2005-06,0,0
+1,Balochistan,,Lasbela,Maize,2005-06,0.6,0.1
+1,Balochistan,,Turbat,Maize,2005-06,0,0
+1,Balochistan,,Panjgoor,Maize,2005-06,0,0
+1,Balochistan,,Gwadar,Maize,2005-06,0,0
+1,Balochistan,,Magsi,Maize,2005-06,0,0
+1,Balochistan,,Kalat,Maize,2005-06,0.2,0.2
+1,Balochistan,,Quetta,Maize,2006-07,0,0
+1,Balochistan,,Pishin,Maize,2006-07,0,0
+1,Balochistan,,Killa Abdullah,Maize,2006-07,0,0
+1,Balochistan,,Chagai,Maize,2006-07,0,0
+1,Balochistan,,Loralai,Maize,2006-07,3.3,3.7
+1,Balochistan,,Musa Khail ,Maize,2006-07,0.9,0.9
+1,Balochistan,,Barkhan,Maize,2006-07,0,0.1
+1,Balochistan,,Zhob,Maize,2006-07,0.3,0.3
+1,Balochistan,,Killa Saifullah,Maize,2006-07,0.2,0.2
+1,Balochistan,,Sibi,Maize,2006-07,0,0
+1,Balochistan,,Ziarat,Maize,2006-07,0,0
+1,Balochistan,,Kohlu,Maize,2006-07,0,0
+1,Balochistan,,Kachhi,Maize,2006-07,0,0
+1,Balochistan,,Bughti,Maize,2006-07,0,0
+1,Balochistan,,Nasirabad,Maize,2006-07,0,0
+1,Balochistan,,Jafferabad ,Maize,2006-07,0,0
+1,Balochistan,,Tomboo,Maize,2006-07,0,0
+1,Balochistan,,Bolan,Maize,2006-07,0,0
+1,Balochistan,,Mastung,Maize,2006-07,0,0
+1,Balochistan,,Khuzdar,Maize,2006-07,0.2,0.2
+1,Balochistan,,Awaran,Maize,2006-07,0,0
+1,Balochistan,,Kharan,Maize,2006-07,0,0
+1,Balochistan,,Lasbela,Maize,2006-07,0.8,0.6
+1,Balochistan,,Turbat,Maize,2006-07,0,0
+1,Balochistan,,Panjgoor,Maize,2006-07,0,0
+1,Balochistan,,Gwadar,Maize,2006-07,0,0
+1,Balochistan,,Magsi,Maize,2006-07,0,0
+1,Balochistan,,Kalat,Maize,2006-07,0.2,0.2
+1,Balochistan,,Quetta,Maize,2007-08,0,0
+1,Balochistan,,Pishin,Maize,2007-08,0,0
+1,Balochistan,,Killa Abdullah,Maize,2007-08,0,0
+1,Balochistan,,Chagai,Maize,2007-08,0,0
+1,Balochistan,,Loralai,Maize,2007-08,3.3,4
+1,Balochistan,,Musa Khail ,Maize,2007-08,0.9,0.9
+1,Balochistan,,Barkhan,Maize,2007-08,0,0
+1,Balochistan,,Zhob,Maize,2007-08,0.3,0.3
+1,Balochistan,,Killa Saifullah,Maize,2007-08,0.2,0.2
+1,Balochistan,,Sibi,Maize,2007-08,0,0
+1,Balochistan,,Ziarat,Maize,2007-08,0,0
+1,Balochistan,,Kohlu,Maize,2007-08,0,0
+1,Balochistan,,Kachhi,Maize,2007-08,0,0
+1,Balochistan,,Bughti,Maize,2007-08,0,0
+1,Balochistan,,Nasirabad,Maize,2007-08,0,0
+1,Balochistan,,Jafferabad ,Maize,2007-08,0,0
+1,Balochistan,,Tomboo,Maize,2007-08,0,0
+1,Balochistan,,Bolan,Maize,2007-08,0,0
+1,Balochistan,,Mastung,Maize,2007-08,0,0
+1,Balochistan,,Khuzdar,Maize,2007-08,0.3,0.2
+1,Balochistan,,Awaran,Maize,2007-08,0,0
+1,Balochistan,,Kharan,Maize,2007-08,0,0
+1,Balochistan,,Lasbela,Maize,2007-08,0.4,0.7
+1,Balochistan,,Turbat,Maize,2007-08,0,0
+1,Balochistan,,Panjgoor,Maize,2007-08,0,0
+1,Balochistan,,Gwadar,Maize,2007-08,0,0
+1,Balochistan,,Magsi,Maize,2007-08,0,0
+1,Balochistan,,Kalat,Maize,2007-08,0,0.2
+1,Balochistan,,Quetta,Maize,2008-09,0,0
+1,Balochistan,,Pishin,Maize,2008-09,0,0
+1,Balochistan,,Killa Abdullah,Maize,2008-09,0,0
+1,Balochistan,,Chagai,Maize,2008-09,0,0
+1,Balochistan,,Loralai,Maize,2008-09,3.1,3.7
+1,Balochistan,,Musa Khail ,Maize,2008-09,1,1.1
+1,Balochistan,,Barkhan,Maize,2008-09,0.3,0.3
+1,Balochistan,,Zhob,Maize,2008-09,0.3,0.3
+1,Balochistan,,Killa Saifullah,Maize,2008-09,0.1,0.1
+1,Balochistan,,Sibi,Maize,2008-09,0,0
+1,Balochistan,,Ziarat,Maize,2008-09,0,0
+1,Balochistan,,Kohlu,Maize,2008-09,*,*
+1,Balochistan,,Kachhi,Maize,2008-09,0,0
+1,Balochistan,,Bughti,Maize,2008-09,0,0
+1,Balochistan,,Nasirabad,Maize,2008-09,0,0
+1,Balochistan,,Jafferabad ,Maize,2008-09,0,0
+1,Balochistan,,Tomboo,Maize,2008-09,0,0
+1,Balochistan,,Bolan,Maize,2008-09,0,0
+1,Balochistan,,Mastung,Maize,2008-09,0,0
+1,Balochistan,,Khuzdar,Maize,2008-09,0.1,0.1
+1,Balochistan,,Awaran,Maize,2008-09,0,0
+1,Balochistan,,Kharan,Maize,2008-09,0,0
+1,Balochistan,,Lasbela,Maize,2008-09,0.6,0.6
+1,Balochistan,,Turbat,Maize,2008-09,0,0
+1,Balochistan,,Panjgoor,Maize,2008-09,0,0
+1,Balochistan,,Gwadar,Maize,2008-09,0,0
+1,Balochistan,,Magsi,Maize,2008-09,0,0
+1,Balochistan,,Kalat,Maize,2008-09,0,0
+1,Balochistan,,Quetta,Bajra,1981-82,0,0
+1,Balochistan,,Pishin,Bajra,1981-82,0,0
+1,Balochistan,,Killa Abdullah,Bajra,1981-82,0,0
+1,Balochistan,,Chagai,Bajra,1981-82,0,0
+1,Balochistan,,Loralai,Bajra,1981-82,0.1,0.1
+1,Balochistan,,Musa Khail ,Bajra,1981-82,0,0
+1,Balochistan,,Barkhan,Bajra,1981-82,0,0
+1,Balochistan,,Zhob,Bajra,1981-82,0,0
+1,Balochistan,,Killa Saifullah,Bajra,1981-82,0,0
+1,Balochistan,,Sibi,Bajra,1981-82,*,*
+1,Balochistan,,Ziarat,Bajra,1981-82,0,0
+1,Balochistan,,Kohlu,Bajra,1981-82,0.1,*
+1,Balochistan,,Kachhi,Bajra,1981-82,0,0
+1,Balochistan,,Bughti,Bajra,1981-82,0,0
+1,Balochistan,,Nasirabad,Bajra,1981-82,0,0
+1,Balochistan,,Jafferabad ,Bajra,1981-82,0,0
+1,Balochistan,,Tomboo,Bajra,1981-82,0,0
+1,Balochistan,,Bolan,Bajra,1981-82,0,0
+1,Balochistan,,Mastung,Bajra,1981-82,0,0
+1,Balochistan,,Khuzdar,Bajra,1981-82,0,0
+1,Balochistan,,Awaran,Bajra,1981-82,0,0
+1,Balochistan,,Kharan,Bajra,1981-82,0,0
+1,Balochistan,,Lasbela,Bajra,1981-82,0,0
+1,Balochistan,,Turbat,Bajra,1981-82,0,0
+1,Balochistan,,Panjgoor,Bajra,1981-82,0,0
+1,Balochistan,,Gwadar,Bajra,1981-82,0,0
+1,Balochistan,,Magsi,Bajra,1981-82,0,0
+1,Balochistan,,Kalat,Bajra,1981-82,0,0
+1,Balochistan,,Quetta,Bajra,1982-83,0,0
+1,Balochistan,,Pishin,Bajra,1982-83,0,0
+1,Balochistan,,Killa Abdullah,Bajra,1982-83,0,0
+1,Balochistan,,Chagai,Bajra,1982-83,0,0
+1,Balochistan,,Loralai,Bajra,1982-83,*,*
+1,Balochistan,,Musa Khail ,Bajra,1982-83,0,0
+1,Balochistan,,Barkhan,Bajra,1982-83,0,0
+1,Balochistan,,Zhob,Bajra,1982-83,0,0
+1,Balochistan,,Killa Saifullah,Bajra,1982-83,0,0
+1,Balochistan,,Sibi,Bajra,1982-83,*,*
+1,Balochistan,,Ziarat,Bajra,1982-83,0,0
+1,Balochistan,,Kohlu,Bajra,1982-83,0.1,0.1
+1,Balochistan,,Kachhi,Bajra,1982-83,0,0
+1,Balochistan,,Bughti,Bajra,1982-83,0,0
+1,Balochistan,,Nasirabad,Bajra,1982-83,0.1,*
+1,Balochistan,,Jafferabad ,Bajra,1982-83,0,0
+1,Balochistan,,Tomboo,Bajra,1982-83,0,0
+1,Balochistan,,Bolan,Bajra,1982-83,0,0
+1,Balochistan,,Mastung,Bajra,1982-83,0,0
+1,Balochistan,,Khuzdar,Bajra,1982-83,0,0
+1,Balochistan,,Awaran,Bajra,1982-83,0,0
+1,Balochistan,,Kharan,Bajra,1982-83,0,0
+1,Balochistan,,Lasbela,Bajra,1982-83,0,0
+1,Balochistan,,Turbat,Bajra,1982-83,0,0
+1,Balochistan,,Panjgoor,Bajra,1982-83,0,0
+1,Balochistan,,Gwadar,Bajra,1982-83,0.7,0.3
+1,Balochistan,,Magsi,Bajra,1982-83,0,0
+1,Balochistan,,Kalat,Bajra,1982-83,0,0
+1,Balochistan,,Quetta,Bajra,1983-84,0,0
+1,Balochistan,,Pishin,Bajra,1983-84,0,0
+1,Balochistan,,Killa Abdullah,Bajra,1983-84,0,0
+1,Balochistan,,Chagai,Bajra,1983-84,0,0
+1,Balochistan,,Loralai,Bajra,1983-84,0.1,*
+1,Balochistan,,Musa Khail ,Bajra,1983-84,0,0
+1,Balochistan,,Barkhan,Bajra,1983-84,0,0
+1,Balochistan,,Zhob,Bajra,1983-84,0,0
+1,Balochistan,,Killa Saifullah,Bajra,1983-84,0,0
+1,Balochistan,,Sibi,Bajra,1983-84,*,*
+1,Balochistan,,Ziarat,Bajra,1983-84,0,0
+1,Balochistan,,Kohlu,Bajra,1983-84,0.1,0.1
+1,Balochistan,,Kachhi,Bajra,1983-84,0,0
+1,Balochistan,,Bughti,Bajra,1983-84,0,0
+1,Balochistan,,Nasirabad,Bajra,1983-84,*,*
+1,Balochistan,,Jafferabad ,Bajra,1983-84,0,0
+1,Balochistan,,Tomboo,Bajra,1983-84,0,0
+1,Balochistan,,Bolan,Bajra,1983-84,0,0
+1,Balochistan,,Mastung,Bajra,1983-84,0,0
+1,Balochistan,,Khuzdar,Bajra,1983-84,0,0
+1,Balochistan,,Awaran,Bajra,1983-84,0,0
+1,Balochistan,,Kharan,Bajra,1983-84,0,0
+1,Balochistan,,Lasbela,Bajra,1983-84,*,*
+1,Balochistan,,Turbat,Bajra,1983-84,0,0
+1,Balochistan,,Panjgoor,Bajra,1983-84,0,0
+1,Balochistan,,Gwadar,Bajra,1983-84,0.5,0.2
+1,Balochistan,,Magsi,Bajra,1983-84,0,0
+1,Balochistan,,Kalat,Bajra,1983-84,0,0
+1,Balochistan,,Quetta,Bajra,1984-85,0,0
+1,Balochistan,,Pishin,Bajra,1984-85,0,0
+1,Balochistan,,Killa Abdullah,Bajra,1984-85,0,0
+1,Balochistan,,Chagai,Bajra,1984-85,0,0
+1,Balochistan,,Loralai,Bajra,1984-85,0.4,0.2
+1,Balochistan,,Musa Khail ,Bajra,1984-85,0,0
+1,Balochistan,,Barkhan,Bajra,1984-85,0,0
+1,Balochistan,,Zhob,Bajra,1984-85,0,0
+1,Balochistan,,Killa Saifullah,Bajra,1984-85,0,0
+1,Balochistan,,Sibi,Bajra,1984-85,*,*
+1,Balochistan,,Ziarat,Bajra,1984-85,0,0
+1,Balochistan,,Kohlu,Bajra,1984-85,0.1,0.1
+1,Balochistan,,Kachhi,Bajra,1984-85,0,0
+1,Balochistan,,Bughti,Bajra,1984-85,0,0
+1,Balochistan,,Nasirabad,Bajra,1984-85,*,*
+1,Balochistan,,Jafferabad ,Bajra,1984-85,0,0
+1,Balochistan,,Tomboo,Bajra,1984-85,0,0
+1,Balochistan,,Bolan,Bajra,1984-85,0,0
+1,Balochistan,,Mastung,Bajra,1984-85,0,0
+1,Balochistan,,Khuzdar,Bajra,1984-85,*,*
+1,Balochistan,,Awaran,Bajra,1984-85,0,0
+1,Balochistan,,Kharan,Bajra,1984-85,0,0
+1,Balochistan,,Lasbela,Bajra,1984-85,*,*
+1,Balochistan,,Turbat,Bajra,1984-85,0,0
+1,Balochistan,,Panjgoor,Bajra,1984-85,0,0
+1,Balochistan,,Gwadar,Bajra,1984-85,*,*
+1,Balochistan,,Magsi,Bajra,1984-85,0,0
+1,Balochistan,,Kalat,Bajra,1984-85,0,0
+1,Balochistan,,Quetta,Bajra,1985-86,0,0
+1,Balochistan,,Pishin,Bajra,1985-86,0,0
+1,Balochistan,,Killa Abdullah,Bajra,1985-86,0,0
+1,Balochistan,,Chagai,Bajra,1985-86,0,0
+1,Balochistan,,Loralai,Bajra,1985-86,0.1,*
+1,Balochistan,,Musa Khail ,Bajra,1985-86,0,0
+1,Balochistan,,Barkhan,Bajra,1985-86,0,0
+1,Balochistan,,Zhob,Bajra,1985-86,0,0
+1,Balochistan,,Killa Saifullah,Bajra,1985-86,0,0
+1,Balochistan,,Sibi,Bajra,1985-86,*,*
+1,Balochistan,,Ziarat,Bajra,1985-86,0,0
+1,Balochistan,,Kohlu,Bajra,1985-86,0.1,0.1
+1,Balochistan,,Kachhi,Bajra,1985-86,0,0
+1,Balochistan,,Bughti,Bajra,1985-86,0,0
+1,Balochistan,,Nasirabad,Bajra,1985-86,*,*
+1,Balochistan,,Jafferabad ,Bajra,1985-86,0,0
+1,Balochistan,,Tomboo,Bajra,1985-86,0,0
+1,Balochistan,,Bolan,Bajra,1985-86,0,0
+1,Balochistan,,Mastung,Bajra,1985-86,0,0
+1,Balochistan,,Khuzdar,Bajra,1985-86,*,*
+1,Balochistan,,Awaran,Bajra,1985-86,0,0
+1,Balochistan,,Kharan,Bajra,1985-86,0,0
+1,Balochistan,,Lasbela,Bajra,1985-86,*,*
+1,Balochistan,,Turbat,Bajra,1985-86,0,0
+1,Balochistan,,Panjgoor,Bajra,1985-86,0,0
+1,Balochistan,,Gwadar,Bajra,1985-86,0,0
+1,Balochistan,,Magsi,Bajra,1985-86,0,0
+1,Balochistan,,Kalat,Bajra,1985-86,0,0
+1,Balochistan,,Quetta,Bajra,1986-87,0,0
+1,Balochistan,,Pishin,Bajra,1986-87,0,0
+1,Balochistan,,Killa Abdullah,Bajra,1986-87,0,0
+1,Balochistan,,Chagai,Bajra,1986-87,0,0
+1,Balochistan,,Loralai,Bajra,1986-87,0.1,0.1
+1,Balochistan,,Musa Khail ,Bajra,1986-87,0,0
+1,Balochistan,,Barkhan,Bajra,1986-87,0,0
+1,Balochistan,,Zhob,Bajra,1986-87,0,0
+1,Balochistan,,Killa Saifullah,Bajra,1986-87,0,0
+1,Balochistan,,Sibi,Bajra,1986-87,0,0
+1,Balochistan,,Ziarat,Bajra,1986-87,0,0
+1,Balochistan,,Kohlu,Bajra,1986-87,0.1,0.1
+1,Balochistan,,Kachhi,Bajra,1986-87,0,0
+1,Balochistan,,Bughti,Bajra,1986-87,0,0
+1,Balochistan,,Nasirabad,Bajra,1986-87,0,0
+1,Balochistan,,Jafferabad ,Bajra,1986-87,0,0
+1,Balochistan,,Tomboo,Bajra,1986-87,0,0
+1,Balochistan,,Bolan,Bajra,1986-87,0,0
+1,Balochistan,,Mastung,Bajra,1986-87,0,0
+1,Balochistan,,Khuzdar,Bajra,1986-87,0,0
+1,Balochistan,,Awaran,Bajra,1986-87,0,0
+1,Balochistan,,Kharan,Bajra,1986-87,0,0
+1,Balochistan,,Lasbela,Bajra,1986-87,0,0
+1,Balochistan,,Turbat,Bajra,1986-87,0,0
+1,Balochistan,,Panjgoor,Bajra,1986-87,0,0
+1,Balochistan,,Gwadar,Bajra,1986-87,0.1,0
+1,Balochistan,,Magsi,Bajra,1986-87,0,0
+1,Balochistan,,Kalat,Bajra,1986-87,0,0
+1,Balochistan,,Quetta,Bajra,1987-88,0,0
+1,Balochistan,,Pishin,Bajra,1987-88,0,0
+1,Balochistan,,Killa Abdullah,Bajra,1987-88,0,0
+1,Balochistan,,Chagai,Bajra,1987-88,0,0
+1,Balochistan,,Loralai,Bajra,1987-88,0.1,0.1
+1,Balochistan,,Musa Khail ,Bajra,1987-88,0,0
+1,Balochistan,,Barkhan,Bajra,1987-88,0,0
+1,Balochistan,,Zhob,Bajra,1987-88,0,0
+1,Balochistan,,Killa Saifullah,Bajra,1987-88,0,0
+1,Balochistan,,Sibi,Bajra,1987-88,0.1,0
+1,Balochistan,,Ziarat,Bajra,1987-88,0,0
+1,Balochistan,,Kohlu,Bajra,1987-88,0.1,0.1
+1,Balochistan,,Kachhi,Bajra,1987-88,0,0
+1,Balochistan,,Bughti,Bajra,1987-88,0,0
+1,Balochistan,,Nasirabad,Bajra,1987-88,0,0
+1,Balochistan,,Jafferabad ,Bajra,1987-88,0,0
+1,Balochistan,,Tomboo,Bajra,1987-88,0,0
+1,Balochistan,,Bolan,Bajra,1987-88,0,0
+1,Balochistan,,Mastung,Bajra,1987-88,0,0
+1,Balochistan,,Khuzdar,Bajra,1987-88,0,0
+1,Balochistan,,Awaran,Bajra,1987-88,0,0
+1,Balochistan,,Kharan,Bajra,1987-88,0,0
+1,Balochistan,,Lasbela,Bajra,1987-88,0,0
+1,Balochistan,,Turbat,Bajra,1987-88,0,0
+1,Balochistan,,Panjgoor,Bajra,1987-88,0,0
+1,Balochistan,,Gwadar,Bajra,1987-88,0,0
+1,Balochistan,,Magsi,Bajra,1987-88,0,0
+1,Balochistan,,Kalat,Bajra,1987-88,0,0
+1,Balochistan,,Quetta,Bajra,1988-89,0,0
+1,Balochistan,,Pishin,Bajra,1988-89,0,0
+1,Balochistan,,Killa Abdullah,Bajra,1988-89,0,0
+1,Balochistan,,Chagai,Bajra,1988-89,0,0
+1,Balochistan,,Loralai,Bajra,1988-89,0,0
+1,Balochistan,,Musa Khail ,Bajra,1988-89,0,0
+1,Balochistan,,Barkhan,Bajra,1988-89,0,0
+1,Balochistan,,Zhob,Bajra,1988-89,0,0
+1,Balochistan,,Killa Saifullah,Bajra,1988-89,0,0
+1,Balochistan,,Sibi,Bajra,1988-89,0.1,0.1
+1,Balochistan,,Ziarat,Bajra,1988-89,0.1,0.4
+1,Balochistan,,Kohlu,Bajra,1988-89,0.6,0.1
+1,Balochistan,,Kachhi,Bajra,1988-89,0,0
+1,Balochistan,,Bughti,Bajra,1988-89,0,0
+1,Balochistan,,Nasirabad,Bajra,1988-89,0,0
+1,Balochistan,,Jafferabad ,Bajra,1988-89,0,0
+1,Balochistan,,Tomboo,Bajra,1988-89,0,0
+1,Balochistan,,Bolan,Bajra,1988-89,0,0
+1,Balochistan,,Mastung,Bajra,1988-89,0,0
+1,Balochistan,,Khuzdar,Bajra,1988-89,0,0
+1,Balochistan,,Awaran,Bajra,1988-89,0,0
+1,Balochistan,,Kharan,Bajra,1988-89,0,0
+1,Balochistan,,Lasbela,Bajra,1988-89,0,0
+1,Balochistan,,Turbat,Bajra,1988-89,0,0
+1,Balochistan,,Panjgoor,Bajra,1988-89,0,0
+1,Balochistan,,Gwadar,Bajra,1988-89,0.1,0
+1,Balochistan,,Magsi,Bajra,1988-89,0,0
+1,Balochistan,,Kalat,Bajra,1988-89,0,0
+1,Balochistan,,Quetta,Bajra,1989-90,0,0
+1,Balochistan,,Pishin,Bajra,1989-90,0,0
+1,Balochistan,,Killa Abdullah,Bajra,1989-90,0,0
+1,Balochistan,,Chagai,Bajra,1989-90,0,0
+1,Balochistan,,Loralai,Bajra,1989-90,0.1,0
+1,Balochistan,,Musa Khail ,Bajra,1989-90,0,0
+1,Balochistan,,Barkhan,Bajra,1989-90,0,0
+1,Balochistan,,Zhob,Bajra,1989-90,0,0
+1,Balochistan,,Killa Saifullah,Bajra,1989-90,0,0
+1,Balochistan,,Sibi,Bajra,1989-90,0,0
+1,Balochistan,,Ziarat,Bajra,1989-90,0,0
+1,Balochistan,,Kohlu,Bajra,1989-90,0.1,0.1
+1,Balochistan,,Kachhi,Bajra,1989-90,0,0
+1,Balochistan,,Bughti,Bajra,1989-90,0.2,0.1
+1,Balochistan,,Nasirabad,Bajra,1989-90,0,0
+1,Balochistan,,Jafferabad ,Bajra,1989-90,0,0
+1,Balochistan,,Tomboo,Bajra,1989-90,0,0
+1,Balochistan,,Bolan,Bajra,1989-90,0,0
+1,Balochistan,,Mastung,Bajra,1989-90,0,0
+1,Balochistan,,Khuzdar,Bajra,1989-90,0.1,0.1
+1,Balochistan,,Awaran,Bajra,1989-90,0,0
+1,Balochistan,,Kharan,Bajra,1989-90,0,0
+1,Balochistan,,Lasbela,Bajra,1989-90,0,0
+1,Balochistan,,Turbat,Bajra,1989-90,0,0
+1,Balochistan,,Panjgoor,Bajra,1989-90,0,0
+1,Balochistan,,Gwadar,Bajra,1989-90,0,0
+1,Balochistan,,Magsi,Bajra,1989-90,0,0
+1,Balochistan,,Kalat,Bajra,1989-90,0,0
+1,Balochistan,,Quetta,Bajra,1990-91,0,0
+1,Balochistan,,Pishin,Bajra,1990-91,0,0
+1,Balochistan,,Killa Abdullah,Bajra,1990-91,0,0
+1,Balochistan,,Chagai,Bajra,1990-91,0,0
+1,Balochistan,,Loralai,Bajra,1990-91,0.1,0.1
+1,Balochistan,,Musa Khail ,Bajra,1990-91,0,0
+1,Balochistan,,Barkhan,Bajra,1990-91,0,0
+1,Balochistan,,Zhob,Bajra,1990-91,0,0
+1,Balochistan,,Killa Saifullah,Bajra,1990-91,0,0
+1,Balochistan,,Sibi,Bajra,1990-91,0,0
+1,Balochistan,,Ziarat,Bajra,1990-91,0,0
+1,Balochistan,,Kohlu,Bajra,1990-91,0.2,0.1
+1,Balochistan,,Kachhi,Bajra,1990-91,0,0
+1,Balochistan,,Bughti,Bajra,1990-91,0.2,0.1
+1,Balochistan,,Nasirabad,Bajra,1990-91,0,0
+1,Balochistan,,Jafferabad ,Bajra,1990-91,0,0
+1,Balochistan,,Tomboo,Bajra,1990-91,0,0
+1,Balochistan,,Bolan,Bajra,1990-91,0,0
+1,Balochistan,,Mastung,Bajra,1990-91,0,0
+1,Balochistan,,Khuzdar,Bajra,1990-91,0.1,0.1
+1,Balochistan,,Awaran,Bajra,1990-91,0,0
+1,Balochistan,,Kharan,Bajra,1990-91,0,0
+1,Balochistan,,Lasbela,Bajra,1990-91,0,0
+1,Balochistan,,Turbat,Bajra,1990-91,0,0
+1,Balochistan,,Panjgoor,Bajra,1990-91,0,0
+1,Balochistan,,Gwadar,Bajra,1990-91,0,0
+1,Balochistan,,Magsi,Bajra,1990-91,0,0
+1,Balochistan,,Kalat,Bajra,1990-91,0,0
+1,Balochistan,,Quetta,Bajra,1991-92,0,0
+1,Balochistan,,Pishin,Bajra,1991-92,0,0
+1,Balochistan,,Killa Abdullah,Bajra,1991-92,0,0
+1,Balochistan,,Chagai,Bajra,1991-92,0,0
+1,Balochistan,,Loralai,Bajra,1991-92,0.1,0.1
+1,Balochistan,,Musa Khail ,Bajra,1991-92,0,0
+1,Balochistan,,Barkhan,Bajra,1991-92,0,0
+1,Balochistan,,Zhob,Bajra,1991-92,0,0
+1,Balochistan,,Killa Saifullah,Bajra,1991-92,0,0
+1,Balochistan,,Sibi,Bajra,1991-92,0,0
+1,Balochistan,,Ziarat,Bajra,1991-92,0,0
+1,Balochistan,,Kohlu,Bajra,1991-92,0.1,0.1
+1,Balochistan,,Kachhi,Bajra,1991-92,0,0
+1,Balochistan,,Bughti,Bajra,1991-92,0.2,0.1
+1,Balochistan,,Nasirabad,Bajra,1991-92,0,0
+1,Balochistan,,Jafferabad ,Bajra,1991-92,0,0
+1,Balochistan,,Tomboo,Bajra,1991-92,0,0
+1,Balochistan,,Bolan,Bajra,1991-92,0,0
+1,Balochistan,,Mastung,Bajra,1991-92,0,0
+1,Balochistan,,Khuzdar,Bajra,1991-92,0.1,0
+1,Balochistan,,Awaran,Bajra,1991-92,0,0
+1,Balochistan,,Kharan,Bajra,1991-92,0,0
+1,Balochistan,,Lasbela,Bajra,1991-92,0,0
+1,Balochistan,,Turbat,Bajra,1991-92,0,0
+1,Balochistan,,Panjgoor,Bajra,1991-92,0,0
+1,Balochistan,,Gwadar,Bajra,1991-92,0,0
+1,Balochistan,,Magsi,Bajra,1991-92,0,0
+1,Balochistan,,Kalat,Bajra,1991-92,0,0
+1,Balochistan,,Quetta,Bajra,1992-93,0,0
+1,Balochistan,,Pishin,Bajra,1992-93,0,0
+1,Balochistan,,Killa Abdullah,Bajra,1992-93,0,0
+1,Balochistan,,Chagai,Bajra,1992-93,0,0
+1,Balochistan,,Loralai,Bajra,1992-93,0,0
+1,Balochistan,,Musa Khail ,Bajra,1992-93,0,0
+1,Balochistan,,Barkhan,Bajra,1992-93,0,0
+1,Balochistan,,Zhob,Bajra,1992-93,0,0
+1,Balochistan,,Killa Saifullah,Bajra,1992-93,0,0
+1,Balochistan,,Sibi,Bajra,1992-93,0,0
+1,Balochistan,,Ziarat,Bajra,1992-93,0,0
+1,Balochistan,,Kohlu,Bajra,1992-93,0.1,0.1
+1,Balochistan,,Kachhi,Bajra,1992-93,0,0
+1,Balochistan,,Bughti,Bajra,1992-93,0.3,0.1
+1,Balochistan,,Nasirabad,Bajra,1992-93,0,0
+1,Balochistan,,Jafferabad ,Bajra,1992-93,0,0
+1,Balochistan,,Tomboo,Bajra,1992-93,0,0
+1,Balochistan,,Bolan,Bajra,1992-93,0,0
+1,Balochistan,,Mastung,Bajra,1992-93,0,0
+1,Balochistan,,Khuzdar,Bajra,1992-93,0.1,0.1
+1,Balochistan,,Awaran,Bajra,1992-93,0,0
+1,Balochistan,,Kharan,Bajra,1992-93,0,0
+1,Balochistan,,Lasbela,Bajra,1992-93,0,0
+1,Balochistan,,Turbat,Bajra,1992-93,0,0
+1,Balochistan,,Panjgoor,Bajra,1992-93,0,0
+1,Balochistan,,Gwadar,Bajra,1992-93,0,0
+1,Balochistan,,Magsi,Bajra,1992-93,0,0
+1,Balochistan,,Kalat,Bajra,1992-93,0,0
+1,Balochistan,,Quetta,Bajra,1993-94,0,0
+1,Balochistan,,Pishin,Bajra,1993-94,0,0
+1,Balochistan,,Killa Abdullah,Bajra,1993-94,0,0
+1,Balochistan,,Chagai,Bajra,1993-94,0,0
+1,Balochistan,,Loralai,Bajra,1993-94,0,0
+1,Balochistan,,Musa Khail ,Bajra,1993-94,0,0
+1,Balochistan,,Barkhan,Bajra,1993-94,0,0
+1,Balochistan,,Zhob,Bajra,1993-94,0,0
+1,Balochistan,,Killa Saifullah,Bajra,1993-94,0,0
+1,Balochistan,,Sibi,Bajra,1993-94,0,0
+1,Balochistan,,Ziarat,Bajra,1993-94,0,0
+1,Balochistan,,Kohlu,Bajra,1993-94,0.1,0.1
+1,Balochistan,,Kachhi,Bajra,1993-94,0,0
+1,Balochistan,,Bughti,Bajra,1993-94,0.3,0.1
+1,Balochistan,,Nasirabad,Bajra,1993-94,0,0
+1,Balochistan,,Jafferabad ,Bajra,1993-94,0,0
+1,Balochistan,,Tomboo,Bajra,1993-94,0,0
+1,Balochistan,,Bolan,Bajra,1993-94,0,0
+1,Balochistan,,Mastung,Bajra,1993-94,0,0
+1,Balochistan,,Khuzdar,Bajra,1993-94,0.1,0.1
+1,Balochistan,,Awaran,Bajra,1993-94,0,0
+1,Balochistan,,Kharan,Bajra,1993-94,0,0
+1,Balochistan,,Lasbela,Bajra,1993-94,0,0
+1,Balochistan,,Turbat,Bajra,1993-94,0,0
+1,Balochistan,,Panjgoor,Bajra,1993-94,0,0
+1,Balochistan,,Gwadar,Bajra,1993-94,0,0
+1,Balochistan,,Magsi,Bajra,1993-94,0,0
+1,Balochistan,,Kalat,Bajra,1993-94,0,0
+1,Balochistan,,Quetta,Bajra,1994-95,0,0
+1,Balochistan,,Pishin,Bajra,1994-95,0,0
+1,Balochistan,,Killa Abdullah,Bajra,1994-95,0,0
+1,Balochistan,,Chagai,Bajra,1994-95,0,0
+1,Balochistan,,Loralai,Bajra,1994-95,0,0
+1,Balochistan,,Musa Khail ,Bajra,1994-95,0,0
+1,Balochistan,,Barkhan,Bajra,1994-95,0.1,0.1
+1,Balochistan,,Zhob,Bajra,1994-95,0,0
+1,Balochistan,,Killa Saifullah,Bajra,1994-95,0,0
+1,Balochistan,,Sibi,Bajra,1994-95,0,0
+1,Balochistan,,Ziarat,Bajra,1994-95,0,0
+1,Balochistan,,Kohlu,Bajra,1994-95,0.1,0.1
+1,Balochistan,,Kachhi,Bajra,1994-95,0,0
+1,Balochistan,,Bughti,Bajra,1994-95,0.3,0.1
+1,Balochistan,,Nasirabad,Bajra,1994-95,0,0
+1,Balochistan,,Jafferabad ,Bajra,1994-95,0,0
+1,Balochistan,,Tomboo,Bajra,1994-95,0,0
+1,Balochistan,,Bolan,Bajra,1994-95,0,0
+1,Balochistan,,Mastung,Bajra,1994-95,0,0
+1,Balochistan,,Khuzdar,Bajra,1994-95,0.1,0.1
+1,Balochistan,,Awaran,Bajra,1994-95,0,0
+1,Balochistan,,Kharan,Bajra,1994-95,0,0
+1,Balochistan,,Lasbela,Bajra,1994-95,0,0
+1,Balochistan,,Turbat,Bajra,1994-95,0,0
+1,Balochistan,,Panjgoor,Bajra,1994-95,0,0
+1,Balochistan,,Gwadar,Bajra,1994-95,0,0
+1,Balochistan,,Magsi,Bajra,1994-95,0,0
+1,Balochistan,,Kalat,Bajra,1994-95,0,0
+1,Balochistan,,Quetta,Bajra,1995-96,0,0
+1,Balochistan,,Pishin,Bajra,1995-96,0,0
+1,Balochistan,,Killa Abdullah,Bajra,1995-96,0,0
+1,Balochistan,,Chagai,Bajra,1995-96,0.1,0.1
+1,Balochistan,,Loralai,Bajra,1995-96,0,0
+1,Balochistan,,Musa Khail ,Bajra,1995-96,0,0
+1,Balochistan,,Barkhan,Bajra,1995-96,0,0
+1,Balochistan,,Zhob,Bajra,1995-96,0,0
+1,Balochistan,,Killa Saifullah,Bajra,1995-96,0,0
+1,Balochistan,,Sibi,Bajra,1995-96,0,0
+1,Balochistan,,Ziarat,Bajra,1995-96,0,0
+1,Balochistan,,Kohlu,Bajra,1995-96,0.1,0.1
+1,Balochistan,,Kachhi,Bajra,1995-96,0,0
+1,Balochistan,,Bughti,Bajra,1995-96,0.3,0.1
+1,Balochistan,,Nasirabad,Bajra,1995-96,0,0
+1,Balochistan,,Jafferabad ,Bajra,1995-96,0,0
+1,Balochistan,,Tomboo,Bajra,1995-96,0,0
+1,Balochistan,,Bolan,Bajra,1995-96,0,0
+1,Balochistan,,Mastung,Bajra,1995-96,0,0
+1,Balochistan,,Khuzdar,Bajra,1995-96,0.1,0.1
+1,Balochistan,,Awaran,Bajra,1995-96,0,0
+1,Balochistan,,Kharan,Bajra,1995-96,0,0
+1,Balochistan,,Lasbela,Bajra,1995-96,0,0
+1,Balochistan,,Turbat,Bajra,1995-96,0,0
+1,Balochistan,,Panjgoor,Bajra,1995-96,0,0
+1,Balochistan,,Gwadar,Bajra,1995-96,0,0
+1,Balochistan,,Magsi,Bajra,1995-96,0,0
+1,Balochistan,,Kalat,Bajra,1995-96,0,0
+1,Balochistan,,Quetta,Bajra,1996-97,0,0
+1,Balochistan,,Pishin,Bajra,1996-97,0,0
+1,Balochistan,,Killa Abdullah,Bajra,1996-97,0,0
+1,Balochistan,,Chagai,Bajra,1996-97,0,0
+1,Balochistan,,Loralai,Bajra,1996-97,0,0
+1,Balochistan,,Musa Khail ,Bajra,1996-97,0,0
+1,Balochistan,,Barkhan,Bajra,1996-97,0.1,0.1
+1,Balochistan,,Zhob,Bajra,1996-97,0,0
+1,Balochistan,,Killa Saifullah,Bajra,1996-97,0,0
+1,Balochistan,,Sibi,Bajra,1996-97,0,0
+1,Balochistan,,Ziarat,Bajra,1996-97,0,0
+1,Balochistan,,Kohlu,Bajra,1996-97,0.1,0.1
+1,Balochistan,,Kachhi,Bajra,1996-97,0,0
+1,Balochistan,,Bughti,Bajra,1996-97,0.3,0.1
+1,Balochistan,,Nasirabad,Bajra,1996-97,0,0
+1,Balochistan,,Jafferabad ,Bajra,1996-97,0,0
+1,Balochistan,,Tomboo,Bajra,1996-97,0,0
+1,Balochistan,,Bolan,Bajra,1996-97,0,0
+1,Balochistan,,Mastung,Bajra,1996-97,0,0
+1,Balochistan,,Khuzdar,Bajra,1996-97,0.1,0.1
+1,Balochistan,,Awaran,Bajra,1996-97,0,0
+1,Balochistan,,Kharan,Bajra,1996-97,0,0
+1,Balochistan,,Lasbela,Bajra,1996-97,0,0
+1,Balochistan,,Turbat,Bajra,1996-97,0,0
+1,Balochistan,,Panjgoor,Bajra,1996-97,0,0
+1,Balochistan,,Gwadar,Bajra,1996-97,0,0
+1,Balochistan,,Magsi,Bajra,1996-97,0,0
+1,Balochistan,,Kalat,Bajra,1996-97,0,0
+1,Balochistan,,Quetta,Bajra,1997-98,0,0
+1,Balochistan,,Pishin,Bajra,1997-98,0,0
+1,Balochistan,,Killa Abdullah,Bajra,1997-98,0,0
+1,Balochistan,,Chagai,Bajra,1997-98,0.1,0.1
+1,Balochistan,,Loralai,Bajra,1997-98,0,0
+1,Balochistan,,Musa Khail ,Bajra,1997-98,0,0
+1,Balochistan,,Barkhan,Bajra,1997-98,0.1,0
+1,Balochistan,,Zhob,Bajra,1997-98,0,0
+1,Balochistan,,Killa Saifullah,Bajra,1997-98,0,0
+1,Balochistan,,Sibi,Bajra,1997-98,0,0
+1,Balochistan,,Ziarat,Bajra,1997-98,0,0
+1,Balochistan,,Kohlu,Bajra,1997-98,0.1,0.1
+1,Balochistan,,Kachhi,Bajra,1997-98,0,0
+1,Balochistan,,Bughti,Bajra,1997-98,0.3,0.2
+1,Balochistan,,Nasirabad,Bajra,1997-98,0,0
+1,Balochistan,,Jafferabad ,Bajra,1997-98,0,0
+1,Balochistan,,Tomboo,Bajra,1997-98,0,0
+1,Balochistan,,Bolan,Bajra,1997-98,0,0
+1,Balochistan,,Mastung,Bajra,1997-98,0,0
+1,Balochistan,,Khuzdar,Bajra,1997-98,0.1,0.1
+1,Balochistan,,Awaran,Bajra,1997-98,0,0
+1,Balochistan,,Kharan,Bajra,1997-98,0,0
+1,Balochistan,,Lasbela,Bajra,1997-98,0,0
+1,Balochistan,,Turbat,Bajra,1997-98,0,0
+1,Balochistan,,Panjgoor,Bajra,1997-98,0,0
+1,Balochistan,,Gwadar,Bajra,1997-98,0,0
+1,Balochistan,,Magsi,Bajra,1997-98,0,0
+1,Balochistan,,Kalat,Bajra,1997-98,0,0
+1,Balochistan,,Quetta,Bajra,1998-99,0,0
+1,Balochistan,,Pishin,Bajra,1998-99,0,0
+1,Balochistan,,Killa Abdullah,Bajra,1998-99,0,0
+1,Balochistan,,Chagai,Bajra,1998-99,0.1,0.1
+1,Balochistan,,Loralai,Bajra,1998-99,0,0
+1,Balochistan,,Musa Khail ,Bajra,1998-99,0,0
+1,Balochistan,,Barkhan,Bajra,1998-99,0,0
+1,Balochistan,,Zhob,Bajra,1998-99,0,0
+1,Balochistan,,Killa Saifullah,Bajra,1998-99,0,0
+1,Balochistan,,Sibi,Bajra,1998-99,0,0
+1,Balochistan,,Ziarat,Bajra,1998-99,0,0
+1,Balochistan,,Kohlu,Bajra,1998-99,0,0
+1,Balochistan,,Kachhi,Bajra,1998-99,0,0
+1,Balochistan,,Bughti,Bajra,1998-99,0,0
+1,Balochistan,,Nasirabad,Bajra,1998-99,0,0
+1,Balochistan,,Jafferabad ,Bajra,1998-99,0,0
+1,Balochistan,,Tomboo,Bajra,1998-99,0,0
+1,Balochistan,,Bolan,Bajra,1998-99,0,0
+1,Balochistan,,Mastung,Bajra,1998-99,0,0
+1,Balochistan,,Khuzdar,Bajra,1998-99,0.1,0.1
+1,Balochistan,,Awaran,Bajra,1998-99,0,0
+1,Balochistan,,Kharan,Bajra,1998-99,0,0
+1,Balochistan,,Lasbela,Bajra,1998-99,0.1,0.1
+1,Balochistan,,Turbat,Bajra,1998-99,0,0
+1,Balochistan,,Panjgoor,Bajra,1998-99,0,0
+1,Balochistan,,Gwadar,Bajra,1998-99,0,0
+1,Balochistan,,Magsi,Bajra,1998-99,0,0
+1,Balochistan,,Kalat,Bajra,1998-99,0,0
+1,Balochistan,,Quetta,Bajra,1999-00,0,0
+1,Balochistan,,Pishin,Bajra,1999-00,0,0
+1,Balochistan,,Killa Abdullah,Bajra,1999-00,0,0
+1,Balochistan,,Chagai,Bajra,1999-00,0.1,0.1
+1,Balochistan,,Loralai,Bajra,1999-00,0,0
+1,Balochistan,,Musa Khail ,Bajra,1999-00,0,0
+1,Balochistan,,Barkhan,Bajra,1999-00,0,0
+1,Balochistan,,Zhob,Bajra,1999-00,0,0
+1,Balochistan,,Killa Saifullah,Bajra,1999-00,0,0
+1,Balochistan,,Sibi,Bajra,1999-00,0,0
+1,Balochistan,,Ziarat,Bajra,1999-00,0,0
+1,Balochistan,,Kohlu,Bajra,1999-00,0.1,0.1
+1,Balochistan,,Kachhi,Bajra,1999-00,0,0
+1,Balochistan,,Bughti,Bajra,1999-00,0,0
+1,Balochistan,,Nasirabad,Bajra,1999-00,0,0
+1,Balochistan,,Jafferabad ,Bajra,1999-00,0,0
+1,Balochistan,,Tomboo,Bajra,1999-00,0,0
+1,Balochistan,,Bolan,Bajra,1999-00,0,0
+1,Balochistan,,Mastung,Bajra,1999-00,0,0
+1,Balochistan,,Khuzdar,Bajra,1999-00,0,0
+1,Balochistan,,Awaran,Bajra,1999-00,0,0
+1,Balochistan,,Kharan,Bajra,1999-00,0,0
+1,Balochistan,,Lasbela,Bajra,1999-00,0.1,0.1
+1,Balochistan,,Turbat,Bajra,1999-00,0,0
+1,Balochistan,,Panjgoor,Bajra,1999-00,0,0
+1,Balochistan,,Gwadar,Bajra,1999-00,0,0
+1,Balochistan,,Magsi,Bajra,1999-00,0,0
+1,Balochistan,,Kalat,Bajra,1999-00,0,0
+1,Balochistan,,Quetta,Bajra,2000-01,0,0
+1,Balochistan,,Pishin,Bajra,2000-01,0,0
+1,Balochistan,,Killa Abdullah,Bajra,2000-01,0,0
+1,Balochistan,,Chagai,Bajra,2000-01,0,0
+1,Balochistan,,Loralai,Bajra,2000-01,0,0
+1,Balochistan,,Musa Khail ,Bajra,2000-01,0,0
+1,Balochistan,,Barkhan,Bajra,2000-01,0,0
+1,Balochistan,,Zhob,Bajra,2000-01,0,0
+1,Balochistan,,Killa Saifullah,Bajra,2000-01,0,0
+1,Balochistan,,Sibi,Bajra,2000-01,0,0
+1,Balochistan,,Ziarat,Bajra,2000-01,0,0
+1,Balochistan,,Kohlu,Bajra,2000-01,0,0
+1,Balochistan,,Kachhi,Bajra,2000-01,0,0
+1,Balochistan,,Bughti,Bajra,2000-01,0.1,0.1
+1,Balochistan,,Nasirabad,Bajra,2000-01,0,0
+1,Balochistan,,Jafferabad ,Bajra,2000-01,0,0
+1,Balochistan,,Tomboo,Bajra,2000-01,0,0
+1,Balochistan,,Bolan,Bajra,2000-01,0,0
+1,Balochistan,,Mastung,Bajra,2000-01,0,0
+1,Balochistan,,Khuzdar,Bajra,2000-01,0.1,0.1
+1,Balochistan,,Awaran,Bajra,2000-01,0,0
+1,Balochistan,,Kharan,Bajra,2000-01,0,0
+1,Balochistan,,Lasbela,Bajra,2000-01,0.1,0
+1,Balochistan,,Turbat,Bajra,2000-01,0,0
+1,Balochistan,,Panjgoor,Bajra,2000-01,0,0
+1,Balochistan,,Gwadar,Bajra,2000-01,0.3,0.2
+1,Balochistan,,Magsi,Bajra,2000-01,0,0
+1,Balochistan,,Kalat,Bajra,2000-01,0,0
+1,Balochistan,,Quetta,Bajra,2001-02,0,0
+1,Balochistan,,Pishin,Bajra,2001-02,0,0
+1,Balochistan,,Killa Abdullah,Bajra,2001-02,0,0
+1,Balochistan,,Chagai,Bajra,2001-02,0,0
+1,Balochistan,,Loralai,Bajra,2001-02,0,0
+1,Balochistan,,Musa Khail ,Bajra,2001-02,0,0
+1,Balochistan,,Barkhan,Bajra,2001-02,0,0
+1,Balochistan,,Zhob,Bajra,2001-02,0,0
+1,Balochistan,,Killa Saifullah,Bajra,2001-02,0,0
+1,Balochistan,,Sibi,Bajra,2001-02,0,0
+1,Balochistan,,Ziarat,Bajra,2001-02,0,0
+1,Balochistan,,Kohlu,Bajra,2001-02,0,0
+1,Balochistan,,Kachhi,Bajra,2001-02,0,0
+1,Balochistan,,Bughti,Bajra,2001-02,0,0
+1,Balochistan,,Nasirabad,Bajra,2001-02,0,0
+1,Balochistan,,Jafferabad ,Bajra,2001-02,0,0
+1,Balochistan,,Tomboo,Bajra,2001-02,0,0
+1,Balochistan,,Bolan,Bajra,2001-02,0,0
+1,Balochistan,,Mastung,Bajra,2001-02,0,0
+1,Balochistan,,Khuzdar,Bajra,2001-02,0,0
+1,Balochistan,,Awaran,Bajra,2001-02,0,0
+1,Balochistan,,Kharan,Bajra,2001-02,0,0
+1,Balochistan,,Lasbela,Bajra,2001-02,0.1,0.1
+1,Balochistan,,Turbat,Bajra,2001-02,0,0
+1,Balochistan,,Panjgoor,Bajra,2001-02,0,0
+1,Balochistan,,Gwadar,Bajra,2001-02,0.4,0.2
+1,Balochistan,,Magsi,Bajra,2001-02,0,0
+1,Balochistan,,Kalat,Bajra,2001-02,0,0
+1,Balochistan,,Quetta,Bajra,2002-03,0,0
+1,Balochistan,,Pishin,Bajra,2002-03,0,0
+1,Balochistan,,Killa Abdullah,Bajra,2002-03,0,0
+1,Balochistan,,Chagai,Bajra,2002-03,0,0
+1,Balochistan,,Loralai,Bajra,2002-03,0,0
+1,Balochistan,,Musa Khail ,Bajra,2002-03,0,0
+1,Balochistan,,Barkhan,Bajra,2002-03,0,0
+1,Balochistan,,Zhob,Bajra,2002-03,0,0
+1,Balochistan,,Killa Saifullah,Bajra,2002-03,0,0
+1,Balochistan,,Sibi,Bajra,2002-03,0,0
+1,Balochistan,,Ziarat,Bajra,2002-03,0,0
+1,Balochistan,,Kohlu,Bajra,2002-03,0,0
+1,Balochistan,,Kachhi,Bajra,2002-03,0,0
+1,Balochistan,,Bughti,Bajra,2002-03,0,0
+1,Balochistan,,Nasirabad,Bajra,2002-03,0,0
+1,Balochistan,,Jafferabad ,Bajra,2002-03,0,0
+1,Balochistan,,Tomboo,Bajra,2002-03,0,0
+1,Balochistan,,Bolan,Bajra,2002-03,0,0
+1,Balochistan,,Mastung,Bajra,2002-03,0,0
+1,Balochistan,,Khuzdar,Bajra,2002-03,0,0
+1,Balochistan,,Awaran,Bajra,2002-03,0,0
+1,Balochistan,,Kharan,Bajra,2002-03,0,0
+1,Balochistan,,Lasbela,Bajra,2002-03,0,0
+1,Balochistan,,Turbat,Bajra,2002-03,0,0
+1,Balochistan,,Panjgoor,Bajra,2002-03,0,0
+1,Balochistan,,Gwadar,Bajra,2002-03,0.4,0.2
+1,Balochistan,,Magsi,Bajra,2002-03,0,0
+1,Balochistan,,Kalat,Bajra,2002-03,0,0
+1,Balochistan,,Quetta,Bajra,2003-04,0,0
+1,Balochistan,,Pishin,Bajra,2003-04,0,0
+1,Balochistan,,Killa Abdullah,Bajra,2003-04,0,0
+1,Balochistan,,Chagai,Bajra,2003-04,0,0
+1,Balochistan,,Loralai,Bajra,2003-04,0,0
+1,Balochistan,,Musa Khail ,Bajra,2003-04,0,0
+1,Balochistan,,Barkhan,Bajra,2003-04,0,0
+1,Balochistan,,Zhob,Bajra,2003-04,0,0
+1,Balochistan,,Killa Saifullah,Bajra,2003-04,0,0
+1,Balochistan,,Sibi,Bajra,2003-04,0,0
+1,Balochistan,,Ziarat,Bajra,2003-04,0,0
+1,Balochistan,,Kohlu,Bajra,2003-04,0,0
+1,Balochistan,,Kachhi,Bajra,2003-04,0,0
+1,Balochistan,,Bughti,Bajra,2003-04,0,0
+1,Balochistan,,Nasirabad,Bajra,2003-04,0,0
+1,Balochistan,,Jafferabad ,Bajra,2003-04,0,0
+1,Balochistan,,Tomboo,Bajra,2003-04,0,0
+1,Balochistan,,Bolan,Bajra,2003-04,0,0
+1,Balochistan,,Mastung,Bajra,2003-04,0,0
+1,Balochistan,,Khuzdar,Bajra,2003-04,0.1,0
+1,Balochistan,,Awaran,Bajra,2003-04,0,0
+1,Balochistan,,Kharan,Bajra,2003-04,0,0
+1,Balochistan,,Lasbela,Bajra,2003-04,0.1,0.1
+1,Balochistan,,Turbat,Bajra,2003-04,0,0
+1,Balochistan,,Panjgoor,Bajra,2003-04,0,0
+1,Balochistan,,Gwadar,Bajra,2003-04,0.1,0.1
+1,Balochistan,,Magsi,Bajra,2003-04,0,0
+1,Balochistan,,Kalat,Bajra,2003-04,0,0
+1,Balochistan,,Quetta,Bajra,2004-05,0,0
+1,Balochistan,,Pishin,Bajra,2004-05,0,0
+1,Balochistan,,Killa Abdullah,Bajra,2004-05,0,0
+1,Balochistan,,Chagai,Bajra,2004-05,0.1,0.1
+1,Balochistan,,Loralai,Bajra,2004-05,0,0
+1,Balochistan,,Musa Khail ,Bajra,2004-05,0,0
+1,Balochistan,,Barkhan,Bajra,2004-05,0,0
+1,Balochistan,,Zhob,Bajra,2004-05,0,0
+1,Balochistan,,Killa Saifullah,Bajra,2004-05,0,0
+1,Balochistan,,Sibi,Bajra,2004-05,0,0
+1,Balochistan,,Ziarat,Bajra,2004-05,0,0
+1,Balochistan,,Kohlu,Bajra,2004-05,0,0
+1,Balochistan,,Kachhi,Bajra,2004-05,0,0
+1,Balochistan,,Bughti,Bajra,2004-05,0.1,0.1
+1,Balochistan,,Nasirabad,Bajra,2004-05,0,0
+1,Balochistan,,Jafferabad ,Bajra,2004-05,0.1,0
+1,Balochistan,,Tomboo,Bajra,2004-05,0,0
+1,Balochistan,,Bolan,Bajra,2004-05,0,0
+1,Balochistan,,Mastung,Bajra,2004-05,0,0
+1,Balochistan,,Khuzdar,Bajra,2004-05,0.2,0.2
+1,Balochistan,,Awaran,Bajra,2004-05,0,0
+1,Balochistan,,Kharan,Bajra,2004-05,0,0
+1,Balochistan,,Lasbela,Bajra,2004-05,0.1,0.1
+1,Balochistan,,Turbat,Bajra,2004-05,0,0
+1,Balochistan,,Panjgoor,Bajra,2004-05,0,0
+1,Balochistan,,Gwadar,Bajra,2004-05,0,0
+1,Balochistan,,Magsi,Bajra,2004-05,0,0
+1,Balochistan,,Kalat,Bajra,2004-05,0,0
+1,Balochistan,,Quetta,Bajra,2005-06,0,0
+1,Balochistan,,Pishin,Bajra,2005-06,0,0
+1,Balochistan,,Killa Abdullah,Bajra,2005-06,0,0
+1,Balochistan,,Chagai,Bajra,2005-06,0.2,0.2
+1,Balochistan,,Loralai,Bajra,2005-06,0,0
+1,Balochistan,,Musa Khail ,Bajra,2005-06,0.4,0.3
+1,Balochistan,,Barkhan,Bajra,2005-06,0,0
+1,Balochistan,,Zhob,Bajra,2005-06,0,0
+1,Balochistan,,Killa Saifullah,Bajra,2005-06,0,0
+1,Balochistan,,Sibi,Bajra,2005-06,0,0
+1,Balochistan,,Ziarat,Bajra,2005-06,0,0
+1,Balochistan,,Kohlu,Bajra,2005-06,0,0
+1,Balochistan,,Kachhi,Bajra,2005-06,0,0
+1,Balochistan,,Bughti,Bajra,2005-06,0.1,0.1
+1,Balochistan,,Nasirabad,Bajra,2005-06,0,0
+1,Balochistan,,Jafferabad ,Bajra,2005-06,0.1,0
+1,Balochistan,,Tomboo,Bajra,2005-06,0,0
+1,Balochistan,,Bolan,Bajra,2005-06,0,0
+1,Balochistan,,Mastung,Bajra,2005-06,0,0
+1,Balochistan,,Khuzdar,Bajra,2005-06,0.3,0.2
+1,Balochistan,,Awaran,Bajra,2005-06,0,0
+1,Balochistan,,Kharan,Bajra,2005-06,0,0
+1,Balochistan,,Lasbela,Bajra,2005-06,0,0
+1,Balochistan,,Turbat,Bajra,2005-06,0,0
+1,Balochistan,,Panjgoor,Bajra,2005-06,0,0
+1,Balochistan,,Gwadar,Bajra,2005-06,0,0
+1,Balochistan,,Magsi,Bajra,2005-06,0,0
+1,Balochistan,,Kalat,Bajra,2005-06,0,0
+1,Balochistan,,Quetta,Bajra,2006-07,0,0
+1,Balochistan,,Pishin,Bajra,2006-07,0,0
+1,Balochistan,,Killa Abdullah,Bajra,2006-07,0,0
+1,Balochistan,,Chagai,Bajra,2006-07,0.2,0.2
+1,Balochistan,,Loralai,Bajra,2006-07,*,*
+1,Balochistan,,Musa Khail ,Bajra,2006-07,0.5,0.3
+1,Balochistan,,Barkhan,Bajra,2006-07,0,0
+1,Balochistan,,Zhob,Bajra,2006-07,0,0
+1,Balochistan,,Killa Saifullah,Bajra,2006-07,0,0
+1,Balochistan,,Sibi,Bajra,2006-07,0,0
+1,Balochistan,,Ziarat,Bajra,2006-07,0,0
+1,Balochistan,,Kohlu,Bajra,2006-07,*,*
+1,Balochistan,,Kachhi,Bajra,2006-07,0,0
+1,Balochistan,,Bughti,Bajra,2006-07,0.1,0.1
+1,Balochistan,,Nasirabad,Bajra,2006-07,0.1,*
+1,Balochistan,,Jafferabad ,Bajra,2006-07,0.1,*
+1,Balochistan,,Tomboo,Bajra,2006-07,0,0
+1,Balochistan,,Bolan,Bajra,2006-07,0,0
+1,Balochistan,,Mastung,Bajra,2006-07,0,0
+1,Balochistan,,Khuzdar,Bajra,2006-07,0.3,0.3
+1,Balochistan,,Awaran,Bajra,2006-07,0,0
+1,Balochistan,,Kharan,Bajra,2006-07,0,0
+1,Balochistan,,Lasbela,Bajra,2006-07,0,0
+1,Balochistan,,Turbat,Bajra,2006-07,0,0
+1,Balochistan,,Panjgoor,Bajra,2006-07,0,0
+1,Balochistan,,Gwadar,Bajra,2006-07,0,0
+1,Balochistan,,Magsi,Bajra,2006-07,0,0
+1,Balochistan,,Kalat,Bajra,2006-07,0,0
+1,Balochistan,,Quetta,Bajra,2007-08,0,0
+1,Balochistan,,Pishin,Bajra,2007-08,0,0
+1,Balochistan,,Killa Abdullah,Bajra,2007-08,0,0
+1,Balochistan,,Chagai,Bajra,2007-08,0.2,0.2
+1,Balochistan,,Loralai,Bajra,2007-08,*,*
+1,Balochistan,,Musa Khail ,Bajra,2007-08,0.4,0.3
+1,Balochistan,,Barkhan,Bajra,2007-08,0.1,*
+1,Balochistan,,Zhob,Bajra,2007-08,0,0
+1,Balochistan,,Killa Saifullah,Bajra,2007-08,0,0
+1,Balochistan,,Sibi,Bajra,2007-08,0,0
+1,Balochistan,,Ziarat,Bajra,2007-08,0,0
+1,Balochistan,,Kohlu,Bajra,2007-08,*,*
+1,Balochistan,,Kachhi,Bajra,2007-08,0,0
+1,Balochistan,,Bughti,Bajra,2007-08,2.4,1.2
+1,Balochistan,,Nasirabad,Bajra,2007-08,*,*
+1,Balochistan,,Jafferabad ,Bajra,2007-08,*,*
+1,Balochistan,,Tomboo,Bajra,2007-08,0,0
+1,Balochistan,,Bolan,Bajra,2007-08,0,0
+1,Balochistan,,Mastung,Bajra,2007-08,0,0
+1,Balochistan,,Khuzdar,Bajra,2007-08,0.3,0.3
+1,Balochistan,,Awaran,Bajra,2007-08,0,0
+1,Balochistan,,Kharan,Bajra,2007-08,0.2,0.1
+1,Balochistan,,Lasbela,Bajra,2007-08,0.2,0.1
+1,Balochistan,,Turbat,Bajra,2007-08,0,0
+1,Balochistan,,Panjgoor,Bajra,2007-08,0,0
+1,Balochistan,,Gwadar,Bajra,2007-08,0,0
+1,Balochistan,,Magsi,Bajra,2007-08,0,0
+1,Balochistan,,Kalat,Bajra,2007-08,0,0
+1,Balochistan,,Quetta,Bajra,2008-09,0,0
+1,Balochistan,,Pishin,Bajra,2008-09,0,0
+1,Balochistan,,Killa Abdullah,Bajra,2008-09,0,0
+1,Balochistan,,Chagai,Bajra,2008-09,0.2,0.2
+1,Balochistan,,Loralai,Bajra,2008-09,0.1,*
+1,Balochistan,,Musa Khail ,Bajra,2008-09,0.6,0.4
+1,Balochistan,,Barkhan,Bajra,2008-09,0.1,*
+1,Balochistan,,Zhob,Bajra,2008-09,0,0
+1,Balochistan,,Killa Saifullah,Bajra,2008-09,0,0
+1,Balochistan,,Sibi,Bajra,2008-09,0,0
+1,Balochistan,,Ziarat,Bajra,2008-09,0,0
+1,Balochistan,,Kohlu,Bajra,2008-09,0,*
+1,Balochistan,,Kachhi,Bajra,2008-09,0,0
+1,Balochistan,,Bughti,Bajra,2008-09,2,1.1
+1,Balochistan,,Nasirabad,Bajra,2008-09,0,*
+1,Balochistan,,Jafferabad ,Bajra,2008-09,0,*
+1,Balochistan,,Tomboo,Bajra,2008-09,0,0
+1,Balochistan,,Bolan,Bajra,2008-09,0,0
+1,Balochistan,,Mastung,Bajra,2008-09,0,0
+1,Balochistan,,Khuzdar,Bajra,2008-09,0.3,0.2
+1,Balochistan,,Awaran,Bajra,2008-09,0,0
+1,Balochistan,,Kharan,Bajra,2008-09,0,*
+1,Balochistan,,Lasbela,Bajra,2008-09,0.1,0.1
+1,Balochistan,,Turbat,Bajra,2008-09,0,0
+1,Balochistan,,Panjgoor,Bajra,2008-09,0.1,0.1
+1,Balochistan,,Gwadar,Bajra,2008-09,0,0
+1,Balochistan,,Magsi,Bajra,2008-09,0,0
+1,Balochistan,,Kalat,Bajra,2008-09,0,0
